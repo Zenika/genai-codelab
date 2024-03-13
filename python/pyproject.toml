@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "genai-codelab"
+version = "0.1.0"
+description = ""
+authors = ["glefloch <glfloch@gmail.com>"]
+readme = "README.md"
+packages = [{include = "genai_codelab"}]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.9.7 || >3.9.7,<4.0"
+streamlit = "^1.32.1"
+langchain = "^0.1.12"
+ollama = "^0.1.7"
+langchain-community = "^0.0.28"
+bs4 = "^0.0.2"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.2.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
