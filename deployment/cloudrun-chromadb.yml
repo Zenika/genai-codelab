@@ -1,0 +1,57 @@
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  annotations:
+    run.googleapis.com/ingress: all
+    run.googleapis.com/ingress-status: all
+    run.googleapis.com/launch-stage: BETA
+    run.googleapis.com/minScale: '0'
+  labels:
+  name: chromadb
+spec:
+  template:
+    metadata:
+      annotations:
+        autoscaling.knative.dev/maxScale: '2'
+        run.googleapis.com/client-name: cloud-console
+        run.googleapis.com/startup-cpu-boost: 'true'
+      labels:
+        run.googleapis.com/startupProbeType: Default
+    spec:
+      containerConcurrency: 80
+      containers:
+      - image: chromadb/chroma
+        livenessProbe:
+          failureThreshold: 3
+          httpGet:
+            path: /docs
+            port: 8000
+          periodSeconds: 10
+          timeoutSeconds: 1
+        name: chromadb-container
+        ports:
+        - containerPort: 8000
+          name: http1
+        resources:
+          limits:
+            cpu: 2000m
+            memory: 4Gi
+        startupProbe:
+          failureThreshold: 1
+          periodSeconds: 240
+          tcpSocket:
+            port: 8000
+          timeoutSeconds: 240
+        volumeMounts:
+        - mountPath: /chroma/.chroma/index
+          name: local-index
+      timeoutSeconds: 300
+      volumes:
+      - csi:
+          driver: gcsfuse.run.googleapis.com
+          volumeAttributes:
+            bucketName: chroma-local-data
+        name: local-index
+  traffic:
+  - latestRevision: true
+    percent: 100

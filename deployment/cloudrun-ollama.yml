@@ -1,0 +1,57 @@
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  annotations:
+    run.googleapis.com/ingress: all
+    run.googleapis.com/ingress-status: all
+    run.googleapis.com/launch-stage: BETA
+    run.googleapis.com/minScale: '0'
+  labels:
+  name: ollama
+spec:
+  template:
+    metadata:
+      annotations:
+        autoscaling.knative.dev/maxScale: '2'
+        run.googleapis.com/client-name: cloud-console
+        run.googleapis.com/startup-cpu-boost: 'true'
+      labels:
+        run.googleapis.com/startupProbeType: Default
+    spec:
+      containerConcurrency: 80
+      containers:
+      - image: ollama/ollama:0.1.29
+        livenessProbe:
+          failureThreshold: 3
+          httpGet:
+            path: /api/tags
+            port: 11434
+          periodSeconds: 10
+          timeoutSeconds: 1
+        name: ollama-1
+        ports:
+        - containerPort: 11434
+          name: http1
+        resources:
+          limits:
+            cpu: 4000m
+            memory: 8Gi
+        startupProbe:
+          failureThreshold: 1
+          periodSeconds: 240
+          tcpSocket:
+            port: 11434
+          timeoutSeconds: 240
+        volumeMounts:
+        - mountPath: /root/.ollama
+          name: local-model
+      timeoutSeconds: 300
+      volumes:
+      - csi:
+          driver: gcsfuse.run.googleapis.com
+          volumeAttributes:
+            bucketName: ollama-local-models
+        name: local-model
+  traffic:
+  - latestRevision: true
+    percent: 100
