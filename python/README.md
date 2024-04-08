@@ -17,7 +17,7 @@ poetry install
 Le suite du codelab aura lieu dans `src/app.py`
 
 
-Assurez-vous également que `Ollama` est démarrer, accessible et que le modèle Mistral7B est bien disponible.
+Assurez-vous également que `Ollama` est démarré, accessible et que le modèle Mistral7B est bien disponible.
 Pour cela vous pouvez accéder à l'URL suivante: (http://localhost:11434/api/tags)[http://localhost:11434/api/tags] et valider que Mistral est bien présent.
 
 ## Premier pas
@@ -100,10 +100,10 @@ poetry run python src/app.py
 
 ### Temperature 
 
-Afin de limiter les hallucinations des modèles, il est possible de faire varier le paramètre `temperature`. 
-Ce paramètre (compris entre 0 et 1) permet de définir la "créativité" du modèle. 
-Plus la valeur est proche de 1, plus le modèle va pouvoir halluciner.
-Plus la valeur est proche de 0, plus le modèle va être déterministe, il choisira toujours le mots avec la statistique la plus élevée.
+Afin de générer des variations dans les réponses apportées par les modèles, il est possible de faire varier le paramètre `temperature`. Il permet de définir le degré de "créativité" du modèle. En effet, la sortie d'un modèle de langage génératif basé sur les transformers est la suite de token (que par simplicité nous pouvons considérer comme des mots) qui complète la suite de token (ou mots) donnés en input. Grâce aux poids réglés lors du préentrainément, le modèle détermine les tokens qui ont la probabilité la plus grande de compléter une suite fournie en entrée. Par défaut, il choisit toujours ceux qui ont la probabilité la plus haute. Agir sur la température permet d'augmenter l'ensemble des tokens choisis, en allant chercher ceux qui ont des probabilités plus basse de survenir.
+Ce paramètre (compris entre 0 et 1).
+Plus la valeur est proche de 1, plus le modèle va être "créatif", c'est à dire qu'il choisira des mots moins probables de survenir d'après les dataset qui ont servi à l'entrainé.
+Plus la valeur est proche de 0, plus le modèle va être déterministe, il choisira toujours le mots avec la probabilité la plus élevée.
 
 --- 
 > Règles de bases
