@@ -151,8 +151,9 @@ Nous pouvons créer notre `chain` via le code suivant:
 ```python
 chain = prompt | llm
 ```
+Ce code est écrit avec LCEL (LangChain Expression Language). 
 
-L'invocation de notre model ese fait maintenant en appelant:
+L'invocation de notre modèle se fait maintenant en appelant:
 
 ```python
 print(chain.invoke({'regexp': '^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$'}))
