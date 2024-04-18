@@ -357,6 +357,44 @@ Une fois les embeddings généré, on peut les insérer dans une base de donnée
 
 Pour ce codelab, nous allons utiliser Qdrant. 
 
+Avant de pouvoir indexer un document, il faut le charger. Langchain fournit un ensemble de `Loader` permettant de charger tout type de documents (PDF, texte, site web, ...)
+
+Dans notre cas, nous allons nous baser sur des fichiers PDF. 
+Pour charger un docuement, on peut utiliser le code suivant: 
+
+```python
+from langchain_community.document_loaders import UnstructuredFileLoader
+
+document = UnstructuredFileLoader("./example_data/state_of_the_union.txt").load() 
+```
+
+Une fois le document chargé, on peut le découper grace à un `TextSplitter`:
+
+```python
+from langchain_text_splitters import CharacterTextSplitter
+
+text_splitter = CharacterTextSplitter(
+    separator="\n\n",
+    chunk_size=1000,
+    chunk_overlap=200,
+    length_function=len,
+    is_separator_regex=False,
+)
+
+docs = text_splitter.split_documents(document)
+```
+
+Puis les indexer via: 
+
+```python
+Qdrant.from_documents(
+                docs,
+                embeddings_generator,
+                url=QDRANT_URL,
+                collection_name=<INDEX_NAME>,
+                content_payload_key='page_content',
+            )
+```
 
 ### Utilisation du RAG
 
@@ -379,7 +417,7 @@ from langchain_community.vectorstores.qdrant import Qdrant
 qdrant = Qdrant(
     client=qdrant_client,
     collection_name=<INDEX_NAME>,
-    embeddings=embeddings
+    embeddings=embeddings_generator
 )
 ```
 
