@@ -167,9 +167,9 @@ const fewShotPrompt = new FewShotChatMessagePromptTemplate({
 Pour invoquer notre modèle:
 
 ```javascript
-const fewShotChain = fewShotPrompt.pipe(llm)
-const result = await fewShotChain.invoke({animal: 'lion'});
-console.log(result.conten);
+const formattedPrompt = await fewShotPrompt.format({input: 'lion'})
+const response = await llm.invoke(formattedPrompt)
+console.log(response.conten);
 ```
 
 
