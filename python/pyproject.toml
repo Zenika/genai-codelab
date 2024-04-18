@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["glefloch <glfloch@gmail.com>"]
 readme = "README.md"
-packages = [{include = "genai_codelab"}]
+packages = [{include = "src"}]
 
 [tool.poetry.dependencies]
 python = ">=3.9,<3.9.7 || >3.9.7,<3.12"
@@ -15,8 +15,9 @@ langchain-community = "^0.0.28"
 bs4 = "^0.0.2"
 chromadb = "^0.4.24"
 pypdf = "^4.1.0"
-unstructured = "^0.12.6"
 qdrant-client = "^1.8.2"
+unstructured = {version= "^0.13.2", extras = ["pdf"]}
+transformers = "^4.40.0"
 
 
 [tool.poetry.group.dev.dependencies]

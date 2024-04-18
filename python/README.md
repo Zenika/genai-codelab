@@ -428,25 +428,30 @@ with tab_memory:
 
 ## Retrieval augmented generation
 
-Maintenant que l'on a quelque chose qui fonctionne, l'objectif va être de données de plus en plus de contexte à notre modèle
+Maintenant que l'on a quelque chose qui fonctionne, l'objectif va être de donner de plus en plus de contexte à notre modèle
 afin qu'il génère des réponses associées à notre besoins. 
 
-Pour cela, deux grandes étapes sont nécessaires: 
-* Dans un premier temps, indexer les données dans une base de données (avec un support vectoriel)
+Cette étape est aussi cruciale dès lors qu'un LLM est limité en terme de nombre de tokens fournis en entrée. Le RAG mais aussi le résumé de l'historique sont des méthodes pour contourner cette limitation.
+
+Pour mettre en place du RAG, deux grandes étapes sont nécessaires: 
+* Dans un premier temps, la **préparation** des données : indexer les données dans une base de données (avec un support vectoriel)
     * Cela nécessite d'extraire les données des documents
-    * Découper ces données en `chunk` de taille suffisante pour contenir des bouts de documents 
-    * Calculer les `embeddings` associer à chacun de ces chunks
+    * Découper ces données en `chunk` de taille suffisante pour contenir des parties de documents 
+    * Calculer les `embeddings` associés à chacun de ces chunks
 
 * Au moment de la recherche:
     * Calculer les embeddings liés à la recherche 
     * Chercher les chunks associés à cette recherche
     * Générer une réponse basée sur le contenu des documents 
 
+![Architecture RAG](image/RAG_schema.png)
+
 
 ### Génération d'embedding
 
-Pour construire notre base de connaissance, nous allons devoir convertir nos documents / donnée en embeddings.
-Il y a différents algorithm / librairie permettant de générer des embeddings. 
+Pour construire notre base de connaissance, nous allons devoir convertir nos documents / données en embeddings (représentation vectorielle d'un texte). Cette étape nous permettra ainsi de faire de la comparaison entre le vecteur représentant la requête utilisateur et les parties de documents pertinentes.
+
+Il y a différentes librairies permettant de générer des embeddings. Concrètement, on utilise un sous-ensemble de l'architecture d'un LLM.
 LangChain fournit différentes intégration pour générer les embeddings en fonction du model utilisé. 
 
 Dans notre cas, nous allons utiliser le code suivant: 
@@ -467,6 +472,7 @@ text_embedding = embeddings_generator.embed_query(text)
 # Affichage du début de l'embedding
 print(text_embedding[:5]) 
 ```
+*Remarque : le premier run est assez lent, les suivants seront plus rapides*
 
 Les embeddings ayant un taille maximale (dépendant du model), l'indexation d'un document complet nécessite le découpage 
 du document en `chunk`. 
@@ -479,23 +485,81 @@ Une fois les embeddings généré, on peut les insérer dans une base de donnée
 * Lance
 * Qdrant
 
-Pour ce codelab, nous allons utiliser Qdrant. 
+Pour ce codelab, nous allons utiliser **Qdrant**. 
 
+Première étape, installer la base Qdrant en local : 
+
+```shell
+docker pull qdrant/qdrant
+docker run -d -p 6333:6333 qdrant/qdrant
+```
+
+Avant de pouvoir indexer un document, il faut le charger. Langchain fournit un ensemble de `Loader` permettant de charger tout type de documents (PDF, texte, site web, ...)
+
+Dans notre cas, nous allons nous baser sur des fichiers PDF. 
+
+Nous allons d'abord écrire le chargement du document dans la base vectorielle. Créez pour cela un fichier `indexer.py`
+Pour charger un document, on peut utiliser le code suivant: 
+
+```python
+from langchain_community.document_loaders import UnstructuredFileLoader
+
+document = UnstructuredFileLoader("data/Nantes.pdf").load() 
+```
+
+Une fois le document chargé, on peut le découper grace à un `TextSplitter`:
+
+```python
+from langchain_text_splitters import CharacterTextSplitter
+
+text_splitter = CharacterTextSplitter(
+    separator="\n\n",
+    chunk_size=1000,
+    chunk_overlap=200,
+    length_function=len,
+    is_separator_regex=False,
+)
+
+docs = text_splitter.split_documents(document)
+```
+
+Puis les indexer via: 
+
+```python
+from langchain_community.vectorstores.qdrant import Qdrant
+
+QDRANT_URL = "http://localhost:6333"
+
+Qdrant.from_documents(
+                docs,
+                embeddings_generator,
+                url=QDRANT_URL,
+                collection_name=<INDEX_NAME>,
+                content_payload_key='page_content',
+                force_recreate=True
+            )
+```
+*Remplacez `<INDEX_NAME>` par le nom de votre choix pour votre collection d'indexation*
 
 ### Utilisation du RAG
 
+A partir de maintenant, vous pouvez changer de fichier `retrieval.py`
 Afin de d'appeler notre RAG, nous allons avoir besoin d'une connexion à notre base de données QDrant:
 
 ```python
 from qdrant_client import QdrantClient
 
-client = QdrantClient(
+QDRANT_URL = "http://localhost:6333"
+
+qdrant_client = QdrantClient(
         QDRANT_URL,
-        prefer_grpc=True
+        prefer_grpc=False
     )
 ```
 
 Ce client peut ensuite être wrapper dans l'abstraction LangChain
+
+Remplacez `<INDEX_NAME>` par le nom de la collection saisie précédemment
 
 ```python
 from langchain_community.vectorstores.qdrant import Qdrant
@@ -503,7 +567,7 @@ from langchain_community.vectorstores.qdrant import Qdrant
 qdrant = Qdrant(
     client=qdrant_client,
     collection_name=<INDEX_NAME>,
-    embeddings=embeddings
+    embeddings=embeddings_generator
 )
 ```
 
@@ -519,8 +583,10 @@ rag = RetrievalQA.from_chain_type(
 )
 ```
 
-Le RAG peut ensuite être appelé de la façon suivante:
+Le RAG peut ensuite être appelé avec une question de votre choix, de la façon suivante:
 
 ```python
-rag.invoke("question contextualiser à un problème")
+response = rag.invoke("How many person live in Nantes ?")
+
+print(response)
 ```
