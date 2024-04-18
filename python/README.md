@@ -502,9 +502,9 @@ Nous allons d'abord écrire le chargement du document dans la base vectorielle. 
 Pour charger un document, on peut utiliser le code suivant: 
 
 ```python
-from langchain_community.document_loaders import UnstructuredFileLoader
+from langchain_community.document_loaders.pdf import UnstructuredPDFLoader
 
-document = UnstructuredFileLoader("data/Nantes.pdf").load() 
+document = UnstructuredPDFLoader("data/Nantes.pdf", strategy="fast").load() 
 ```
 
 Une fois le document chargé, on peut le découper grace à un `TextSplitter`:
@@ -574,19 +574,23 @@ qdrant = Qdrant(
 Puis nous pouvons créer la `chain` permettant d'avoir le lien entre notre prompt d'entrée, la base de données vectorielle, et la réponse:
 
 ```python
-from langchain.chains import RetrievalQA
+from langchain.chains.qa_with_sources.retrieval import RetrievalQAWithSourcesChain
 
-rag = RetrievalQA.from_chain_type(
+rag = RetrievalQAWithSourcesChain.from_chain_type(
     llm=llm,
     chain_type='stuff',
     retriever=qdrant.as_retriever(),
+    return_source_documents=True
 )
 ```
 
 Le RAG peut ensuite être appelé avec une question de votre choix, de la façon suivante:
 
 ```python
-response = rag.invoke("How many person live in Nantes ?")
+response = rag.invoke({"question": "How many person live in Nantes ?"})
 
-print(response)
+print(response['answer'])
+
+print("based on: ")
+print(response['source_documents'])
 ```
