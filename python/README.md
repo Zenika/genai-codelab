@@ -302,3 +302,101 @@ Et inféré via l'appel à la méthode `predict`:
 conversation_chain.predict(input="what was my previous question ?")
 ```
 
+## Retrieval augmented generation
+
+Maintenant que l'on a quelque chose qui fonctionne, l'objectif va être de données de plus en plus de contexte à notre modèle
+afin qu'il génère des réponses associées à notre besoins. 
+
+Pour cela, deux grandes étapes sont nécessaires: 
+* Dans un premier temps, indexer les données dans une base de données (avec un support vectoriel)
+    * Cela nécessite d'extraire les données des documents
+    * Découper ces données en `chunk` de taille suffisante pour contenir des bouts de documents 
+    * Calculer les `embeddings` associer à chacun de ces chunks
+
+* Au moment de la recherche:
+    * Calculer les embeddings liés à la recherche 
+    * Chercher les chunks associés à cette recherche
+    * Générer une réponse basée sur le contenu des documents 
+
+
+### Génération d'embedding
+
+Pour construire notre base de connaissance, nous allons devoir convertir nos documents / donnée en embeddings.
+Il y a différents algorithm / librairie permettant de générer des embeddings. 
+LangChain fournit différentes intégration pour générer les embeddings en fonction du model utilisé. 
+
+Dans notre cas, nous allons utiliser le code suivant: 
+
+```python
+from langchain_community.embeddings import OllamaEmbeddings
+
+embeddings_generator = OllamaEmbeddings(model = 'openhermes')
+```
+
+Nous pouvons tester que le générateur fonctionne correctement avec le code suivant:
+
+```python
+text = 'this is a sentence'
+
+text_embedding = embeddings_generator.embed_query(text)
+
+# Affichage du début de l'embedding
+print(text_embedding[:5]) 
+```
+
+Les embeddings ayant un taille maximale (dépendant du model), l'indexation d'un document complet nécessite le découpage 
+du document en `chunk`. 
+Pour cela, LangChain met à disposition un ensemble de classe permettant de faire du découpage en fonction de critères (nombre de caractères, séparateurs HTML, séparateur Markdown). 
+
+Une fois les embeddings généré, on peut les insérer dans une base de données vectorielle, il en existe plusieurs:
+
+* ChromaDB
+* FAISS
+* Lance
+* Qdrant
+
+Pour ce codelab, nous allons utiliser Qdrant. 
+
+
+### Utilisation du RAG
+
+Afin de d'appeler notre RAG, nous allons avoir besoin d'une connexion à notre base de données QDrant:
+
+```python
+from qdrant_client import QdrantClient
+
+client = QdrantClient(
+        QDRANT_URL,
+        prefer_grpc=True
+    )
+```
+
+Ce client peut ensuite être wrapper dans l'abstraction LangChain
+
+```python
+from langchain_community.vectorstores.qdrant import Qdrant
+
+qdrant = Qdrant(
+    client=qdrant_client,
+    collection_name=<INDEX_NAME>,
+    embeddings=embeddings
+)
+```
+
+Puis nous pouvons créer la `chain` permettant d'avoir le lien entre notre prompt d'entrée, la base de données vectorielle, et la réponse:
+
+```python
+from langchain.chains import RetrievalQA
+
+rag = RetrievalQA.from_chain_type(
+    llm=llm,
+    chain_type='stuff',
+    retriever=qdrant.as_retriever(),
+)
+```
+
+Le RAG peut ensuite être appelé de la façon suivante:
+
+```python
+rag.invoke("question contextualiser à un problème")
+```

@@ -16,6 +16,7 @@ bs4 = "^0.0.2"
 chromadb = "^0.4.24"
 pypdf = "^4.1.0"
 unstructured = "^0.12.6"
+qdrant-client = "^1.8.2"
 
 
 [tool.poetry.group.dev.dependencies]
