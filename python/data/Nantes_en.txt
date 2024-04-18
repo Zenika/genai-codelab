@@ -1,0 +1,942 @@
+{{short description|Prefecture and commune in Pays de la Loire, France}}
+{{About|the city in France|the place in Brazil|Nantes, São Paulo|the municipality in Quebec|Nantes, Quebec|the French football club|FC Nantes}}
+{{distinguish|Mantes}}
+{{EngvarB|date=December 2016}}
+{{Use dmy dates|date=November 2020}}
+{{Infobox French commune
+|name               = Nantes
+|native name        = {{native name|mis|paren=no|Naunnt/Nantt}} ([[Gallo language|Gallo]]) <br> {{native name|br|Naoned}}
+|commune status     = [[Prefectures of France|Prefecture]] and [[Communes of France|commune]]
+|image flag         = Drapeau_de_Nantes.svg
+|city motto         = {{Lang-la|Favet Neptunus eunti}}<br/>([[Neptune (mythology)|Neptune]] favours the traveller)
+|image              = {{Photomontage
+ |photo1a=Panorama depuis Butte Sainte-Anne.jpg
+ |photo2a=Cour intérieure du château des ducs de Bretagne (Nantes) (7339052946).jpg
+ |photo2b=Nantes passage pommeraye.JPG
+ |photo5a=Ile_de_Nantes.JPG
+ |size=280
+ |spacing=2
+ |border = 0
+ |color = white
+}}
+|caption            = Top to bottom, left to right: the [[Loire]] in central Nantes; the [[Château des ducs de Bretagne]]; the [[passage Pommeraye]], and the [[île de Nantes]] between the branches of the Loire
+|coordinates        = {{coord|47.2181|-1.5528|format=dms|display=inline,title}}
+|arrondissement     = Nantes
+|intercommunality   = [[Nantes Métropole]]
+|mayor              = [[Johanna Rolland]]<ref>{{cite web|title=Répertoire national des élus: les maires|url=https://www.data.gouv.fr/fr/datasets/r/2876a346-d50c-4911-934e-19ee07b0e503|publisher=data.gouv.fr, Plateforme ouverte des données publiques françaises|date=13 September 2022|language=fr}}</ref>
+|term               = 2020&ndash;2026
+|party              = [[Socialist Party (France)|PS]]
+|area km2           = 65.19
+|population         = {{France metadata Wikidata|population_total}}
+|population date    = {{France metadata Wikidata|population_as_of}}
+|population footnotes   = {{France metadata Wikidata|population_footnotes}}
+|INSEE              = 44109
+|postal code        = 44000, 44100, 44200 and 44300
+|website            = [https://metropole.nantes.fr metropole.nantes.fr]
+|image coat of arms = Coat of Arms of Nantes.svg
+|canton             = [[Cantons of Nantes|7 cantons]]
+|population ranking = [[List of communes in France with over 20,000 inhabitants|6th in France]]
+|urban area km2     = 498.6
+|urban area date    = 2018
+|urban pop          = 655187
+|urban pop date     = 2018
+|metro area km2     = 3471.1
+|metro area date    = 2018
+|metro area pop     = 997222
+|metro area pop date= 2018
+|dialling code      = 02
+|demonym={{lang|fr|Nantais}} (masculine)<br/>{{lang|fr|Nantaise}} (feminine)
+}}
+'''Nantes''' ({{IPAc-en|n|ɒ̃|t}}, {{IPAc-en|USalso|n|ɑː|n|t|(|s|)}},<ref>{{Cite American Heritage Dictionary|Nantes|access-date=30 April 2019}}</ref><ref>{{Cite web |title=Nantes |url=https://www.collinsdictionary.com/dictionary/english/nantes |access-date=30 April 2019 |website=[[Collins English Dictionary]] |publisher=[[HarperCollins]]}}</ref><ref>[https://web.archive.org/web/20190430183026/https://en.oxforddictionaries.com/definition/us/Nantes "Nantes"] (US) and {{Cite dictionary |url=http://www.lexico.com/definition/Nantes |archive-url=https://web.archive.org/web/20200322182305/https://www.lexico.com/definition/nantes |url-status=dead |archive-date=2020-03-22 |title=Nantes |dictionary=[[Lexico]] UK English Dictionary |publisher=[[Oxford University Press]]}}</ref> {{IPA-fr|nɑ̃t|lang|Fr-Nantes.ogg}}; [[Gallo language|Gallo]]: {{lang|fr-gallo|Naunnt}} or {{lang|fr-gallo|Nantt}} {{IPA-all|nɑ̃(ː)t|}};{{sfn|Chubendret – Dictionnaire}} {{Lang-br|Naoned}} {{IPA-br|ˈnãunət|}}){{sfn|Naoned}} is a city in [[Loire-Atlantique]] of France on the [[Loire]], {{cvt|50|km}} from the [[Atlantic Ocean|Atlantic coast]]. The city is the [[List of communes in France with over 20,000 inhabitants|sixth largest in France]], with a population of 320,732 in Nantes proper and a metropolitan area of nearly 1 million inhabitants (2020).<ref>{{Cite web |title=Comparateur de territoire |url=https://www.insee.fr/fr/statistiques/1405599?geo=AAV2020-008+UU2020-44701+COM-44109 |access-date=31 July 2023 |publisher=[[INSEE]]}}</ref> With [[Saint-Nazaire]], a seaport on the Loire estuary, Nantes forms one of the main north-western French metropolitan agglomerations.
+
+It is the administrative seat of the [[Loire-Atlantique]] [[Departments of France|department]] and the [[Pays de la Loire]] [[regions of France|region]], one of 18 regions of France. Nantes belongs historically and culturally to [[Brittany]], a former [[duchy]] and [[province]], and its omission from the modern administrative region of Brittany is controversial.
+
+Nantes was identified during [[classical antiquity]] as a port on the Loire. It was the seat of a bishopric at the end of the [[Roman Empire|Roman era]] before it was conquered by the [[Bretons]] in 851. Although Nantes was the primary residence of the 15th-century [[dukes of Brittany]], [[Rennes]] became the provincial capital after the 1532 [[union of Brittany and France]]. During the 17th century, after the establishment of the [[French colonial empire]], Nantes gradually became the largest port in France and [[role of Nantes in the slave trade|was responsible for nearly half]] of the 18th-century French [[Atlantic slave trade]]. The [[French Revolution]] resulted in an economic decline, but Nantes developed robust industries after 1850 (chiefly in shipbuilding and food processing). [[Deindustrialisation]] in the second half of the 20th century spurred the city to adopt a [[service economy]].
+
+In 2020, the [[Globalization and World Cities Research Network]] ranked Nantes as a [[Global city|Gamma world city]]. It is the third-highest-ranking city in France, after [[Paris]] and [[Lyon]]. The Gamma category includes cities such as [[Algiers]], [[Orlando, Florida|Orlando]], [[Porto]], [[Turin]] and [[Leipzig]].{{sfn|Gawc - World}} Nantes has been praised for its [[quality of life]], and it received the [[European Green Capital Award]] in 2013.{{sfn|European Green Capital|2013}} The [[European Commission]] noted the city's efforts to reduce air pollution and CO<sub>2</sub> emissions, its high-quality and well-managed public transport system and its [[biodiversity]], with {{convert|3366|ha}} of green space and several protected [[Natura 2000]] areas.{{sfn|Claire Iochum}}
+
+==Etymology==
+[[File:Confluence of Erdre and Loire, Nantes, France, 1890s.jpg|thumb|alt=Historical photochrom showing the confluence of the Erdre and the Loire|The confluence of the Erdre and the Loire (where Nantes was founded) in an 1890s [[photochrom]]. The river channels in the picture were diverted and filled in during the 1920s and subsequently replaced with roads.]]
+Nantes is named after a tribe of [[Gaul]], the [[Namnetes]], who established a settlement between the end of the second century and the beginning of the first century BC on the north bank of the Loire near its [[wikt:confluence|confluence]] with the [[Erdre]]. The origin of the name ''Namnetes'' is uncertain, but is thought to come from the Gaulish root *''nant-'' 'river, stream'{{sfn|Delamarre|2003}} (from the pre-Celtic root ''*nanto'' 'valley'){{sfn|Vial|1983}} or from ''Amnites'', another tribal name possibly meaning 'men of the river'.{{sfn|Jean-Marie Cassagne and Mariola Korsak|2002|p=88}}
+
+Its first recorded name was by the Greek writer [[Ptolemy]], who referred to the settlement as {{lang|grc|Κονδηούινκον}} ({{transliteration|grc|Kondēoúinkon}}) and {{lang|grc|Κονδιούινκον}} ({{transliteration|grc|Kondioúinkon}}){{efn-ua|See Ptolemy, ''Geography'', 214, 9.}}—which might be read as {{lang|grc|Κονδηούικον}} ({{transliteration|grc|Kondēoúikon}})—in his treatise, ''[[Geography (Ptolemy)|Geography]]''.{{sfn|Billy|1993}} The name was [[Latin]]ised during the [[Roman Gaul|Gallo-Roman period]] as {{lang|la|Condevincum}} (the most common form), {{lang|la|Condevicnum}},{{sfn|L. Pirault|1999|pp=10–19}} {{lang|la|Condivicnum}} and {{lang|la|Condivincum}}.{{sfn|Condivincum}} Although its origins are unclear, {{lang|la|Condevincum}} seems to be related to the [[Gaulish language|Gaulish]] word {{lang|xtg|condate}} 'confluence'.{{sfn|Deroy|Mulon|1992|pp=330b-331a}}
+
+The Namnete root of the city's name was introduced at the end of the Roman period, when it became known as {{lang|la|Portus Namnetum}} "port of the Namnetes"{{sfn|Historique de la}} and {{lang|la|civitas Namnetum}} 'city of the Namnetes'.{{sfn|Deroy|Mulon|1992|pp=330b-331a}} Like other cities in the region (including [[Paris]]), its name was replaced during the fourth century with a [[Gauls|Gaulish]] one: [[Lutetia]] became [[Paris]] (city of the [[Parisii (Gaul)|Parisii]]), and Darioritum became [[Vannes]] (city of the [[Veneti (Gaul)|Veneti]]).{{sfn|Rostaing|1980}} Nantes's name continued to evolve, becoming {{lang|la|Nanetiæ}} and {{lang|la|Namnetis}} during the fifth century and Nantes after the sixth, via [[syncope (phonology)|syncope]] (suppression of the middle syllable).{{sfn|Travers|1836|p=&4}}
+
+===Modern pronunciation and nicknames===
+''Nantes'' is pronounced {{IPA-fr|nɑ̃t|}}, and the city's inhabitants are known as ''Nantais'' {{IPA-fr|nɑ̃tɛ|}}. In [[Gallo language|Gallo]], the [[oïl language]] traditionally spoken in the region around Nantes, the city is spelled ''Naunnt'' or ''Nantt'' and pronounced identically to French, although northern speakers use a long {{IPAblink|ɑ|ɑ̃}}.{{sfn|Chubendret – Dictionnaire}} In [[Breton language|Breton]], Nantes is known as {{lang|br|Naoned}} or {{lang|br|an Naoned}},{{sfn|KerOfis}} the latter of which is less common and reflects the more-frequent use of articles in Breton [[wikt:toponym|toponyms]] than in French ones.{{sfn|Favereau|1997|p=27}}
+
+Nantes's historical nickname was "Venice of the West" ({{Lang-fr|link=no|la Venise de l'Ouest}}), a reference to the many quays and river channels in the old town before they were filled in during the 1920s and 1930s.{{sfn|Cornet|1996|p=5}} The city is commonly known as {{lang|fr|la Cité des Ducs}} "the City of the [[List of rulers of Brittany|Dukes [of Brittany]]]" for its castle and former role as a ducal residence.{{sfn|Julie Postolec|2016}}
+
+==History==
+{{For timeline}}
+
+===Prehistory and antiquity===
+[[File:Enceinte gallo-romaine Nantes detail.jpg|thumb|alt=Photo showing a section of the Roman wall in Nantes.|Section of the Roman city wall]]
+The first inhabitants of what is now Nantes settled during the [[Bronze Age]], later than in the surrounding regions (which have [[Neolithic]] monuments absent from Nantes). Its first inhabitants were apparently attracted by small iron and [[tin]] deposits in the region's subsoil.{{sfn|Pétré-Grenouilleau|2008|p=17}} The area exported tin, mined in [[Abbaretz]] and [[Piriac-sur-Mer|Piriac]], as far as [[Ireland]].{{sfn|Decours|2006|p=9}} After about 1,000 years of trading, local industry appeared around 900 BC; remnants of [[Forge|smithies]] dated to the eighth and seventh centuries BC have been found in the city.{{sfn|Decours|2006|p=10}} Nantes may have been the major Gaulish settlement of Corbilo, on the Loire estuary, which was mentioned by the Greek historians [[Strabo]] and [[Polybius]].{{sfn|Decours|2006|p=10}}
+
+Its history from the seventh century to the Roman conquest in the first century BC is poorly documented, and there is no evidence of a city in the area before the reign of [[Tiberius]] in the first century AD.{{sfn|Pétré-Grenouilleau|2008|p=19}} During the [[Gaul]]ish period it was the capital of the [[Namnetes]] people, who were allied with the [[Veneti (Gaul)|Veneti]]{{sfn|Bois|1977|p=31}} in a territory extending to the northern bank of the Loire. Rivals in the area included the [[Pictones]], who controlled the area south of the Loire in the city of Ratiatum (present-day [[Rezé]]) until the end of the second century AD. Ratiatum, founded under [[Augustus]], developed more quickly than Nantes and was a major port in the region. Nantes began to grow when Ratiatum collapsed after the [[Germanic Wars|Germanic invasions]].{{sfn|Pétré-Grenouilleau|2008|p=20}}
+
+Because tradesmen favoured inland roads rather than Atlantic routes,{{sfn|Bois|1977|p=39}} Nantes never became a large city under Roman occupation. Although it lacked amenities such as a [[Roman theatre (structure)|theatre]] or an [[Roman amphitheatre|amphitheatre]], the city had sewers, [[thermae|public baths]] and a temple dedicated to [[Mullo (god)|Mars Mullo]].{{sfn|Pétré-Grenouilleau|2008|p=19}} After an attack by German tribes in 275, Nantes's inhabitants built a wall; this defense also became common in surrounding Gaulish towns.{{sfn|Lelièvre|2000|p=19}} The wall in Nantes, enclosing {{convert|16|ha}}, was one of the largest in Gaul.{{sfn|Bois|1977|p=41}}
+
+[[Christianity]] was introduced during the third century. The first local [[martyr]]s ([[Donatian and Rogatian]]) were executed in 288–290,{{sfn|Bois|1977|p=43}} and a cathedral was built during the fourth century.{{sfn|Bois|1977|p=44}}{{sfn|Pétré-Grenouilleau|2008|p=20}}
+
+===Middle Ages===
+[[File:Cathédrale Saint-Pierre de Nantes - façade.jpg|thumb|alt=Photo of Nantes Cathedral|[[Nantes Cathedral]], rebuilt in the [[Gothic style]] beginning in the 15th century]]
+Like much of the region, Nantes was part of the [[Roman Empire]] during the early Middle Ages. Although many parts of [[Brittany]] experienced significant Breton immigration (loosening ties to Rome), Nantes remained allied with the empire until its collapse in the fifth century.{{sfn|Bois|1977|p=47}} Around 490, the [[Franks]] under [[Clovis I]] captured the city (alongside eastern Brittany) from the [[Visigothic Kingdom|Visigoths]] after a sixty-day siege;<ref>{{Cite journal |last=Mathisen |first=Ralph W. |url=https://www.academia.edu/3624016 |title=The First Franco-Visigothic War and the Prelude to the Battle of Vouillé |journal=The Battle of Vouillé, 507 Ce |year=2012 |page=5 |language=en}}</ref> it was used as a stronghold against the [[Bretons]]. Under [[Charlemagne]] in the eighth century the town was the capital of the [[Marches of Neustria|Breton March]], a buffer zone protecting the [[Carolingian Empire]] from Breton invasion. The first governor of the Breton March was [[Roland]], whose feats were mythologized in the body of literature known as the [[Matter of France]].{{sfn|Pétré-Grenouilleau|2008|p=25}} After Charlemagne's death in 814, Breton armies invaded the March and fought the Franks. [[Nominoe]] (a Breton) became the first duke of Brittany, seizing Nantes in 850. Discord marked the first decades of Breton rule in Nantes as Breton lords fought among themselves, making the city vulnerable to [[Viking]] incursions. The most spectacular Viking attack in Nantes occurred in 843, when Viking warriors killed the bishop but did not settle in the city at that time.{{sfn|Pétré-Grenouilleau|2008|p=25}} Nantes became part of the Viking realm in 919, but the Norse were expelled from the town in 937 by [[Alan II, Duke of Brittany]].{{sfn|Pétré-Grenouilleau|2008|p=26}}
+
+[[Feudalism]] took hold in France during the 10th and 11th centuries, and Nantes was the seat of a [[county of Nantes|county]] founded in the ninth century. Until the beginning of the 13th century, it was the subject of succession crises which saw the town pass several times from the [[Duchy of Brittany|Dukes of Brittany]] to the counts of [[County of Anjou|Anjou]] (of the [[House of Plantagenet]]).{{sfn|Pétré-Grenouilleau|2008|p=27}} During the 14th century, Brittany experienced a [[War of the Breton Succession|war of succession]] which ended with the accession of the [[Montfort of Brittany|House of Montfort]] to the ducal throne. The Montforts, seeking emancipation from the [[suzerainty]] of the French kings, reinforced Breton institutions. They chose Nantes, the largest town in Brittany (with a population of over 10,000), as their main residence and made it the home of their council, their [[treasury]] and their [[chancery (medieval office)|chancery]].{{sfn|Pétré-Grenouilleau|2008|pp=48–49}}{{sfn|Le Page|2014|pp=22–23}} Port traffic, insignificant during the [[Middle Ages]], became the city's main activity.{{sfn|Decours|2006|p=26}} Nantes began to trade with foreign countries, exporting [[salt]] from [[Bourgneuf-en-Retz|Bourgneuf]],{{sfn|Decours|2006|p=26}} wine, fabrics and hemp (usually to the [[British Isles]]).{{sfn|Histoire du Port}} The 15th century is considered Nantes's first golden age.{{sfn|Pétré-Grenouilleau|2008|p=32}}{{sfn|Bois|1977|p=90}} The reign of [[Francis II, Duke of Brittany|Francis II]] saw many improvements to a city in dire need of repair after the wars of succession and a series of storms and fires between 1387 and 1415. Many buildings were built or rebuilt (including the cathedral and the castle), and the [[University of Nantes]], the first in Brittany, was founded in 1460.{{sfn|Pétré-Grenouilleau|2008|p=31}}
+
+===Modern era===
+[[File:Nantes - Immeuble Perraudeau 01.jpg|thumb|alt=Photo of 18th-buildings in Nantes|Typical 18th-century façades in Nantes]]
+[[File:Nantes - Cours Cambronne 02.jpg|thumb|Cours Cambronne, a terrace developed at the end of the 18th century]]
+The marriage of [[Anne of Brittany]] to [[Charles VIII of France]] in 1491 began the unification of France and Brittany which was ratified by [[Francis I of France]] in 1532. The union ended a long feudal conflict between France and Brittany, reasserting the king's suzerainty over the Bretons. In return for surrendering its independence, Brittany retained its privileges.{{sfn|Pétré-Grenouilleau|2008|p=49}} Although most Breton institutions were maintained, the unification favoured [[Rennes]] (the site of ducal coronations). Rennes received most legal and administrative institutions, and Nantes kept a financial role with its Chamber of Accounts.{{sfn|Le Page|2014|p=46}} During the [[French Wars of Religion]] from 1562 to 1598, the city was a [[Catholic League (French)|Catholic League]] stronghold. The [[Philippe Emmanuel, Duke of Mercœur|Duke of Mercœur]], governor of Brittany, strongly opposed the succession of the Protestant [[Henry IV of France]] to the throne of France in 1589. The Duke created an independent government in Nantes, allying with Spain and pressing for independence from France. Despite initial successes with Spanish aid, in 1598 he submitted to Henry IV (who had by then converted to Catholicism); the [[Edict of Nantes]] (legalising [[Protestantism]] in France) was signed in the town, concluding the French wars of religion. Nonetheless, the town remained fervently Catholic (by contrast to nearby [[La Rochelle]]), and the local Protestant community did not number more than 1,000.{{sfn|Pétré-Grenouilleau|2008|p=56}}
+
+Coastal navigation and the export of locally produced goods (salt, wine and fabrics) dominated the local economy around 1600.{{sfn|Histoire du Port}} During the mid-17th century, the [[siltation]] of local [[saltern]]s and a fall in wine exports compelled Nantes to find other activities.{{sfn|Decours|2006|p=58}} Local shipowners began importing sugar from the French West Indies ([[Martinique]], [[Guadeloupe]] and [[Saint-Domingue]]) in the 1640s, which became very profitable after [[protectionism|protectionist]] reforms implemented by [[Jean-Baptiste Colbert]] prevented the import of sugar from Spanish colonies (which had dominated the market).{{sfn|Decours|2006|p=64}} In 1664 Nantes was France's eighth-largest port, and it was the largest by 1700.{{sfn|Decours|2006|p=59}} Plantations in the colonies needed labour to produce sugar, rum, tobacco, indigo dye, coffee and cocoa, and [[Nantes slave trade|Nantes shipowners began trading African slaves]] in 1706.{{sfn|Decours|2006|p=77}} The port was part of the [[triangular trade]]: ships went to [[West Africa]] to buy slaves, slaves were sold in the French West Indies, and the ships returned to Nantes with sugar and other exotic goods.{{sfn|Histoire du Port}} From 1707 to 1793, Nantes was responsible for 42 percent of the French slave trade; its merchants sold about 450,000 African slaves in the West Indies.{{sfn|Pétré-Grenouilleau|2008|p=92}}
+
+Manufactured goods were more lucrative than raw materials during the 18th century. There were about fifteen sugar refineries in the city around 1750 and nine [[cotton mill]]s in 1786.{{sfn|Decours|2006|p=84}} Nantes and its surrounding area were the main producers of French printed cotton fabric during the 18th century,{{sfn|Pétré-Grenouilleau|2008|p=87}} and the [[Netherlands]] was the city's largest client for exotic goods.{{sfn|Decours|2006|p=84}} Although trade brought wealth to Nantes, the city was confined by its walls; their removal during the 18th century allowed it to expand. [[Neoclassical architecture|Neoclassical]] squares and public buildings were constructed, and wealthy merchants built sumptuous ''[[hôtel particulier|hôtels particuliers]]''.{{sfn|Decours|2006|p=85}}{{sfn|Lelièvre|2000|p=50}}
+
+===French Revolution===
+[[File:Noyades Nantes.jpg|thumb|alt=Painting of a man and woman being dragged away|Painting of the 1793–1794 [[Drownings at Nantes]]]]
+The [[French Revolution]] initially received some support in Nantes, a [[bourgeoisie|bourgeois]] city rooted in private enterprise. On 18 July 1789, locals seized the [[Château des ducs de Bretagne|Castle of the Dukes of Brittany]] in an imitation of the [[storming of the Bastille]].{{sfn|Pétré-Grenouilleau|2008|p=106}} Rural western France, Catholic and conservative, strongly opposed the abolition of the monarchy and the submission of the [[clergy]].{{sfn|Pétré-Grenouilleau|2008|p=114}} A [[War in the Vendée|rebellion in the neighbouring Vendée]] began in 1793, quickly spreading to surrounding regions. Nantes was an important Republican garrison on the Loire en route to [[England]]. On 29 June 1793, 30,000 Royalist troops from Vendée attacked the city on their way to Normandy (where they hoped to receive British support). Twelve thousand Republican soldiers resisted and the [[Battle of Nantes]] resulted in the death of Royalist leader [[Jacques Cathelineau]].{{sfn|Pétré-Grenouilleau|2008|p=115}} Three years later another Royalist leader, [[François de Charette]], was executed in Nantes.{{sfn|Chauveau|1993|p=150}}
+
+After the Battle of Nantes, the [[National Convention]] (which had founded the [[First French Republic]]) decided to purge the city of its anti-revolutionary elements. Nantes was seen by the convention as a corrupt merchant city; the local elite was less supportive of the French Revolution, since its growing centralisation reduced their influence.{{sfn|Pétré-Grenouilleau|2008|p=106}} From October 1793 to February 1794, deputy [[Jean-Baptiste Carrier]] presided over a revolutionary tribunal notorious for cruelty and ruthlessness. Between 12,000 and 13,000 people (including women and children) were arrested, and 8,000 to 11,000 died of [[typhus]] or were executed by the [[guillotine]], shooting or drowning. The [[Drownings at Nantes]] were intended to kill large numbers of people simultaneously, and Carrier called the Loire "the national bathtub".{{sfn|Pétré-Grenouilleau|2008|p=106}}
+
+The French Revolution was disastrous for the local economy. The slave trade nearly disappeared because of the abolition of slavery and the independence of [[Saint-Domingue]], and Napoleon's [[Continental System|Continental Blockade]] decimated trade with other European countries. Nantes never fully recovered its 18th-century wealth; the port handled 43,242 tons of goods in 1807, down from 237,716 tons in 1790.{{sfn|Histoire du Port}}
+
+==={{anchor|Industrial area}}Industries===
+[[File:Nantes, La Loire et Le Pont Transbordeur en 1912.jpg|thumb|alt=1912 photo of the busy Nantes dock, with two large ships|The port of Nantes in 1912, with the demolished [[transporter bridge]] in the distance]]
+Outlawed by the French Revolution, the slave trade re-established itself as Nantes's major source of income in the first decades of the 19th century.{{sfn|Histoire du Port}} It was the last French port to conduct the illegal Atlantic trade, continuing it until about 1827.{{sfn|Pétré-Grenouilleau|2008|p=138}} The 19th-century slave trade may have been as extensive as that of the previous century, with about 400,000 slaves deported to the colonies.{{sfn|Decours|2006|p=103}} Businessmen took advantage of local vegetable production and Breton fishing to develop a [[canning]] industry during the 1820s,{{sfn|Pétré-Grenouilleau|2008|p=139}} but canning was eclipsed by sugar imported from [[Réunion]] in the 1840s and 1850s. Nantes tradesmen received a tax rebate on Réunion sugar, which was lucrative until disease devastated the cane plantations in 1863.{{sfn|Pétré-Grenouilleau|2008|p=146}} By the mid-19th century, [[Le Havre]] and [[Marseille]] were the two main French ports; the former traded with [[Americas|America]] and the latter with [[Asia]]. They had embraced the [[Industrial Revolution]], thanks to [[Paris]]ian investments; Nantes lagged behind, struggling to find profitable activities. Nostalgic for the pre-revolutionary golden age, the local elite had been suspicious of political and technological progress during the first half of the 19th century. In 1851, after much debate and opposition, Nantes was connected to Paris by the [[Tours–Saint-Nazaire railway]].{{sfn|Pétré-Grenouilleau|2008|p=138}}
+
+Nantes became a major industrial city during the second half of the 19th century with the aid of several families who invested in successful businesses. In 1900, the city's two main industries were food processing and shipbuilding. The former, primarily the canning industry, included the biscuit manufacturer [[LU (biscuits)|LU]] and the latter was represented by three shipyards which were among the largest in France. These industries helped maintain port activity and facilitated agriculture, sugar imports, fertilizer production, machinery and metallurgy, which employed 12,000 people in Nantes and its surrounding area in 1914.{{sfn|Pétré-Grenouilleau|2008|p=164}} Because large, modern ships had increased difficulty traversing the Loire to reach Nantes, a new port in [[Saint-Nazaire]] had been established at the mouth of the estuary in 1835. Saint-Nazaire, primarily developed for goods to be [[wikt:transhipped|transhipped]] before being sent to Nantes, also built rival shipyards. Saint-Nazaire surpassed Nantes in port traffic for the first time in 1868.{{sfn|Pétré-Grenouilleau|2008|p=149}} Reacting to the growth of the rival port, Nantes built a {{convert|15|km|mi|adj=mid|-long}} canal parallel to the Loire to remain accessible to large ships. The canal, completed in 1892, was abandoned in 1910 because of the efficient dredging of the Loire between 1903 and 1914.{{sfn|Decours|2006|p=109}}
+
+==={{anchor|Nantes since the ''comblements''}}Land reclamation===
+[[File:Nantes comblements.png|thumb|upright=1.5|alt=Map of Nantes|Central Nantes in the first half of the 20th century. Waterways filled in from 1926 to 1946 are in brown, and buildings destroyed by American air raids in 1943 are in red.]]
+At the beginning of the 20th century, the river channels flowing through Nantes were increasingly perceived as hampering the city's comfort and economic development. Sand siltation required dredging, which weakened the quays; one quay collapsed in 1924. Embankments were overcrowded with railways, roads and tramways. Between 1926 and 1946, most of the channels were filled in and their water diverted. Large thoroughfares replaced the channels, altering the urban landscape. Feydeau and Gloriette Islands in the old town were attached to the north bank, and the other islands in the Loire were formed into the [[Ile de Nantes|Isle of Nantes]].{{sfn|Pétré-Grenouilleau|2008|p=188}}
+
+When the [[land reclamation]] was almost complete, Nantes was shaken by the air raids of the [[Second World War]]. The city was captured by [[Nazi Germany]] on 18 June 1940, during the [[Battle of France]].{{sfn|Bois|1977|p=391}} Forty-eight civilians were executed in Nantes in 1941 in retaliation for the assassination of German officer [[Karl Hotz]]. They are remembered as "the 50 hostages" because the Germans initially planned to kill 50 people.{{sfn|Dictionnaire de Nantes|2013|p=242}} British bombs first hit the city in August 1941 and May 1942. The main attacks occurred on 16 and 23 September 1943, when most of Nantes's industrial facilities and portions of the city centre and its surrounding area were destroyed by American bombs.{{sfn|Pétré-Grenouilleau|2008|p=188}} About 20,000 people were left homeless by the 1943 raids, and 70,000 subsequently left the city. Allied raids killed 1,732 people and destroyed 2,000 buildings in Nantes, leaving a further 6,000 buildings unusable.{{sfn|Bois|1977|p=393}} The Germans abandoned the city on 12 August 1944, and it was recaptured without a fight by the [[French Forces of the Interior]] and the U.S. Army.{{sfn|Il y a 70 ans}}
+
+===Postwar===
+
+The postwar years were a period of strikes and protests in Nantes. A strike organised by the city's 17,500 metallurgists during the summer of 1955 to protest salary disparities between [[Paris]] and the rest of France deeply impacted the French political scene, and their action was echoed in other cities.{{sfn|Pétré-Grenouilleau|2008|p=238}} Nantes saw other large strikes and demonstrations during the [[May 68|May 1968 events]], when marches drew about 20,000 people into the streets.{{sfn|Mai 68}} The [[1973–1975 recession|1970s global recession]] brought a large wave of [[deindustrialisation]] to France, and Nantes saw the closure of many factories and the city's shipyards.{{sfn|Pétré-Grenouilleau|2008|p=250}} The 1970s and 1980s were primarily a period of economic stagnation for Nantes. During the 1980s and 1990s its economy became service-oriented and it experienced economic growth under [[Jean-Marc Ayrault]], the city's mayor from 1989 to 2012. Under Ayrault's administration, Nantes used its quality of life to attract service firms. The city developed a rich cultural life, advertising itself as a creative place near the ocean. Institutions and facilities (such as its airport) were re-branded as "Nantes Atlantique" to highlight this proximity. Local authorities have commemorated the legacy of the slave trade, promoting dialogue with other cultures.{{sfn|Pétré-Grenouilleau|2008|pp=271–277}}
+
+Nantes has been noted in recent years for its climate of social unrest, marked by frequent and often violent clashes between protesters and police. Tear gas is frequently deployed during protests.<ref>{{Cite web |date=27 September 2018 |title=Une violence récurrente: enquête sur les manifestations à Nantes |url=https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/nantes/violence-recurrente-enquete-manifestations-nantes-1535732.html |publisher=France Info |language=fr}}</ref> The city has a significant [[Far-left politics|ultra-left]] radical scene, owing in part to the proximity of the [[ZAD de Notre-Dame-des-Landes]].<ref>{{Cite web |date=23 February 2014 |title=A Nantes, le centre-ville saccagé par l'ultra-gauche|url=http://www.leparisien.fr/archives/a-nantes-le-centre-ville-saccage-par-l-ultra-gauche-23-02-2014-3616799.php |website=Le Parisien |language=fr}}</ref> Masked rioters have repeatedly ransacked shops, offices and public transport infrastructure.<ref>{{Cite web |date=22 January 2022 |title=Nantes: une manifestation "antifa" dérape, les réactions pleuvent et une polémique enfle |url=https://www.francebleu.fr/infos/faits-divers-justice/nantes-une-manifestation-antifascisme-et-liberte-derape-les-reactions-politiques-pleuvent-1642850244 |publisher=France Bleu |language=fr}}</ref><ref>{{Cite news |date=17 September 2019 |title=Nantes, une ville blessée dans l'étau de la contestation |url=https://www.letemps.ch/monde/nantes-une-ville-blessee-letau-contestation |newspaper=Le Temps |language=fr}}</ref><ref>{{Cite web |date=8 December 2019 |title=Nantes: Le centre-ville se réveille groggy après les violences de Samedi |url=https://www.20minutes.fr/nantes/2669751-20191208-nantes-centre-ville-reveille-groggy-apres-violences-samedi |website=20 Minutes |language=fr}}</ref><ref>{{Cite web |date=23 April 2019 |title=Nantes: Il y a une "montée en puissance" de la violence", reconnait un policier |url=https://www.rtl.fr/actu/justice-faits-divers/nantes-il-y-a-une-montee-en-puissance-de-la-violence-reconnait-un-policier-7797483548 |publisher=RTL |language=fr}}</ref> The [[:fr: Affaire Steve Maia Caniço|death of Steve Maia Caniço]] in June 2019 has led to accusations of police brutality and cover-ups.<ref>{{Cite web |date=3 August 2019 |title=Steve Maia Caniço rally: French police clashes erupt in Nantes |url=https://www.bbc.com/news/world-europe-49221066 |publisher=BBC}}</ref>
+
+==Geography==
+
+===Location===
+[[File:Nantes SPOT 1247.jpg|thumb|alt=Satellite image of Nantes|Nantes as seen by [[SPOT (satellite)|SPOT]] in 2004]]
+Nantes is in north-western France, near the [[Atlantic Ocean]] and {{convert|340|km|abbr=off}} south-west of [[Paris]]. [[Bordeaux]], the other major metropolis of western France, is {{convert|275|km|abbr=off}} south. Nantes and Bordeaux share positions at the mouth of an estuary, and Nantes is on the [[Loire]] estuary.{{sfn|Pétré-Grenouilleau|2008|p=12}}
+
+The city is at a natural crossroads between the ocean in the west, the centre of France (towards [[Orléans]]) in the east, [[Brittany]] in the north and [[Vendée]] (on the way to Bordeaux) in the south.{{sfn|Lelièvre|2000|p=15}} It is an architectural junction; northern French houses with slate roofs are north of the Loire, and [[Mediterranean]] dwellings with low [[terracotta]] roofs dominate the south bank.{{sfn|Lelièvre|2000|p=14}}{{sfn|Bois|1977|p=9}} The Loire is also the northern limit of grape culture. Land north of Nantes is dominated by [[bocage]] and dedicated to [[polyculture]] and [[animal husbandry]], and the south is renowned for its [[Muscadet]] vineyards and market gardens.{{sfn|Pétré-Grenouilleau|2008|p=15}} The city is near the geographical centre of the [[land and water hemispheres|land hemisphere]], identified in 1945 by Samuel Boggs as near the main railway station (around {{coord|47|13|N|1|32|W}}).{{sfn|Boggs|1945|pp=345–355}}
+
+===Hydrology===
+[[File:Nantes - Erdre.jpg|thumb|alt=Photo of the Erdre in Nantes|The Erdre (a tributary of the Loire), with the [[Tour Bretagne|Brittany Tower]] in the background]]
+The Loire is about {{convert|1000|km|abbr=off}} long and its estuary, beginning in Nantes, is {{convert|60|km|abbr=off}} in length.{{sfn|Lelièvre|2000|p=15}} The river's bed and banks have changed considerably over a period of centuries. In Nantes the Loire had divided into a number of channels, creating a dozen islands and sand ridges. They facilitated crossing the river, contributing to the city's growth. Most of the islands were protected with [[levee]]s during the [[modern era]], and they disappeared in the 1920s and 1930s when the smallest waterways were filled in. The Loire in Nantes now has only two branches, one on either side of the Isle of Nantes.{{sfn|Lelièvre|2000|p=14}}
+
+The river is [[Tidal river|tidal]] in the city, and tides are observed about {{convert|30|km|abbr=off}} further east.{{sfn|Lelièvre|2000|p=15}} The tidal range can reach {{convert|6|m|abbr=off}} in Nantes, larger than at the mouth of the estuary.{{sfn|Les amplitudes de|2013}} This is the result of 20th-century dredging to make Nantes accessible by large ships; tides were originally much weaker. Nantes was at the point where the river current and the tides cancelled each other out, resulting in siltation and the formation of the original islands.{{sfn|Decours|2006|p=7}}{{sfn|Rééquilibrage du lit}}{{sfn|Dictionnaire de Nantes|2013|p=989}}
+
+The city is at the confluence of two tributaries. The [[Erdre]] flows into the Loire from its north bank, and the [[Sèvre Nantaise]] flows into the Loire from its south bank. These two rivers initially provided natural links with the hinterland. When the channels of the Loire were filled, the Erdre was diverted in central Nantes and its confluence with the Loire was moved further east. The Erdre includes Versailles Island, which became a Japanese garden during the 1980s. It was created in the 19th century with fill from construction of the [[Nantes–Brest canal]].{{sfn|Corbé|2003|pp=26–28}}
+
+===Geology===
+[[File:Plan relief Nantes.svg|thumb|upright=1.5|alt=Map showing the elevation and rivers in Nantes|Elevation and hydrology map of Nantes]]
+Nantes is built on the [[Armorican Massif]], a range of weathered mountains which may be considered the backbone of Brittany. The mountains, stretching from the end of the Breton peninsula to the outskirts of the [[Sedimentary basin|sedimentary]] [[Paris Basin]], are composed of several parallel ridges of [[Ordovician]] and [[Cadomian Orogeny|Cadomian]] rocks. Nantes is where one of these ridges, the Sillon de Bretagne, meets the Loire. It passes through the western end of the old town, forming a series of cliffs above the quays.{{sfn|M. Ters|J. Marchand|G. Weecksteen|1970}} The end of the ridge, the Butte Sainte-Anne, is a natural landmark {{convert|38|m|abbr=off}} [[above sea level]]; its [[foothills]] are at an elevation of {{convert|15|m|abbr=off}}.{{sfn|D. Janjou|avec collaboration de M. Gruet et C. Penecki|1998}}
+
+The Sillon de Bretagne is composed of [[granite]]; the rest of the region is a series of low [[plateau]]s covered with [[silt]] and [[clay]], with [[mica]] [[schist]] and sediments found in lower areas. Much of the old town and all of the Isle of Nantes consist of backfill.{{sfn|M. Ters|J. Marchand|G. Weecksteen|1970}} Elevations in Nantes are generally higher in the western neighbourhoods on the Sillon, reaching {{convert|52|m|abbr=off}} in the north-west.{{sfn|D. Janjou|avec collaboration de M. Gruet et C. Penecki|1998}} The [[Erdre]] flows through a slate fault.{{sfn|Lelièvre|2000|p=14}} Eastern Nantes is flatter, with a few hills reaching {{convert|30|m|abbr=off}}.{{sfn|D. Janjou|avec collaboration de M. Gruet et C. Penecki|1998}} The city's lowest points, along the Loire, are {{convert|2|m|abbr=off|ft}} above sea level.{{sfn|D. Janjou|avec collaboration de M. Gruet et C. Penecki|1998}}
+
+===Climate===
+Nantes has an [[oceanic climate]] ([[Köppen climate classification|Köppen]]: ''Cfb'')<ref>{{Cite book |last=Muller |first=M. J. |url=https://books.google.com/books?id=az3qCAAAQBAJ&q=koppen+cfb+nantes&pg=PA31 |title=Selected climatic data for a global set of standard stations for vegetation science |date=2012-12-06 |publisher=Springer Science & Business Media |isbn=9789400980402 |language=en}}</ref><ref>{{Cite journal |last1=Bonnefoy |first1=C. |last2=Quenol |first2=H. |last3=Bonnardot |first3=V. |last4=Barbeau |first4=G. |last5=Madelin |first5=M. |last6=Planchon |first6=O. |last7=Neethling |first7=E. |year=2013 |title=Temporal and spatial analyses of temperature in a French wine-producing area: the Loire Valley |journal=International Journal of Climatology |language=en |volume=33 |issue=8 |pages=1849–1862 |bibcode=2013IJCli..33.1849B |doi=10.1002/joc.3552 |s2cid=129475783 |issn=1097-0088}}</ref> influenced by its proximity to the [[Atlantic Ocean]]. [[West wind]]s produced by cyclonic depressions in the Atlantic dominate, and north and north-west winds are also common.<ref>{{Cite web |title=Westerlies {{!}} meteorology |url=https://www.britannica.com/science/westerlies |access-date=2019-03-31 |website=Encyclopædia Britannica |language=en}}</ref> Slight variations in elevation make fog common in valleys, and slopes oriented south and south-west have good [[Solar irradiance|insolation]]. Winters are cool and rainy, with an average temperature of {{cvt|6|C}}; snow is rare. Summers are warm, with an average temperature of {{cvt|20|C}}. Rain is abundant throughout the year, with an annual average of {{convert|820|mm|abbr=off}}. The climate in Nantes is suitable for growing a variety of plants, from temperate vegetables to exotic trees and flowers imported during the colonial era.{{sfn|Pétré-Grenouilleau|2008|p=15}}{{sfn|Géographie}}
+
+{{Weather box
+| collapsed = 
+| location = Nantes-[[Bouguenais]] ([[Nantes Atlantique Airport]]), elevation: {{cvt|27|m|disp=or}}, 1991–2020 normals, extremes 1945–present
+| metric first = Y
+| single line = Y
+| Jan record high C = 18.2
+| Feb record high C = 22.6
+| Mar record high C = 24.2
+| Apr record high C = 28.3
+| May record high C = 32.8
+| Jun record high C = 39.1
+| Jul record high C = 42.0
+| Aug record high C = 39.6
+| Sep record high C = 34.3
+| Oct record high C = 30.2
+| Nov record high C = 21.8
+| Dec record high C = 18.4
+| year record high C = 42.0
+| Jan avg record high C = 14.3
+| Feb avg record high C = 15.9
+| Mar avg record high C = 19.9
+| Apr avg record high C = 23.4
+| May avg record high C = 27.7
+| Jun avg record high C = 31.7
+| Jul avg record high C = 33.1
+| Aug avg record high C = 33.0
+| Sep avg record high C = 29.0
+| Oct avg record high C = 23.3
+| Nov avg record high C = 18.0
+| Dec avg record high C = 14.5
+| year avg record high C = 35.0
+| Jan high C = 9.3
+| Feb high C = 10.5
+| Mar high C = 13.5
+| Apr high C = 16.2
+| May high C = 19.6
+| Jun high C = 23.0
+| Jul high C = 25.1
+| Aug high C = 25.4
+| Sep high C = 22.4
+| Oct high C = 17.6
+| Nov high C = 12.9
+| Dec high C = 9.8
+| year high C = 17.1
+| Jan mean C = 6.4
+| Feb mean C = 6.7
+| Mar mean C = 9.2
+| Apr mean C = 11.4
+| May mean C = 14.7
+| Jun mean C = 17.8
+| Jul mean C = 19.7
+| Aug mean C = 19.8
+| Sep mean C = 17.1
+| Oct mean C = 13.5
+| Nov mean C = 9.4
+| Dec mean C = 6.7
+| year mean C = 12.7
+| Jan low C = 3.4
+| Feb low C = 3.0
+| Mar low C = 4.9
+| Apr low C = 6.6
+| May low C = 9.8
+| Jun low C = 12.7
+| Jul low C = 14.3
+| Aug low C = 14.2
+| Sep low C = 11.8
+| Oct low C = 9.5
+| Nov low C = 5.9
+| Dec low C = 3.7
+| year low C = 8.3
+| Jan avg record low C = -4.3
+| Feb avg record low C = -3.6
+| Mar avg record low C = -1.3
+| Apr avg record low C = 0.3
+| May avg record low C = 3.7
+| Jun avg record low C = 7.1
+| Jul avg record low C = 9.6
+| Aug avg record low C = 8.9
+| Sep avg record low C = 5.9
+| Oct avg record low C = 2.3
+| Nov avg record low C = -1.3
+| Dec avg record low C = -3.7
+| year avg record low C = -6.0
+| Jan record low C = -13.0
+| Feb record low C = -15.6
+| Mar record low C = -9.6
+| Apr record low C = -2.8
+| May record low C = -1.5
+| Jun record low C = 3.8
+| Jul record low C = 5.8
+| Aug record low C = 5.6
+| Sep record low C = 2.8
+| Oct record low C = -3.3
+| Nov record low C = -6.8
+| Dec record low C = -10.8
+| year record low C = -15.6
+| precipitation colour = green
+| Jan precipitation mm = 87.9
+| Feb precipitation mm = 67.5
+| Mar precipitation mm = 58.4
+| Apr precipitation mm = 58.3
+| May precipitation mm = 61.0
+| Jun precipitation mm = 48.5
+| Jul precipitation mm = 44.2
+| Aug precipitation mm = 50.3
+| Sep precipitation mm = 59.5
+| Oct precipitation mm = 88.8
+| Nov precipitation mm = 94.1
+| Dec precipitation mm = 101.0
+| year precipitation mm = 819.5
+| unit precipitation days = 1.0 mm
+| Jan precipitation days = 12.5
+| Feb precipitation days = 10.6
+| Mar precipitation days = 9.4
+| Apr precipitation days = 9.7
+| May precipitation days = 9.6
+| Jun precipitation days = 7.6
+| Jul precipitation days = 7.1
+| Aug precipitation days = 7.2
+| Sep precipitation days = 7.8
+| Oct precipitation days = 11.8
+| Nov precipitation days = 13.0
+| Dec precipitation days = 13.5
+| year precipitation days = 119.7
+| Jan snow days = 1.3
+| Feb snow days = 2.0
+| Mar snow days = 0.3
+| Apr snow days = 0.0
+| May snow days = 0.0
+| Jun snow days = 0.0
+| Jul snow days = 0.0
+| Aug snow days = 0.0
+| Sep snow days = 0.0
+| Oct snow days = 0.0
+| Nov snow days = 0.3
+| Dec snow days = 0.9
+| year snow days = 4.7
+| Jan sun = 72
+| Feb sun = 102
+| Mar sun = 147
+| Apr sun = 182
+| May sun = 203
+| Jun sun = 213
+| Jul sun = 229
+| Aug sun = 232
+| Sep sun = 198
+| Oct sun = 122
+| Nov sun = 91
+| Dec sun = 77
+| year sun = 1873
+| source 1 = [[Meteo France]]<ref name="mf">
+{{cite web
+| archive-url = https://web.archive.org/web/20220124140329/https://donneespubliques.meteofrance.fr/FichesClim/FICHECLIM_44020001.pdf
+| archive-date = 24 January 2022
+| url = https://donneespubliques.meteofrance.fr/FichesClim/FICHECLIM_44020001.pdf
+| title = Nantes–Bouguenais (44)
+| work = Fiche Climatologique: Statistiques 1991–2020 et records
+| publisher = Meteo France
+| language = fr
+| access-date = 14 July 2022}}</ref><ref>{{cite web
+| url = https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-6-WMO-Normals-9120/France/CSV/NANTES_BOUGUENAIS_07222.csv
+| title = World Meteorological Organization Climate Normals for 1991–2020
+| publisher = World Meteorological Organization
+| access-date = 2 August 2023}}</ref> Infoclimat <ref>{{cite web|url=https://www.infoclimat.fr/climatologie/annee/1991/nantes-atlantique/valeurs/07222.html|title=Climatologie de l'année à Nantes-Atlantique|publisher=Infoclimat|language=fr|accessdate=12 September 2023}}</ref>
+}}
+
+{{Weather box
+| width = 100% <!-- 77% if there is a template or image next to it -->
+| collapsed = y <!-- y, if you have normal updates -->
+| open = 
+| metric first = y <!-- always, except UK or US cities -->
+| single line = y
+| location = Nantes-[[Bouguenais]] ([[Nantes Atlantique Airport]]), elevation: {{cvt|27|m|disp=or}}, 1961–1990 normals and extremes
+<!--in the order as it appears in the table, not all of the following data may be available, especially records and days of precipitation -->
+| Jan mean C = 6.0
+| Feb mean C = 6.5
+| Mar mean C = 8.2
+| Apr mean C = 10.3
+| May mean C = 13.5
+| Jun mean C = 16.8
+| Jul mean C = 18.9
+| Aug mean C = 18.5
+| Sep mean C = 16.9
+| Oct mean C = 13.3
+| Nov mean C = 8.5
+| Dec mean C = 6.3
+| Jan high C = 9.2
+| Feb high C = 9.8
+| Mar high C = 12.4
+| Apr high C = 14.8
+| May high C = 17.9
+| Jun high C = 21.6
+| Jul high C = 24.1
+| Aug high C = 23.8
+| Sep high C = 21.8
+| Oct high C = 17.0
+| Nov high C = 12.1
+| Dec high C = 9.5
+| Jan record high C = 17.6
+| Feb record high C = 19.5
+| Mar record high C = 23.2
+| Apr record high C = 27.4
+| May record high C = 30.3
+| Jun record high C = 36.7
+| Jul record high C = 36.3
+| Aug record high C = 37.4
+| Sep record high C = 34.3
+| Oct record high C = 27.0
+| Nov record high C = 20.9
+| Dec record high C = 18.2
+| Jan avg record high C = 11.3
+| Feb avg record high C = 13.8
+| Mar avg record high C = 15.4
+| Apr avg record high C = 17.7
+| May avg record high C = 23.5
+| Jun avg record high C = 28.6
+| Jul avg record high C = 28.5
+| Aug avg record high C = 28.0
+| Sep avg record high C = 24.6
+| Oct avg record high C = 20.7
+| Nov avg record high C = 14.6
+| Dec avg record high C = 11.6
+| Jan low C = 2.9
+| Feb low C = 3.2
+| Mar low C = 4.2
+| Apr low C = 5.8
+| May low C = 8.8
+| Jun low C = 11.8
+| Jul low C = 13.6
+| Aug low C = 13.3
+| Sep low C = 12.1
+| Oct low C = 9.1
+| Nov low C = 5.1
+| Dec low C = 3.4
+| Jan record low C = -13.0
+| Feb record low C = -12.3
+| Mar record low C = -7.0
+| Apr record low C = -2.6
+| May record low C = -0.9
+| Jun record low C = 3.8
+| Jul record low C = 6.1
+| Aug record low C = 5.8
+| Sep record low C = 2.9
+| Oct record low C = -0.2
+| Nov record low C = -5.9
+| Dec record low C = -10.2
+| Jan avg record low C = -3.6
+| Feb avg record low C = -3.4
+| Mar avg record low C = 1.2
+| Apr avg record low C = 4.0
+| May avg record low C = 7.4
+| Jun avg record low C = 9.4
+| Jul avg record low C = 11.5
+| Aug avg record low C = 11.8
+| Sep avg record low C = 9.4
+| Oct avg record low C = 5.1
+| Nov avg record low C = 2.7
+| Dec avg record low C = -0.3
+| precipitation colour = green
+| Jan precipitation mm = 90.7
+| Feb precipitation mm = 59.9
+| Mar precipitation mm = 73.6
+| Apr precipitation mm = 44.7
+| May precipitation mm = 60.7
+| Jun precipitation mm = 37.8
+| Jul precipitation mm = 39.1
+| Aug precipitation mm = 35.5
+| Sep precipitation mm = 65.1
+| Oct precipitation mm = 66.0
+| Nov precipitation mm = 84.4
+| Dec precipitation mm = 77.0
+| Jan percentsun = 27.0
+| Feb percentsun = 35.0
+| Mar percentsun = 41.0
+| Apr percentsun = 46.0
+| May percentsun = 46.0
+| Jun percentsun = 51.0
+| Jul percentsun = 56.0
+| Aug percentsun = 55.0
+| Sep percentsun = 51.0
+| Oct percentsun = 42.0
+| Nov percentsun = 33.0
+| Dec percentsun = 27.0
+| Jan sun = 72.2
+| Feb sun = 99.3
+| Mar sun = 148.4
+| Apr sun = 187.0
+| May sun = 211.3
+| Jun sun = 239.5
+| Jul sun = 266.8
+| Aug sun = 238.9
+| Sep sun = 191.3
+| Oct sun = 140.5
+| Nov sun = 91.2
+| Dec sun = 69.9
+| Jan snow days = 1.0
+| Feb snow days = trace
+| Mar snow days = trace
+| Apr snow days = 0
+| May snow days = 0
+| Jun snow days = 0
+| Jul snow days = 0
+| Aug snow days = 0
+| Sep snow days = 0
+| Oct snow days = 0
+| Nov snow days = trace
+| Dec snow days = 1.0
+| unit precipitation days = 1.0 mm
+| Jan precipitation days = 13.0
+| Feb precipitation days = 11.0
+| Mar precipitation days = 11.5
+| Apr precipitation days = 9.5
+| May precipitation days = 10.5
+| Jun precipitation days = 7.5
+| Jul precipitation days = 6.5
+| Aug precipitation days = 6.0
+| Sep precipitation days = 8.0
+| Oct precipitation days = 10.5
+| Nov precipitation days = 10.5
+| Dec precipitation days = 11.5
+| Jan humidity = 88
+| Feb humidity = 84
+| Mar humidity = 80
+| Apr humidity = 77
+| May humidity = 78
+| Jun humidity = 76
+| Jul humidity = 75
+| Aug humidity = 76
+| Sep humidity = 80
+| Oct humidity = 86
+| Nov humidity = 88
+| Dec humidity = 89
+| source = [[NOAA]]<ref name="noaa">{{Cite web |title=Nantes-Bouguenais (07222) - WMO Weather Station |url=ftp://ftp.atdd.noaa.gov/pub/GCOS/WMO-Normals/TABLES/REG_VI/FR/07222.TXT |access-date=31 March 2019 |publisher=[[NOAA]]}} [https://archive.org/details/19611990NormalsNOAANantesBouguenais Archived] 31 March 2019, at the [[Wayback Machine]].</ref>
+| source 2 = Infoclimat.fr (humidity)<ref>{{Cite web |title=Normes et records 1961–1990: Nantes-Atlantique (44) – altitude {{convert|26|m|abbr=off}} |url=http://www.infoclimat.fr/climatologie-07222-nantes-atlantique.html |access-date=10 December 2014 |publisher=Infoclimat |language=fr}}</ref>
+}}
+
+==={{anchor|Urban morphology}}Urban layout===
+[[File:Boulevard de Launay (Nantes) 1.JPG|thumb|alt=Photo of Boulevard de Launay|Boulevard de Launay, west of the city centre]]
+Nantes's layout is typical of French towns and cities. It has a historical centre with old monuments, administrative buildings and small shops, surrounded by 19th-century [[faubourg]]s surrounded by newer suburban houses and [[Public housing in France|public housing]]. The city centre has a medieval core (corresponding to the former walled town) and 18th-century extensions running west and east. The northern extension, Marchix, was considered squalid and nearly disappeared during the 20th century. The old town did not extend south before the 19th century, since it would have meant building on the unsteady islands in the Loire.{{sfn|Plan local d'urbanisme|2007}}
+
+The medieval core has narrow streets and a mixture of half-timbered buildings, more recent sandstone buildings, post-[[World War II]] reconstruction and modern redevelopment. It is primarily a student neighbourhood, with many bars and small shops. The eastern extension (behind [[Nantes Cathedral]]) was traditionally inhabited by the [[aristocracy]], and the larger western extension along the Loire was built for the [[bourgeoisie]]. It is Nantes's most-expensive area, with wide avenues, squares and ''[[hôtel particulier|hôtels particuliers]]''.{{sfn|Pierre Falga|2007}} The area was extended towards the Parc de Procé during the 19th century. The other faubourgs were built along the main boulevards and the plateaus, turning the valleys into parks.{{sfn|Dictionnaire de Nantes|2013|p=991}} Outside central Nantes several villages, including Chantenay, Doulon, L'Eraudière and Saint-Joseph-de-Porterie, were absorbed by urbanisation.{{sfn|Dictionnaire de Nantes|2013|p=83}}
+
+[[File:Nantes 2005 7.jpg|thumb|alt=Apartment blocks photographed across the Erdre|Port-Boyer and the Erdre]]
+After [[World War II]], several [[housing project]]s were built to accommodate Nantes's growing population. The oldest, Les Dervallières, was developed in 1956 and was followed by Bellevue in 1959 and Le Breil and Malakoff in 1971.{{sfn|Dictionnaire de Nantes|2013|p=83}} Once areas of poverty, they are experiencing regeneration since the 2000s.{{sfn|Julie Urbach|2016}} The northern outskirts of the city, along the [[Erdre]], include the main campus of the [[University of Nantes]] and other institutes of higher education. During the second half of the 20th century, Nantes expanded south into the [[Communes of France|communes]] of [[Rezé]], [[Vertou]] and [[Saint-Sébastien-sur-Loire]] (across the Loire but near the city centre) and north-bank communes including [[Saint-Herblain]], [[Orvault]] and [[Sainte-Luce-sur-Loire]].{{sfn|Dictionnaire de Nantes|2013|p=83}}
+
+The {{convert|4.6|km2|adj=on}} Isle of Nantes is divided between former shipyards on the west, an old faubourg in its centre and modern housing estates on the east. Since the 2000s, it has been subject to the conversion of former industrial areas into office space, housing and leisure facilities. Local authorities intend to make it an extension of the city centre. Further development is also planned on the north bank along an axis linking the train station and the Loire.{{sfn|Plan local d'urbanisme|2007}}
+
+===Parks and environment===
+[[File:Jardin des plantes Nantes-serre.JPG|thumb|alt=Photo of an old greenhouse in Nantes|A 19th-century greenhouse in the Jardin des Plantes]]
+Nantes has 100 public parks, gardens and squares covering {{convert|218|ha|abbr=off}}.{{sfn|Les parcs et}} The oldest is the [[Jardin des plantes de Nantes|Jardin des Plantes]], a botanical garden created in 1807. It has a large collection of exotic plants, including a 200-year-old ''[[Magnolia grandiflora]]'' and the national collection of ''[[camellia]]''.{{sfn|Jardin des plantes}} Other large parks include the Parc de Procé, Parc du Grand Blottereau and Parc de la Gaudinière, the former gardens of country houses built outside the old town. Natural areas, an additional {{convert|180|ha|abbr=off}}, include the Petite Amazonie (a [[Natura 2000]] protected forest) and several woods, meadows and marshes. Green space (public and private) makes up 41 percent of Nantes's area.{{sfn|Les parcs et}}
+
+The city adopted an ecological framework in 2007 to reduce [[greenhouse gas]]es and promote [[energy transition]].{{sfn|La qualité de|2014}} Nantes has three [[ecodistrict]]s (one on the Isle of Nantes, one near the train station and the third in the north-east of the city), which aim to provide affordable, ecological housing and counter [[urban sprawl]] by redeveloping neglected areas of the city.{{sfn|Les nouveaux quartiers|2010}}
+
+==Governance==
+
+===Local government===
+{{Further|List of mayors of Nantes}}
+[[File:Nantes - Hotel de ville 02.jpg|thumb|alt=Photo of the city hall|City Hall]]
+[[File:Johanna Rolland, maire de Nantes..jpg|thumb|alt=Photo of the mayor of Nantes|Johanna Rolland, mayor of Nantes since 2014]]
+Nantes is the {{Lang|fr|[[Prefectures in France|préfecture]]}} (capital city) of the [[Loire-Atlantique]] ''[[departments of France|département]]'' and the [[Pays de la Loire]] {{Lang|fr|[[regions of France|région]]}}. It is the residence of a {{Lang|fr|région}} and ''département'' ''prefect'', local representatives of the [[Government of France|French government]]. Nantes is also the meeting place of the {{Lang|fr|région}} and ''département'' councils, two elected political bodies.
+
+The city is administered by a mayor and a council, elected every six years. The council has 65 councillors.{{sfn|Vos 65 élu-e-s}} It originated in 1410, when [[John V, Duke of Brittany]] created the Burghers's Council. The assembly was controlled by wealthy merchants and the Lord Lieutenant. After the union of Brittany and France, the burghers petitioned the French king to give them a city council which would enhance their freedom; their request was granted by [[Francis II of France|Francis II]] in 1559. The new council had a mayor, ten aldermen and a crown prosecutor. The first council was elected in 1565 with Nantes's first mayor, Geoffroy Drouet.{{sfn|Le pouvoir municipal}} The present city council is a result of the [[French Revolution]] and a 4 December 1789 act. The current [[Mayor (France)|mayor]] of Nantes is Johanna Rolland ([[Socialist Party (France)|Socialist Party]]), who was elected on 4 April 2014. The party has held a majority since 1983, and Nantes has become a [[Left-wing politics|left-wing]] stronghold.{{sfn|Antoine Gazeau|2013}}
+
+Since 1995, Nantes has been divided into 11 neighbourhoods (''quartiers''), each with an advisory committee and administrative agents. City-council members are appointed to each ''quartier'' to consult with the local committees. The neighbourhood committees, existing primarily to facilitate dialogue between citizens and the local government, meet twice a year.{{sfn|Le dialogue citoyen}}
+
+Like most [[communes of France|French municipalities]], Nantes is part of an [[communes in France#Intercommunality|intercommunal]] structure which combines the city with 24 smaller, neighbouring communes. Called [[Nantes Métropole]], it encompasses the city's [[metropolitan area]] and had a population of 609,198 in 2013. Nantes Métropole administers urban planning, transport, public areas, waste disposal, energy, water, housing, higher education, economic development, employment and European topics.{{sfn|Les compétences de}} As a consequence, the city council's mandates are security, primary and secondary education, early childhood, social aid, culture, sport and health.{{sfn|Compétences de la}} Nantes Métropole, created in 1999, is administered by a council consisting of the 97 members of the local municipal councils. According to an act passed in 2014, beginning in 2020, the metropolitan council will be elected by the citizens of Nantes Métropole. The council is currently overseen by Rolland.{{sfn|Une organisation au}}
+
+===Heraldry===
+[[File:Coat of Arms of Nantes.svg|thumb|alt=See caption|Nantes's coat of arms]]
+Local authorities began using official symbols in the 14th century, when the provost commissioned a seal on which the Duke of Brittany stood on a boat and protected Nantes with his sword. The present coat of arms was first used in 1514; its [[Ermine (heraldry)|ermines]] symbolise [[Brittany]], and its green waves suggest the Loire.{{sfn|Historique des armoiries}}
+
+Nantes's coat of arms had ducal emblems before the French Revolution: the belt cord of the [[Order of the Ladies of the Cord|Order of the Cord]] (founded by [[Anne of Brittany]]) and the city's [[coronet]]. The coronet was replaced by a [[mural crown]] during the 18th century, and during the revolution a new emblem with a statue of [[Liberty (personification)|Liberty]] replaced the coat of arms. During Napoleon's rule the coat of arms returned, with bees (a symbol of his [[First French Empire|empire]]) added to the [[Chief (heraldry)|chief]]. The original coat of arms was readopted in 1816, and the [[Order of Liberation|Liberation Cross]] and the [[Croix de guerre 1939–1945 (France)|1939–45 War Cross]] were added in 1948.{{sfn|Historique des armoiries}}
+
+Before the revolution, Nantes's motto was "''Oculi omnium in te sperant, Domine''" ("The eyes of all wait upon thee, O Lord", a line from a [[grace (prayer)|grace]]). It disappeared during the revolution, and the city adopted its current motto—"''Favet Neptunus eunti''" ("Neptune favours the traveller"){{sfn|Historique des armoiries}}—in 1816. Nantes's flag is derived from the naval [[Jack (flag)|jack]] flown by Breton vessels before the French Revolution. The flag has a white cross on a black one; its [[Quartering (heraldry)|quarters]] have Breton ermines except for the upper left, which has the city's coat of arms. The black and white crosses are historic symbols of Brittany and France, respectively.{{sfn|Drapeau de la}}
+
+===Nantes and Brittany===
+[[File:Château de Nantes - armoiries ducales.jpg|thumb|alt=Photo of a coat of arms on a castle wall|The arms of the dukes of Brittany in the [[Château des ducs de Bretagne|Castle of the Dukes of Brittany]]]]
+Nantes and the Loire-Atlantique ''département'' were part of the historic province of [[Brittany]], and the city and [[Rennes]] were its traditional capitals. In the 1789 replacement of the historic [[provinces of France]], Brittany was divided among five ''[[départements]]''. The administrative region of Brittany did not exist during the 19th and early 20th centuries, although its cultural heritage remained.{{sfn|Reviews of Life}} Nantes and Rennes are in [[Upper Brittany]] (the [[Romance languages|Romance-speaking]] part of the region), and [[Lower Brittany]] in the west is traditionally [[Breton language|Breton-speaking]] and more [[Celts|Celtic]] in culture. As a large port whose outskirts encompassed other provinces, Nantes has been Brittany's economic capital and a cultural crossroads. Breton culture in Nantes is not necessarily characteristic of Lower Brittany's, although the city experienced substantial Lower Breton immigration during the 19th century.{{sfn|Le Page|2014|p=71}}{{sfn|Le Page|2014|p=76}}
+
+In the mid-20th century, several French governments considered creating a new level of local government by combining ''départements'' into larger regions.{{sfn|Le Page|2014|p=83}} The regions, established by acts of parliament in 1955 and 1972, loosely follow the pre-revolutionary divisions and Brittany was revived as [[Brittany (region)|Region Brittany]]. Nantes and the Loire-Atlantique ''département'' were not included, because each new region centred on one metropolis.{{sfn|Le Page|2014|pp=93-94}} Region Brittany was created around Rennes, similar in size to Nantes; the Loire-Atlantique ''département'' formed a new region with four other ''départements'', mainly portions of the old provinces of [[Duchy of Anjou|Anjou]], [[Maine (France)|Maine]] and [[Poitou]]. The new region was called [[Pays de la Loire]] ("Loire Countries") although it does not include most of the [[Loire Valley]]. It has often been said that the separation of Nantes from the rest of Brittany was decided by [[Vichy France]] during the [[Second World War]]. [[Philippe Pétain]] created a new Brittany without Nantes in 1941, but his region disappeared after the [[Liberation of France|liberation]].{{sfn|Alain Déniel|1976}}{{sfn|Bodineau|1995}}{{sfn|Le Page|2014|p=95}}
+
+Debate continues about Nantes's place in Brittany, with polls indicating a large majority in Loire-Atlantique and throughout the historic province favouring [[Reunification of Brittany|Breton reunification]].{{sfn|Le Page|2014|p=124}} In a 2014 poll, 67 percent of Breton people and 77 percent of [[Loire-Atlantique]] residents favoured reunification.{{sfn|La réunification de|2015}} Opponents, primarily Pays de la Loire officials, say that their region could not exist economically without Nantes. Pays de la Loire officials favour a union of Brittany with the Pays de la Loire, but Breton politicians oppose the incorporation of their region into a Greater West region.{{sfn|Bretagne: la bataille de la réunification}} Nantes's city council has acknowledged the fact that the city is culturally part of Brittany, but its position on reunification is similar to that of the Pays de la Loire.{{sfn|Le Page|2014|p=134}} City officials tend to consider Nantes an open metropolis with its own personality, independent of surrounding regions.{{sfn|Le Page|2014|p=135}}
+
+===Twin towns – sister cities===
+{{See also|List of twin towns and sister cities in France}}
+Nantes is [[Sister city|twinned]] with:<ref>{{cite web |title=Déclaration d'amitié Nantes-Cardiff|url=https://metropole.nantes.fr/actualites/2020/institutions/nantes-cardiff|publisher=Nantes|language=fr|access-date=2022-12-05}}</ref>
+{{div col|colwidth=20em}}
+*{{flagicon|WAL}} [[Cardiff]], Wales, United Kingdom (1964)
+*{{flagicon|ROU}} [[Cluj-Napoca]], Romania (1991){{sfn|Orase infratite}}
+*{{flagicon|USA}} [[Jacksonville, Florida|Jacksonville]], United States (1984){{sfn|Nantes-USA}}
+*{{flagicon|JPN}} [[Niigata (city)|Niigata]], Japan (1999){{sfn|Jumelage entre les villes}}
+*{{flagicon|CHN}} [[Qingdao]], China (2005){{sfn|Atlas français de la coopération décentralisée}}
+*{{flagicon|GER}} [[Saarbrücken]], Germany (1965){{sfn|Nantes-Sarrebruck}}
+*{{flagicon|USA}} [[Seattle]], United States (1980){{sfn|Nantes, France}}
+*{{flagicon|KOR}} [[Suncheon]], South Korea (2007){{sfn|Liste des jumelages}}
+*{{flagicon|GEO}} [[Tbilisi]], Georgia (1979){{sfn|Tbilisi Sister Cities}}
+{{div col end}}
+
+===Cooperation agreements===
+Partnership agreements have been signed with cities in developing countries, including:<ref>{{cite web |title=Solidarité et coopérations internationales|url=https://metropole.nantes.fr/territoire-institutions/nantes/competences-municipales/solidarite-internationale|publisher=Nantes|language=fr|access-date=2022-12-05}}</ref>
+{{div col|colwidth=20em}}
+*{{flagicon|MAR}} [[Agadir]], Morocco
+*{{flagicon|CMR}} [[Dschang]], Cameroon
+*{{flagicon|HTI}} [[Grand'Anse (department)|Grand'Anse]], Haiti
+*{{flagicon|GUI}} [[Kindia]], Guinea
+*{{flagicon|BRA}} [[Recife]], Brazil
+*{{flagicon|SEN}} [[Rufisque]], Senegal
+{{div col end}}
+
+=={{anchor|Demography|Demographic structure}}Population==
+[[File:Unité urbaine et aire urbaine de Nantes.svg|thumb|left|alt=Map of Loire-Atlantique with Nantes and its urban area highlighted|Loire-Atlantique, with Nantes (in black) surrounded by its urban area (in red) and metropolitan area (in yellow). Nantes Métropole is outlined in black.]]
+
+{{Historical populations
+| align = none
+| cols = 2
+| percentages = pagr
+| source = EHESS<ref name=ehess>{{Cassini-Ehess|24557|Nantes}}</ref> and INSEE (1968–2020)<ref name=pophist>[https://www.insee.fr/fr/statistiques/7633058?geo=COM-44109 Évolution et structure de la population en 2020], INSEE</ref>
+| graph-pos = bottom
+|1793 | 80000
+|1800 | 77162
+|1806 | 77226
+|1821 | 68427
+|1831 | 77992
+|1841 | 83389
+|1846 | 94310
+|1851 | 96362
+|1856 | 108530
+|1861 | 113625
+|1866 | 111956
+|1872 | 118517
+|1876 | 122247
+|1881 | 124319
+|1886 | 127482
+|1891 | 122750
+|1896 | 123902
+|1901 | 132990
+|1906 | 133247
+|1911 | 170535
+|1921 | 183704
+|1926 | 184509
+|1931 | 187343
+|1936 | 195185
+|1946 | 200265
+|1954 | 222790
+|1962 | 240028
+|1968 | 260244
+|1975 | 256693
+|1982 | 240539
+|1990 | 244995
+|1999 | 270251
+|2009 | 282047
+|2014 | 298029
+|2020 | 320732
+}}
+Nantes had 320,732 inhabitants in 2020, the largest population in its history.<ref name=pophist/> Although it was the largest city in Brittany during the [[Middle Ages]], it was smaller than three other north-western towns: [[Angers]], [[Tours]] and [[Caen]].{{sfn|Bairouch|Latou|Chèvre|1988|p=28}} Nantes has experienced consistent growth since the Middle Ages, except during the French Revolution and the reign of [[Napoleon I]] (when it experienced depopulation, primarily due to the [[Continental System]]).{{sfn|Dictionnaire de Nantes|2013|p=797}} In 1500, the city had a population of around 14,000.{{sfn|Bairouch|Latou|Chèvre|1988|p=28}} Nantes's population increased to 25,000 in 1600 and to 80,000 in 1793.{{sfn|Dictionnaire de Nantes|2013|p=797}} In 1800 it was the sixth-largest French city, behind [[Paris]] (550,000), [[Lyon]], [[Marseilles]], [[Bordeaux]] and [[Rouen]] (all 80,000 to 109,000).{{sfn|Bairouch|Latou|Chèvre|1988|p=28}} Population growth continued through the 19th century; although other European cities experienced increased growth due to industrialisation, in Nantes growth remained at its 18th-century pace.{{sfn|Dictionnaire de Nantes|2013|p=797}} Nantes reached the 100,000 mark about 1850, and 130,000 around 1900. In 1908 it annexed the neighbouring ''[[communes of France|communes]]'' of Doulon and Chantenay, gaining almost 30,000 inhabitants. Population growth was slower during the 20th century, remaining under 260,000 from the 1960s to the 2000s primarily because urban growth spread to surrounding ''communes''. Since 2000 the population of Nantes began to rise due to redevelopment,{{sfn|Dictionnaire de Nantes|2013|p=798}} and its [[urban area]] has continued to experience population growth. The Nantes [[metropolitan area]] had a population of 907,995 in 2013, nearly doubling since the 1960s. Its population is projected to reach one million by 2030, based on the fertility rate.{{sfn|Lionel Kerdommarec|Patrick Pailloux|2011}}
+
+The population of Nantes is younger than the national average, with 44.3 percent under age 29 (France 35.3 percent). People over age 60 account for 18.7 percent of the city's population (France 26.4 percent).<ref name=pophist/> Single-person households are 53.1 percent of the total, and 16.4 percent of households are families with children.<ref>[https://www.insee.fr/fr/statistiques/7633961?sommaire=7634121&geo=COM-44109#ancre-FAM_T1 Couples - Familles - Ménages en 2020], INSEE</ref> Young couples with children tend to move outside the city because of high property prices, and most newcomers are students (37 percent) and adults moving for professional reasons (49 percent). Students generally come from within the region, and working people are often from [[Paris]].{{sfn|Plan local d'urbanisme|2007}} In 2020, the unemployment rate was 10.5 percent of the active population (France 9.5 percent, Loire-Atlantique 7.9 percent).<ref name=emploi>[https://www.insee.fr/fr/statistiques/7632005?geo=COM-44109 Population active, emploi et chômage au sens du recensement en 2020], INSEE</ref> The poorest [[public housing in France|council estate]]s had unemployment rates of 22 to 47 percent.{{sfn|Plan local d'urbanisme|2007}} Of those employed, 59.5 percent were in intermediate or management positions, 24.1 percent were employees and 11.4 percent were workers in 2020.<ref name=emploi/> In 2020, 39.7 percent of the population over 15 had a higher-education degree and 12.9 percent had no diploma.<ref>[https://www.insee.fr/fr/statistiques/7633108?geo=COM-44109 Diplômes - Formation en 2020], INSEE</ref>
+
+===Ethnicity and languages===
+Nantes has long had ethnic minorities. Spanish, Portuguese and Italian communities were mentioned during the 16th century, and an Irish [[Jacobitism|Jacobite]] community appeared a century later. However, immigration has always been lower in Nantes than in other large French cities. The city's foreign population has been stable since 1990, half the average for other French cities of similar size.{{sfn|Plan local d'urbanisme|2007}} France does not have ethnic or religious categories in its census, but counts the number of people born in a foreign country. In 2013 this category had 24,949 people in Nantes, or 8.5 percent of the total population. The majority (60.8 percent) were 25 to 54 years old. Their primary countries of origin were Algeria (13.9 percent), Morocco (11.4 percent) and Tunisia (5.8 percent). Other African countries accounted for 24.9 percent, the European Union 15.6 percent, the rest of Europe 4.8 percent and Turkey 4.3 percent.{{sfn|Img1B}}
+
+The city is part of the territory of the [[langues d'oïl]], a [[dialect continuum]] which stretches across northern France and includes standard French. The local dialect in Nantes is [[Gallo language|Gallo]], spoken by some in Upper Brittany. Nantes, as a large city, has been a stronghold of standard French. A local dialect (''parler nantais'') is sometimes mentioned by the press, but its existence is dubious and its vocabulary mainly the result of rural emigration.{{sfn|Dictionnaire de Nantes|2013|p=753}} As a result of 19th-century Lower Breton immigration, [[Breton language|Breton]] was once widely spoken in parts of Nantes.{{sfn|Le Page|2014|p=70}} Nantes signed the charter of the [[Ofis Publik ar Brezhoneg|Public Office for the Breton Language]] in 2013. Since then, the city has supported its six bilingual schools and introduced bilingual signage.{{sfn|Nantes signe la|2013}}
+
+==Economy==
+[[File:Tereos Nantes.JPG|thumb|alt=Aerial photo of a sugar refinery in Nantes|Beghin-Say sugar refinery]]
+For centuries, Nantes's economy was linked to the Loire and the Atlantic; the city had France's largest harbour in the 18th century.{{sfn|Decours|2006|p=59}} Food processing predominated during the [[Industrial Age]], with sugar refineries (Beghin-Say), biscuit factories ([[Lefèvre-Utile|LU]] and [[BN (biscuit)|BN]]), canned fish (Saupiquet and Tipiak) and processed vegetables (Bonduelle and Cassegrain); these brands still dominate the French market. The Nantes region is France's largest food producer; the city has recently become a hub of innovation in food security, with laboratories and firms such as [[Eurofins Scientific]].{{sfn|Industries agroalimentaires}}
+
+Nantes experienced [[deindustrialisation]] after port activity in [[Saint-Nazaire]] largely ceased, culminating in the 1987 closure of the shipyards. At that time, the city attempted to attract service firms. Nantes capitalised on its culture and proximity to the sea to present itself as creative and modern. [[Capgemini]] (management consulting), [[SNCF]] (rail) and [[Bouygues Telecom]] opened large offices in the city, followed by smaller companies.{{sfn|Comment Nantes est|2015}} Since 2000 Nantes has developed a business district, Euronantes, with {{convert|500000|m2|abbr=unit|e6ft2}} of office space and 10,000 jobs.{{sfn|Euronantes, projet emblématique|2011}} Although its stock exchange was merged with that of Paris in 1990,{{sfn|Philippe Audureau}} Nantes is the third-largest [[financial centre]] in France after [[Paris]] and [[Lyon]].{{sfn|La deuxième place}}
+
+[[File:Euronantes2.jpg|thumb|alt=Aerial photo of the Euronantes district|The Euronantes business district]]
+The city has one of the best-performing economies in France, producing {{Euro|55 billion|link=yes}} annually; {{Euro|29 billion}} returns to the local economy.{{sfn|Quiriet|2016}} Nantes has over 25,000 businesses with 167,000 jobs,{{sfn|Économie}} and its metropolitan area has 42,000 firms and 328,000 jobs.{{sfn|L’Emploi dans la}} The city is one of France's most dynamic in job creation, with 19,000 jobs created in Nantes Métropole between 2007 and 2014 (outperforming larger cities such as [[Marseilles]], [[Lyon]] and [[Nice]]).{{sfn|L’Emploi dans la}} The [[communes of France|communes]] surrounding Nantes have industrial estates and retail parks, many along the region's ring road. The metropolitan area has ten large shopping centres; the largest, Atlantis in [[Saint-Herblain]], is a mall with 116 shops and several superstores (including [[IKEA]]).{{sfn|Nantes. Le nouveau|2012}} The shopping centres threaten independent shops in central Nantes, but it remains the region's largest retail area {{sfn|Schéma directeur de|2012|p=12}} with about 2,000 shops.{{sfn|Un centre ville}} Tourism is a growing sector and Nantes, with two million visitors annually, is France's seventh-most-visited city.{{sfn|Nantes en 7ème}}
+
+In 2021, 79.8 percent of the city's businesses were involved in trade, transport and services; 12.2 percent in public administration, education and health; 4.4 percent in construction, and 3.6&nbsp;percent in industry.<ref>[https://www.insee.fr/fr/statistiques/7657371?geo=COM-44109 Caractéristiques des établissements fin 2021], INSEE</ref> Although industry is less significant than it was before the 1970s, Nantes is France's second-largest centre for [[aeronautics]].{{sfn|Les filières économiques}} The European company [[Airbus]] produces its fleet's [[wingbox]]es and [[radome]]s in Nantes, employing about 2,000 people.{{sfn|Travailler pour Airbus}} The city's remaining port terminal still handles wood, sugar, fertiliser, metals, sand and cereals, ten percent of the total Nantes–[[Saint-Nazaire]] harbour traffic (along the Loire estuary).{{sfn|Les multiples facettes}} The Atlanpole [[technopole]], in northern Nantes on its border with [[Carquefou]], intends to develop technological and science sectors throughout the [[Pays de la Loire]]. With a [[business incubator]], it has 422 companies and 71 research and higher-education facilities and specialises in [[biopharmaceutical]]s, [[information technology]], [[renewable energy]], mechanics, food production and naval engineering.{{sfn|Presentation}} Creative industries in Nantes had over 9,000 architectural, design, fashion, media, visual-arts and digital-technology companies in 2016, a 15 percent job-creation rate between 2007 and 2012 and have a hub under construction on the [[Île de Nantes|Isle of Nantes]].{{sfn|Industries créatives et}}
+
+==Architecture==
+[[File:Château des Ducs de Bretagne à Nantes.jpg|thumb|alt=Photo of the castle gate|Main gate of the [[Château des ducs de Bretagne|Castle of the Dukes of Brittany]]]]
+Nantes's cityscape is primarily recent, with more buildings built during the 20th century than in any other era.{{sfn|Dictionnaire de Nantes|2013|p=44}} The city has 127 buildings listed as ''[[Monument historique|monuments historiques]]'', the 19th-ranked French city.{{sfn|Monuments historiques à}} Most of the old buildings were made of [[tuffeau stone]] (a light, easily sculpted [[sandstone]] typical of the [[Loire Valley]]) and cheaper [[schist]]. Because of its sturdiness, [[granite]] was often used for foundations. Old buildings on the former Feydeau Island and the neighbouring embankments often lean because they were built on damp soil.{{sfn|La ville rivulaire}}
+
+Nantes has a few structures dating to [[Ancient history|antiquity]] and the [[early Middle Ages]]. Remnants of the third-century Roman city wall exist in the old town.{{sfn|Le patrimoine des|1999|p=651}} The Saint-Étienne chapel, in the Saint-Donatien cemetery outside the city centre, dates to 510 and was originally part of a Roman [[necropolis]].{{sfn|Le patrimoine des|1999|p=652}} The Roman city walls were largely replaced during the 13th and 15th centuries. Although many of the walls were destroyed in the 18th century, some segments (such as Porte Saint-Pierre, built in 1478) survived.{{sfn|Le patrimoine des|1999|p=682}}
+
+[[File:Nantes - Beffroi Ste Croix 01.jpg|thumb|alt=Ornate church belfry against a blue sky|[[Belfry (architecture)|Belfry]] of Sainte-Croix Church]]
+Several 15th- and 16th-century [[Half-timbering|half-timbered]] houses still stand in Le Bouffay, an ancient area corresponding to Nantes's medieval core{{sfn|Le patrimoine des|1999|p=664}} which is bordered by [[Nantes Cathedral]] and the [[Château des ducs de Bretagne|Castle of the Dukes of Brittany]]. The large, [[Gothic architecture|Gothic]] cathedral replaced an earlier [[Romanesque architecture|Romanesque]] church. Its construction took 457 years, from 1434 to 1891. The cathedral's tomb of [[Francis II, Duke of Brittany]] and his wife is an example of French [[Renaissance sculpture]].{{sfn|Le patrimoine des|1999|p=669}} The Psallette, built next to the cathedral about 1500, is a late-Gothic mansion.{{sfn|Le patrimoine des|1999|p=682}} The Gothic castle is one of Nantes's chief landmarks. Begun in 1207, many of its current buildings date to the 15th century. Although the castle had a military role, it was also a residence for the ducal [[Court (royal)|court]]. Granite towers on the outside hide delicate tuffeau-stone ornaments on its inner facades, designed in [[Flamboyant]] style with [[Renaissance architecture|Italianate influence]].{{sfn|Le patrimoine des|1999|p=656}} The [[Counter-Reformation]] inspired two [[baroque]] churches: the 1655 Oratory Chapel and Sainte-Croix Church, rebuilt in 1670. A municipal belfry clock (originally on a tower of Bouffay Castle, a prison demolished after the [[French Revolution]]) was added to the church in 1860. {{sfn|Le patrimoine des|1999|p=693}}
+
+[[File:Nantes - Colonne Louis-XVI 04.jpg|thumb|alt=Large column with a statue of Louis XVI on top|Place Foch, with its [[Louis XVI]] column]]
+After the [[Renaissance]], Nantes developed west of its medieval core along new embankments. Trade-derived wealth permitted the construction of many public monuments during the 18th century, most designed by the [[Neoclassical architecture|neoclassical]] architects Jean-Baptiste Ceineray and [[Mathurin Crucy]]. They include the Chamber of Accounts of Brittany (now the ''[[préfecture]]'', 1763–1783); the [[Théâtre Graslin|Graslin Theatre]] (1788); Place Foch, with its column and statue of [[Louis XVI]] (1790), and the [[Palais de la Bourse (Nantes)|stock exchange]] (1790–1815). Place Royale was completed in 1790, and the large fountain added in 1865. Its statues represent the city of Nantes, the Loire and its main tributaries. The city's 18th-century heritage is also reflected in the ''[[hôtel particulier|hôtels particuliers]]'' and other private buildings for the wealthy, such as the Cours Cambronne (inspired by [[Georgian architecture|Georgian]] [[terraced house|terraces]]).{{sfn|Le patrimoine des|1999|p=714}} Although many of the 18th-century buildings have a neoclassical design, they are adorned with sculpted [[rococo]] faces and balconies. This architecture has been called "Nantais [[baroque]]".{{sfn|Gilles Bienvenu|Françoise Lelièvre|1992|p=41}}
+
+[[File:Passage Pommeraye 10.jpg|thumb|alt=Ornate, two-storey shopping mall|The [[Passage Pommeraye]], a [[Arcade (architecture)#Shopping arcades|shopping arcade]]]]
+Most of Nantes's churches were rebuilt during the 19th century, a period of population growth and religious revival after the French Revolution. Most were rebuilt in [[Gothic Revival architecture|Gothic Revival style]], including the city's two basilicas: Saint-Nicolas and Saint-Donatien. The first, built between 1844 and 1869, was one of France's first Gothic Revival projects. The latter was built between 1881 and 1901, after the [[Franco-Prussian War]] (which triggered another Catholic revival in France). Notre-Dame-de-Bon-Port, near the Loire, is an example of 19th-century neoclassicism. Built in 1852, its dome was inspired by that of [[Les Invalides]] in [[Paris]].{{sfn|Le patrimoine des|1999|p=715}} The [[Passage Pommeraye]], built in 1840–1843, is a multi-storey shopping arcade typical of the mid-19th century.{{sfn|Le patrimoine des|1999|p=717}}
+
+Industrial architecture includes several factories converted into leisure and business space, primarily on the [[Ile de Nantes|Isle of Nantes]]. The former [[Lefèvre-Utile]] factory is known for its Tour Lu, a publicity tower built in 1909. Two cranes in the former harbour, dating to the 1950s and 1960s, have also become landmarks. Recent architecture is dominated by postwar concrete reconstructions, modernist buildings and examples of contemporary architecture such as the courts of justice, designed by [[Jean Nouvel]] in 2000.{{sfn|Laissez-Vous conter Nantes}}{{sfn|Dictionnaire de Nantes|2013|pp=48–49}}
+
+==Culture==
+
+===Museums===
+[[File:Reliquaire Anne de Bretagne - Musée de Bretagne 20141102-02.JPG|thumb|alt=Heart-shaped reliquary|[[Reliquary]] of [[Anne of Brittany]] in the [[Musée Dobrée|Dobrée Museum]]]]
+Nantes has several museums. The [[Musée des Beaux-Arts de Nantes|Fine Art Museum]] is the city's largest. Opened in 1900, it has an extensive collection ranging from [[Italian Renaissance]] paintings to contemporary sculpture. The museum includes works by [[Tintoretto]], [[Jan Brueghel the Elder|Brueghel]], [[Peter Paul Rubens|Rubens]], [[Georges de La Tour]], [[Jean-Auguste-Dominique Ingres|Ingres]], [[Claude Monet|Monet]], [[Pablo Picasso|Picasso]], [[Wassily Kandinsky|Kandinsky]] and [[Anish Kapoor]].{{sfn|Le Musée d'arts}} The Historical Museum of Nantes, in the [[château des Ducs de Bretagne|castle]], is dedicated to local history and houses the municipal collections. Items include paintings, sculptures, photographs, maps and furniture displayed to illustrate major points of Nantes history such as the [[Atlantic slave trade]], [[industrialisation]] and the [[Second World War]].{{sfn|Collections et recherches}}
+
+The [[Musée Dobrée|Dobrée Museum]], closed for repairs {{As of|2017|lc=y}}, houses the ''[[département]]''{{'s}} archaeological and decorative-arts collections. The building is a [[Romanesque Revival architecture|Romanesque Revival]] mansion facing a 15th-century manor. Collections include a golden reliquary made for [[Anne of Brittany]]'s heart, medieval statues and timber frames, coins, weapons, jewellery, manuscripts and archaeological finds.{{sfn|Les collections}} The [[Natural History Museum of Nantes]] is one of the largest of its kind in [[France]]. It has more than 1.6&nbsp;million zoological specimens and several thousand mineral samples.{{sfn|Aperçu des collections}} The [[Machines of the Isle of Nantes]], opened in 2007 in the converted shipyards, has automatons, prototypes inspired by deep-sea creatures and a {{convert|12|m|ft|adj=mid|-tall}} walking elephant. With 620,000 visitors in 2015, the ''Machines'' were the most-visited non-free site in [[Loire-Atlantique]].{{sfn|Machines de l'île}} Smaller museums include the [[Jules Verne Museum]] (dedicated to the author, who was born in Nantes) and the Planetarium. The HAB Galerie, located in a former banana warehouse on the Loire, is Nantes's largest art gallery. Owned by the city council, it is used for contemporary-art exhibitions.{{sfn|HAB Galerie}} The council manages four other exhibition spaces, and the city has several private galleries.{{sfn|Autres lieux d'exposition}}
+
+===Venues===
+[[File:Scène, Théâtre Graslin, Nantes Jul 15, 2012.jpg|thumb|alt=An empty Graslin Theatre, facing the stage|The Graslin Theatre, opened in 1788]]
+''[[Le Zénith]] Nantes Métropole'', an indoor arena in [[Saint-Herblain]], has a capacity of 9,000 and is France's largest concert venue outside Paris.{{sfn|Le Zénith Nantes}} Since its opening in 2006, [[Placebo (band)|Placebo]], [[Supertramp]], [[Snoop Dogg]] and [[Bob Dylan]] have performed on its stage. Nantes's largest venue is ''La Cité, Nantes Events Center'', a 2,000-seat auditorium.{{sfn|La Cité Nantes}} It hosts concerts, congresses and exhibitions, and is the primary venue of the [[Orchestre national des Pays de la Loire|Pays de la Loire National Orchestra]]. The [[Théâtre Graslin|Graslin Theatre]], built in 1788, is home to the [[Angers-Nantes Opéra]]. The former [[LU (biscuits)|LU]] biscuit factory, facing the castle, has been converted into [[Le Lieu unique]]. It includes a [[Turkish bath]], restaurant and bookshop and hosts art exhibits, drama, music and dance performances.{{sfn|Le lieu unique}} The 879-seat Grand T is the [[Loire-Atlantique]] ''département'' theatre,{{sfn|Le Grand T}} and the Salle Vasse is managed by the city. Other theatres include the ''Théâtre universitaire'' and several private venues. La Fabrique, a cultural entity managed by the city, has three sites which include music studios and concert venues. The largest is Stereolux, specialising in rock concerts, experimental [[happening]]s and other contemporary performances. The 140-seat Pannonica specialises in [[jazz]], and the nearby 503-seat Salle Paul-Fort is dedicated to contemporary French singers.{{sfn|Pannonica}}{{sfn|La Bouche d'Air}} Nantes has five cinemas, with others throughout the metropolitan area.{{sfn|Dictionnaire de Nantes|2013|pp=238-239}}
+
+===Events and festivals===
+[[File:Les Nefs et les Machines de lîle de Nantes (7724255850).jpg|thumb|alt=Spacious hall, with plants and natural lighting|Main hall at the [[Machines of the Isle of Nantes]]]]
+The [[Royal de Luxe]] [[street theatre]] company moved to Nantes in 1989, and has produced a number of shows in the city. The company is noted for its large [[marionette]]s (including a giraffe, the Little Giant and the Sultan's Elephant), and has also performed in [[Lisbon]], [[Berlin]], [[London]] and [[Santiago]].{{sfn|Royal de Luxe}} Former Royal de Luxe machine designer [[François Delarozière]] created the Machines of the Isle of Nantes and its large walking elephant in 2007. The Machines sponsor theatre, dance, concerts, ice-sculpting shows and performances for children in the spring and fall and at [[Christmas]]time.{{sfn|Programmation culturelle}}
+
+''[[Estuaire (biennale)|Estuaire]]'' contemporary-art exhibitions were held along the Loire estuary in 2007, 2009 and 2012.{{sfn|Estuaire}} They left several permanent works of art in Nantes and inspired the Voyage à Nantes, a series of contemporary-art exhibitions across the city which has been held every summer since 2012. A route (a green line painted on the pavement) helps visitors make the ''voyage'' between the exhibitions and the city's major landmarks. Some works of art are permanent, and others are used for a summer.{{sfn|Voyage à Nantes}} Permanent sculptures include [[Daniel Buren]]'s ''Anneaux'' (a series of 18 rings along the Loire reminiscent of [[Atlantic slave trade]] shackles) and works by [[François Morellet]] and [[Dan Graham]].{{sfn|Dictionnaire de Nantes|2013|p=56}}
+
+''[[La Folle Journée]]'' (''The Mad Day'', an alternate title of [[Pierre Beaumarchais]]' play ''[[The Marriage of Figaro (play)|The Marriage of Figaro]]'') is a [[classical music]] festival held each winter. The original one-day festival now lasts for five days. Its programme has a main theme (past themes have included exile, nature, Russia and [[Frédéric Chopin]]), mixing classics with lesser-known and -performed works. The concept has been exported to [[Bilbao]], [[Tokyo]] and [[Warsaw]], and the festival sold a record 154,000 tickets in 2015.{{sfn|Record de fréquentation|2015}} The September Rendez-vous de l'Erdre couples a jazz festival with a pleasure-boating show on the Erdre,{{sfn|Dictionnaire de Nantes|2013|p=422}} exposing the public to a musical genre considered elitist; all concerts are free. Annual attendance is about 150,000.{{sfn|Aurélien Tiercin|2016}} The [[Three Continents Festival]] is an annual film festival dedicated to [[Asia]], [[Africa]] and [[South America]], with a Mongolfière d'or (Golden Hot-air Balloon) awarded to the best film. Nantes also hosts ''Univerciné'' (festivals dedicated to films in [[English language|English]], [[Italian language|Italian]], [[Russian language|Russian]] and [[German language|German]]) and a smaller Spanish film festival. The [[Scopitone]] festival is dedicated to [[digital art]], and ''[[Utopiales]]'' is an international [[science fiction]] festival.{{sfn|Dictionnaire de Nantes|2013|p=423}}
+
+=== Slavery Memorial ===
+{{Main|Memorial to the Abolition of Slavery}}
+A path along the [[Loire|Loire river]] banks, between the [[Anne of Brittany|Anne-de-Bretagne]] Bridge and the [[Victor Schœlcher|Victor-Schoelcher]] footbridge begins the Nantes slavery memorial. The path is covered in 2,000 spaced glass inserts, with 1,710 of them commemorating the names of slave ships and their port dates in Nantes. The other 290 inserts name ports in [[Africa]], the [[Americas]], and the area around the [[Indian Ocean]]. The path and surrounding 1.73-acre park lead to the under-the-docks part of the memorial which opens with a staircase, leading visitors underground closer to the water level of the river, which can be seen through the gaps between the support pillars. Upon entry, visitors are greeted with [[Universal Declaration of Human Rights|The Universal Declaration of Human Rights]] and the word "freedom" written in 47 different languages from areas affected by the slave trade. Other etchings of quotes by figures like [[Nelson Mandela]] and [[Dr. Martin Luther King Jr.]] appear on the slanted frosted glass wall which lined the memorial wall opposite the pillars which open to the river. These quotes come from across the globe, from all four continents affected by the slave trade, and span over five centuries, from the 17th to the 21st. At the end of the hall, toward the exit, is a room with the timeline of slavery as it became abolished in various countries around the world.<ref>{{Cite web |title=Discovery |url=http://memorial.nantes.fr/en/discovery/ |access-date=2018-12-12 |website=Mémorial de l'abolition de l'esclavage – Nantes |language=en-US}}</ref>
+
+==={{anchor|Nantes in the arts}}In the arts===
+[[File:JMW Turner - Nantes from the Ile Feydeau.jpg|thumb|alt=Watercolour painting of Nantes, with large buildings and many small boats|J. M. W. Turner's ''Nantes from the Ile Feydeau'' (1829–30)]]
+Nantes has been described as the birthplace of [[surrealism]], since [[André Breton]] (leader of the movement) met [[Jacques Vaché]] there in 1916.{{sfn|Pétré-Grenouilleau|2008|p=200}} In ''[[Nadja (novel)|Nadja]]'' (1928), André Breton called Nantes "perhaps with Paris the only city in France where I have the impression that something worthwhile may happen to me".{{sfn|J. H. Matthews|1986|p=52}} Fellow surrealist [[Julien Gracq]] wrote ''[[The Shape of a City]]'', published in 1985, about the city. Nantes also inspired [[Stendhal]] (in his 1838 ''Mémoires d'un touriste''); [[Gustave Flaubert]] (in his 1881 ''Par les champs et par les grèves'', where he describes his journey through [[Brittany]]); [[Henry James]], in his 1884 ''[[A Little Tour in France]]''; [[André Pieyre de Mandiargues]] in ''Le Musée noir'' (1946), and [[Paul-Louis Rossi]] in ''Nantes'' (1987).{{sfn|Au fil des pages de "Nantes dans la littérature"}}
+
+The city is the hometown of [[French New Wave]] film director [[Jacques Demy]]. Two of Demy's films were set and shot in Nantes: ''[[Lola (1961 film)|Lola]]'' (1964) and ''[[Une chambre en ville|A Room in Town]]'' (1982). The [[Passage Pommeraye]] appears briefly in ''[[The Umbrellas of Cherbourg]]''. Other films set (or filmed) in Nantes include ''[[God's Thunder]]'' by [[Denys de La Patellière]] (1965), ''[[The Married Couple of the Year Two]]'' by [[Jean-Paul Rappeneau]] (1971), ''[[Day Off (film)|Day Off]]'' by [[Pascal Thomas]] (2001) and ''[[Black Venus (2010 film)|Black Venus]]'' by [[Abdellatif Kechiche]] (2010). [[Jean-Luc Godard]]'s ''[[Keep Your Right Up]]'' was filmed at its airport in 1987.{{sfn|Dictionnaire de Nantes|2013|pp=238–239}}
+
+Nantes appears in a number of songs, the best-known to non-French audiences being 2007's "Nantes" by the American band [[Beirut (band)|Beirut]]. French-language songs include "Nantes" by [[Barbara (singer)|Barbara]] (1964) and "Nantes" by [[Renan Luce]] (2009). The city is mentioned in about 50 folk songs, making it the most-sung-about city in France after [[Paris]]. "Dans les prisons de Nantes" is the most popular, with versions recorded by [[Édith Piaf]], [[Georges Brassens]], [[Tri Yann]] and [[Nolwenn Leroy]]. Other popular folk songs include "Le pont de Nantes" (recorded by [[Guy Béart]] in 1967 and [[Nana Mouskouri]] in 1978), "Jean-François de Nantes" (a [[sea shanty]]) and the bawdy "De Nantes à Montaigu".{{sfn|Dictionnaire de Nantes|2013|p=203}}
+
+British painter [[J. M. W. Turner]] visited Nantes in 1826 as part of a journey in the Loire Valley, and later painted a watercolour view of Nantes from Feydeau Island. The painting was bought by the city in 1994, and is on exhibit at the Historical Museum in the castle.{{sfn|Sur les traces|2014}} An engraving of this work was published in The Keepsake annual for 1831, with an illustrative poem entitled {{ws|[[s:Poems of Letitia Elizabeth Landon (L. E. L.) in The Keepsake, 1831/The Return|The Return]]}} by [[Letitia Elizabeth Landon]]. Turner also made two sketches of the city, which are in collections at [[Tate Britain]].{{sfn|Hervouët|2014}}
+
+===Cuisine===
+[[File:Affiche LU Bouisset.jpg|thumb|alt=LU advertisement, with a child eating a biscuit|1897 advertisement for the LU Petit-Beurre]]
+During the 19th century Nantes-born [[gastronome]] [[Charles Monselet]] praised the "special character" of the local "plebeian" cuisine, which included [[buckwheat]] crepes, ''caillebotte'' [[fermented milk products|fermented milk]] and ''fouace'' [[brioche]].{{sfn|Qu'Est-Ce que la|2008}} The Nantes region is renowned in France for [[market garden]]s and is a major producer of [[valerianella locusta|corn salad]], [[leek]]s, [[radish]]es and [[carrot]]s.{{sfn|Cuisine et vin}} Nantes has a wine-growing region, the ''Vignoble nantais'', primarily south of the Loire. It is the largest producer of dry white wines in France, chiefly [[Muscadet]] and ''Gros Plant'' (usually served with fish, [[langoustine]]s and [[oyster]]s).{{sfn|Le terroir nantais}}
+
+Local fishing ports such as [[La Turballe]] and [[Le Croisic]] mainly offer [[shrimp]] and [[sardine]]s, and [[eel]]s, [[lamprey]]s, [[zander]] and [[northern pike]] are caught in the Loire.{{sfn|Qu'Est-Ce que la|2008}} Local vegetables and fish are widely available in the city's eighteen markets, including the Talensac covered market (Nantes's largest and best known). Although local restaurants tend to serve simple dishes made with fresh local products, exotic trends have influenced many chefs in recent years.{{sfn|Qu'Est-Ce que la|2008}}
+
+''[[Beurre blanc]]'' is Nantes's most-famous local specialty. Made with Muscadet, it was invented around 1900 in [[Saint-Julien-de-Concelles]] (on the south bank of the Loire) and has become a popular accompaniment for fish.{{sfn|Qu'Est-Ce que la|2008}} Other specialties are the LU and BN biscuits, including the [[Petit-Beurre]] (produced since 1886), ''{{ill|berlingot|fr|Berlingot nantais}}'' (sweets made with flavoured melted sugar) and similar ''{{ill|rigolette|fr}}'' sweets with marmalade filling, ''[[gâteau nantais]]'' (a [[rum]] cake invented in 1820), ''{{ill|Curé nantais|fr|Le Curé Nantais}}'' and ''Mâchecoulais'' cheeses and ''[[fouace]]'', a star-shaped brioche served with new wine in autumn.{{sfn|Cuisine et vin}}
+
+==Education==
+[[File:Nantes Université-château Tertre.jpg|thumb|alt=Large building with a lawn in front|The Château du Tertre on the university campus]]
+The [[University of Nantes]] was first founded in 1460 by [[Francis II, Duke of Brittany]], but it failed to become a large institution during the [[Ancien Régime]]. It disappeared in 1793 with the abolition of French universities. During the 19th century, when many of the former universities reopened, Nantes was neglected and local students had to go to [[Rennes]] and [[Angers]]. In 1961 the university was finally recreated, but Nantes has not established itself as a large university city.{{sfn|Dictionnaire de Nantes|2013|p=988}} The university had about 30,000 students during the 2013–2014 academic year, and the metropolitan area had a total student population of 53,000. This was lower than in nearby Rennes (64,000), and Nantes is the ninth-largest commune in France in its percentage of students.{{sfn|Atlas régional}} The university is part of the [[EPSCP]] Bretagne-Loire Université, which joins seven universities in western France to improve the region's academic and research potential.{{citation needed|date=April 2017}}
+
+In addition to the university, Nantes has a number of colleges and other institutes of higher education. [[Audencia Business School|Audencia]], a private management school, is ranked as one of the world's best by the ''[[Financial Times]]'' and ''[[The Economist]]''.{{sfn|Audencia Nantes School of Management}}{{sfn|Business Education}} The city has five engineering schools: [[Nantes-Atlantic National College of Veterinary Medicine, Food Science and Engineering|Oniris]] (veterinary medicine and food safety), {{Lang|fr|[[École centrale de Nantes]]|italic=no}} (mechanical and civil engineering), [[École Polytechnique de l'Université de Nantes|Polytech Nantes]] (digital technology and civil engineering), [[École des mines de Nantes]] (now [[IMT Atlantique]]) (information technology, nuclear technology, safety and energy) and [[Institut catholique d'arts et métiers|ICAM]] (research and logistics). Nantes has three other ''[[grandes écoles]]'': the [[École supérieure du bois]] (forestry and wood processing), the [[École de design Nantes Atlantique|School of Design]] and {{ill|Exi-Cesi|fr|École d'ingénieurs informatique du Cesi}} (computing). Other institutes of higher education include a national merchant navy school, a fine-arts school, a national architectural school and [[Epitech]] and [[Supinfo]] (computing).{{sfn|Des formations d'excellence}}
+
+==Sport==
+[[File:LaBeaujoireNantesvsASSE11nov2006.jpg|thumb|alt=Wide-angle photo of a football match|The Stade de la Beaujoire]]
+Nantes has several large sports facilities. The largest is the [[Stade de la Beaujoire]], built for [[UEFA Euro 1984]]. The stadium, which also hosted matches during the [[1998 FIFA World Cup]] and the [[2007 Rugby World Cup]], has 37,473 seats. The second-largest venue is the Hall XXL, an exhibition hall on the Stade de la Beaujoire grounds. The 10,700-seat stadium was selected as a venue for the [[2017 World Men's Handball Championship]]. Smaller facilities include the 4,700-seat indoor Palais des Sports, a venue for [[EuroBasket 1983]]. The nearby Mangin Beaulieu sports complex has 2,500 seats and Pierre Quinon Stadium, an athletics stadium within the University of Nantes, has 790 seats. La Trocardière, an indoor 4,238-seat stadium, is in [[Rezé]].{{sfn|Les stades et}} The Erdre has a marina and a centre for rowing, sailing and canoeing, and the city has six swimming pools.{{sfn|Les piscines à}}
+
+Six teams in Nantes play at a high national or international level. Best known is [[FC Nantes]], which is a member of [[Ligue 1]] for the 2018–19 season. Since its formation in 1943, the club has won eight Championnat titles and three [[Coupes de France]]. FC Nantes has several French professional football records, including the most consecutive seasons in the elite division (44), most wins in a season (26), consecutive wins (32) and consecutive home wins (92 games, nearly five years). In [[handball]], [[volleyball]] and [[basketball]], Nantes's men's and women's clubs play in the French first division: [[HBC Nantes]] and [[Nantes Loire Atlantique Handball]] (handball), {{ill|Nantes Rezé Métropole Volley|fr}} and {{ill|Volley-Ball Nantes|fr}} (volleyball) and [[Hermine de Nantes Atlantique]] and {{ill|Nantes Rezé Basket|fr}} (basketball). The men's {{ill|Nantes Erdre Futsal|fr}} [[futsal]] team plays in the [[Championnat de France de Futsal]], and the main athletics team (Nantes Métropole Athlétisme) includes some of France's best athletes.{{sfn|Les clubs d'élite}}
+
+==Transport==
+[[File:Flickr - IngolfBLN - Nantes - Tramway - Ligne 3 - Orvault (18).jpg|thumb|alt=See caption|Tram on a [[green track]]]]
+The city is linked to Paris by the [[A11 autoroute|A11 motorway]], which passes through [[Angers]], [[Le Mans]] and [[Chartres]]. Nantes is on the Way of the Estuaries, a network of motorways connecting northern France and the Spanish border in the south-west while bypassing Paris. The network serves [[Rouen]], [[Le Havre]], [[Rennes]], [[La Rochelle]] and [[Bordeaux]]. South of Nantes, the road corresponds to the [[A83 autoroute|A83 motorway]]; north of the city (towards Rennes) it is the RN137, a free highway. These motorways form a {{convert|43|km|adj=on}} ring road around the city, France's second longest after the ring in Bordeaux.{{sfn|Chantal Boutry|Joël Bigorgne|2013}}
+
+[[Nantes station|Nantes's central railway station]] is connected by [[TGV]] trains to Paris, [[Lille]], [[Lyon]], [[Marseille]] and [[Strasbourg]]. The [[LGV Atlantique]] high-speed railway reaches Paris in two hours, ten minutes (compared with four hours by car). With almost 12 million passengers each year, the Nantes station is the sixth-busiest in France outside Paris.{{sfn|La gare de|2013}} In addition to TGV trains, the city is connected by [[Intercités]] trains to Rennes, [[Vannes]], [[Quimper]], [[Tours]], [[Orléans]], [[La Rochelle]] and Bordeaux.{{sfn|Carte des destinations|2015}} Local [[Transport express régional|TER]] trains serve [[Pornic]], [[Cholet]] or [[Saint-Gilles-Croix-de-Vie]].{{sfn|Carte du réseau|2015}}
+
+[[File:Ile-de-Nantes.JPG|thumb|alt=Small ferry on the Loire, with large metal rings on its bank|A river bus and Nantes's iconic yellow crane]]
+[[Nantes Atlantique Airport]] in [[Bouguenais]], {{convert|8|km|abbr=off|0}} south-west of the city centre, serves about 80 destinations in Europe (primarily in [[France]], [[Spain]], [[Italy]], the [[United Kingdom]] and [[Greece]]) and connects airports in [[Africa]], the [[Caribbean]] and [[Canada]].{{sfn|Liste des destinations}} Air traffic has increased from 2.6 million passengers in 2009 to 4.1 million in 2014, while its capacity has been estimated at 3.5 million passengers per year.{{sfn|Résultats d’activité des|2015}} A new [[Aéroport du Grand Ouest]] in [[Notre-Dame-des-Landes]], {{convert|20|km|abbr=off}} north of Nantes, was projected from the 1970s, to create a hub serving north-western France. Its construction was however strongly opposed, primarily by [[green politics|green]] and [[anti-capitalism|anti-capitalist]] activists. The potential construction site was long occupied and the project became a political topic on the national scale. The French government eventually decided to renounce to the project in 2018.{{sfn|Marie Conquy|2012}}{{sfn|Pascal Perry|2016}}{{sfn|Rémi Barroux|2016}}
+
+Public transport in Nantes is managed by [[Semitan]], also known as "Tan". One of the world's first [[horsebus]] transit systems was developed in the city in 1826. Nantes built its first [[Mekarski system|compressed-air]] tram network in 1879, which was electrified in 1911. Like most European tram networks, Nantes's disappeared during the 1950s in the wake of automobiles and buses. However, in 1985 Nantes was the first city in France to reintroduce trams.{{sfn|Nantes - Tramways}} The city has an extensive public-transport network consisting of trams, buses and river shuttles. The [[Nantes tramway]] has three lines and a total of {{convert|43.5|km|abbr=off|0}} of track. Semitan counted 132.6 million trips in 2015, of which 72.3 million were by tram.{{sfn|Les chiffres clés}} [[Navibus]], the [[Water taxi|river shuttle]], has two lines: one on the Erdre and the other on the Loire. The latter has 520,000 passengers annually and succeeds the Roquio service, which operated on the Loire from 1887 to the 1970s.{{sfn|Transport fluvial :|2015}}
+
+Nantes has also developed a [[tram-train]] system, the [[Nantes tram-train]], which would allow suburban trains to run on tram lines; the system already exists in [[Mulhouse]] (in eastern France) and [[Karlsruhe]], [[Germany]]. The city has two tram-train lines: Nantes-[[Clisson]] (southern) and Nantes-[[Châteaubriant]] (northern). Neither is yet connected to the existing tram network, and resemble small suburban trains more than tram-trains. The Bicloo [[bicycle-sharing system]] has 880 bicycles at 103 stations.{{sfn|Nantes: L'été radieux|2016}}
+
+===Nantes Public Transportation statistics===
+The average amount of time people spend commuting with public transit in Nantes and Saint-Nazaire, for example to and from work, on a weekday is 40 minutes. 7.1% of public transit riders, ride for more than 2 hours every day. The average amount of time people wait at a stop or station for public transit is 12 minutes, while 16.8% of riders wait for over 20 minutes on average every day. The average distance people usually ride in a single trip with public transit is 5&nbsp;km, while 2% travel for over 12&nbsp;km in a single direction.<ref>{{Cite web |title=Nantes & Saint-Nazaire Public Transportation Statistics |url=https://www.moovitapp.com/insights/en/Moovit_Insights_Public_Transit_Index_France_Nantes_SaintNazaire-1123 |access-date=19 June 2017 |publisher=Global Public Transit Index by Moovit}} [[File:CC-BY icon.svg|50px]] Material was copied from this source, which is available under a [https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License].</ref>
+
+==Media==
+[[File:FolleJournée2009 France3Ouest.JPG|thumb|alt=Overhead shot of a TV programme being recorded|A ''France 3 Pays de la Loire'' set at La Folle Journée]]
+The local press is dominated by the Ouest-France group, which owns the area's two major newspapers: ''[[Ouest-France]]'' and ''Presse-Océan''. ''Ouest-France'', based in [[Rennes]], covers north-western France and is the country's best-selling newspaper. ''Presse-Océan'', based in Nantes, covers [[Loire-Atlantique]]. The Ouest-France group is also a shareholder of the French edition of ''[[20 minutes (France)|20 Minutes]]'', one of two free newspapers distributed in the city. The other free paper is ''Direct Matin'', which has no local edition. The [[news agency]] ''Médias Côte Ouest'' publishes ''Wik'' and ''Kostar'', two free magazines dedicated to local cultural life. Nantes has a satirical weekly newspaper, ''La Lettre à Lulu'', and several specialised magazines. ''Places publiques'' is dedicated to urbanism in Nantes and [[Saint-Nazaire]]; ''Brief'' focuses on public communication; ''Le Journal des Entreprises'' targets managers; ''Nouvel Ouest'' is for decision-makers in western France, and ''Idîle'' provides information on the local creative industry. Nantes is home to ''Millénaire Presse''—the largest French publishing house dedicated to professional entertainers—which publishes several magazines, including ''La Scène''.{{sfn|Presse écrite}} The city publishes a free monthly magazine, ''Nantes Passion'', and five other free magazines for specific areas: ''Couleur locale'' (Les Dervallières), ''Écrit de Bellevue'', ''Malakocktail'' (Malakoff), ''Mosaïques'' (Nantes-Nord) and ''Zest'' for the eastern neighbourhoods.{{sfn|Journaux de quartier}}
+ 
+National radio stations ''[[FIP (radio station)|FIP]]'' and ''[[Fun Radio (France)|Fun Radio]]'' have outlets in Nantes. ''[[Virgin Radio (France)|Virgin Radio]]'' has a local outlet in nearby [[Basse-Goulaine]], and [[Chérie FM]] and [[NRJ]] have outlets in [[Rezé]]. Nantes is home to ''[[France Bleu]] Loire-Océan'', the local station of the [[Radio France]] public network, and several private local stations: ''Alternantes'', dedicated to cultural diversity and tolerance; ''Euradionantes'', a local- and European-news station; ''Fidélité'', a Christian station; ''Hit West'' and ''SUN Radio'', two music stations; ''Prun'', dedicated to students, and ''Radio Atlantis'' (focused on the local economy).{{sfn|Radios}}
+
+Nantes is the headquarters of ''[[France 3]] Pays de la Loire'', one of 24 local stations of the [[France Télévisions]] national public broadcaster. ''France 3 Pays de la Loire'' provides local news and programming for the region.{{sfn|TV}} The city is also home to ''Télénantes'', a local, private television channel founded in 2004. Primarily a news channel, it is available in Loire-Atlantique and parts of neighbouring [[Vendée]] and [[Maine-et-Loire]].{{sfn|La télévision de}}
+
+==Notable residents==
+{{see also|List of people from Nantes}}
+[[File:Jules Verne by Étienne Carjat.jpg|thumb|[[Jules Verne]], born in Nantes in 1828]]
+* [[Arthur I, Duke of Brittany|Arthur I]], [[Duke of Brittany]] (1187-probably 1203), was born in Nantes
+* Duchess [[Anne of Brittany]] (1477-1514), twice [[List of French consorts|queen consort]], was born in Nantes
+* [[Jacques Cassard]] (1679-1740), [[General]]
+* [[Joseph Fouché]] (1763-1820), statesman, was educated there
+* [[Pierre Cambronne]] (1770-1842), naval officer
+* [[Floresca Guépin]] (1813–1889), feminist, teacher, school founder
+* [[Jules Verne]] (1828-1905), [[science fiction]] writer
+* [[Jules Vallès]] (1832-1885), journalist and activist
+* [[Athanase-Charles-Marie Charette de la Contrie]] (1832-1911), a [[France|French]] [[royalist]] military commander 
+* [[Georges Clemenceau]] (1841-1929), statesman
+* [[Pierre Waldeck-Rousseau]] (1846-1904), statesman, 29th Prime Minister of France)
+* [[Antoinette Van Leer Polk]] (1847-1919), baroness
+* [[Jules-Albert de Dion]] (1856-1946), automotive pioneer
+* [[Aristide Briand]] (1862-1932), 1926 [[Nobel Peace Prize]] co-laureate 
+* [[Claude Cahun]] (1894-1954), [[surrealist]] 
+* [[André Breton]] (1896–1996), writer and poet, studied medicine in the city
+* [[Paul Nizan]] (1905-1940), philosopher and writer
+* [[Olivier Messiaen]] (1908-1992), composer
+* [[Julien Gracq]] (1910-2007), writer
+* [[Denys de La Patellière]] (1921-2013), film director
+* [[Robert Badinter]] (born 1928), lawyer, politician and author
+* [[Jacques Demy]] (1931-1990), film director
+* [[Éric Tabarly]] (1931-1998), yachtsman
+* [[Claire Bretécher]] (1940-2020), cartoonist
+* [[Jean-Paul Corbineau]] (born 1948), musician
+* [[Jean-Loup Hubert]] (born 1949), film director
+* [[Loïck Peyron]] (born 1959), yachtsman
+* [[François Bégaudeau]] (born 1971), author
+* [[Jeanne Cherhal]] (born 1978), singer
+* [[Christine and the Queens]] (born 1988), singer, songwriter and record producer, born and raised in Nantes
+* [[Madeon]] (born 1994), [[disc jockey]]
+* [[Clara Matéo]] (born 1997), football player for [[Paris FC (women)|Paris FC]] and the [[France women's national football team|France national team]]<ref>{{Cite news |title=Footballer and engineer, the double life of Clara Mateo, the Blue striker at Euro 2022 |url=https://www.ouest-france.fr/leditiondusoir/2022-07-08/footballeuse-et-ingenieure-la-double-vie-de-clara-mateo-l-attaquante-des-bleues-a-l-euro-2022-795c4203-fffb-4c15-a1a3-c4190d81c762}}</ref>
+* [[C2C (group)|C2C]], band, [[disc jockey]]
+
+=={{anchor|Bibliography}}See also==
+* [[Timeline of Nantes#Bibliography|Bibliography of Nantes history]]
+* [[Communes of the Loire-Atlantique department]]
+
+==References==
+'''Footnotes'''
+{{notelist-ua|30em}}
+
+'''Citations'''
+{{reflist|20em}}
+
+==={{anchor|Works cited}}Sources===
+{{refbegin|30em}}
+* {{Cite web |title=2013 – Nantes &#124; European Green Capital |url=http://ec.europa.eu/environment/europeangreencapital/winning-cities/2013-nantes/index.html |access-date=12 March 2013 |publisher=European Commission |ref=CITEREFEuropean Green Capital2013 }}
+* {{Cite book |last=Alain Déniel |title=Le mouvement breton |publisher=[[François Maspero]] |year=1976 |language=fr |trans-title=The Breton movement }}
+* {{Cite news |last=Antoine Gazeau |date=3 December 2013 |title=Municipales à Nantes: la droite peut-elle vraiment y croire? |language=fr |trans-title=Municipalities in Nantes: can the right believe it? |work=[[L'Express]] |url=http://www.lexpress.fr/region/municipales-a-nantes-la-droite-peut-elle-vraiment-y-croire_1302307.html }}
+* {{Cite web |title=Aperçu des collections |trans-title=Overview of collections |url=http://www.museum.nantes.fr/pages/03-apercu/introapercu.htm |url-status=dead |archive-url=https://web.archive.org/web/20160510032546/http://www.museum.nantes.fr/pages/03-apercu/introapercu.htm |archive-date=10 May 2016 |access-date=10 December 2016 |publisher=[[Natural History Museum of Nantes]] |language=fr |ref=CITEREFAperçu des collections }}
+* {{Cite web |title=Atlas français de la coopération décentralisée et des autres actions extérieures |trans-title=French atlas of decentralized cooperation and other external actions |url=https://pastel.diplomatie.gouv.fr/cncdext/dyn/public/atlas/detailProjet.html?criteres.prjId=2624 |access-date=11 December 2016 |publisher=Commission nationale de la coopération décentralisée |language=fr |ref=CITEREFAtlas français de la coopération décentralisée }}
+* {{Cite web |date=June 2015 |title=Atlas régional - Effectifs d'étudiants en 2013-2014 |trans-title=Regional Atlas - Student enrollment in 2013-2014 |url=http://cache.media.enseignementsup-recherche.gouv.fr/file/Atlas_2013-2014/57/5/Atlas_1314_Web_449575.pdf |access-date=31 December 2016 |publisher=[[French Ministry of Education]] |language=fr |ref=CITEREFAtlas régional |archive-date=21 October 2021 |archive-url=https://web.archive.org/web/20211021061417/https://cache.media.enseignementsup-recherche.gouv.fr/file/Atlas_2013-2014/57/5/Atlas_1314_Web_449575.pdf |url-status=dead }}
+* {{Cite web |title=Au fil des pages de "Nantes dans la littérature" |trans-title=Within the pages of "Nantes in literature" |url=http://www.linternaute.com/nantes/magazine/histoire/photo/nanteslitterature/1.shtml |access-date=30 December 2016 |publisher=[[L'Internaute]] |language=fr |ref=CITEREFAu fil des pages de "Nantes dans la littérature" }}
+* {{Cite news |title=Audencia Nantes School of Management |newspaper=[[The Economist]] |url=http://www.economist.com/whichmba/audencia-nantes-school-management/2011 |access-date=31 December 2016 |ref=CITEREFAudencia Nantes School of Management }}
+* {{Cite web |last=Aurélien Tiercin |date=27 August 2016 |title=Les 30 ans des Rendez-Vous de l'Erdre: un succès malgré la menace terroriste |trans-title=The 30th anniversary of the Rendez-Vous de l'Erdre: a success despite the terrorist threat |url=https://www.francebleu.fr/infos/culture-loisirs/les-30-ans-des-rendez-vous-de-l-erdre-un-succes-malgre-la-menace-terroriste-1472322567 |access-date=14 January 2017 |publisher=[[France Bleu]] |language=fr }}
+* {{Cite web |title=Autres lieux d'exposition municipaux |trans-title=Other municipal exhibition venues |url=http://www.nantes.fr/home/ville-de-nantes/culture/les-galeries-dart/autres-lieux-dexposition-municip.html |access-date=21 January 2017 |publisher=City of Nantes |language=fr |ref=CITEREFAutres lieux d'exposition }}
+* {{Cite book |last=Billy |first=Pierre-Henri |url=https://books.google.com/books?id=sEXQbLjdt-MC |title=Thesaurus linguae Gallicae |date=1 January 1993 |publisher=Olms-Weidmann |isbn=978-3-487-09746-6 }}
+* {{Cite book |last=Bodineau |first=Pierre |url=https://books.google.com/books?id=kt0VAQAAIAAJ |title=La Régionalisation |publisher=Presses Universitaires de France - PUF |year=1995 |isbn=978-2-13-047101-1 |language=fr }}
+* {{Cite journal |last=Boggs |first=Samuel Whittemore |date=December 1945 |title=This Hemisphere |journal=[[Journal of Geography]] |volume=44 |issue=9 |pages=345–355 |doi=10.1080/00221344508986498 }}
+* {{Cite book |last=Bois |first=Paul |title=Histoire de Nantes |publisher=Privat |year=1977 |isbn=2708947176 |series=Univers de la France et des pays francophones: Série Histoire des villes |location=Toulouse |language=fr |trans-title=History of Nantes }}
+* {{Cite magazine |date=12 October 2014 |title=Bretagne: la bataille de la réunification |trans-title=Brittany: The battle for reunification |url=http://www.lexpress.fr/region/bretagne-la-bataille-de-la-reunification_1609302.html |magazine=L'Express |language=fr |access-date=6 December 2016 |ref=CITEREFBretagne: la bataille de la réunification }}
+* {{Cite news |title=Business Education |work=Financial Times |url=http://rankings.ft.com/businessschoolrankings/audencia |access-date=31 December 2016 |ref=CITEREFBusiness Education |archive-date=25 December 2015 |archive-url=https://web.archive.org/web/20151225061634/http://rankings.ft.com/businessschoolrankings/audencia |url-status=dead }}
+* {{Cite web |date=3 February 2015 |title=Carte des destinations Intercités |trans-title=Map of intercity destinations |url=http://medias.sncf.com/sncfcom/pdf/cartes/IC/carte_intercites.pdf |access-date=26 December 2016 |publisher=SNCF |language=fr |ref=CITEREFCarte des destinations2015 }}
+* {{Cite web |date=September 2015 |title=Carte du réseau de transport de la région Pays de la Loire |trans-title=Map of the transport network in the Pays de la Loire region |url=http://cdn.ter.sncf.com/medias/PDF/pays_de_la_loire/Carte%20TER%20PDL%20au%2024-09-15%20L_tcm67-19904_tcm67-19903.pdf |url-status=dead |archive-url=https://web.archive.org/web/20161228124647/http://cdn.ter.sncf.com/medias/PDF/pays_de_la_loire/Carte%20TER%20PDL%20au%2024-09-15%20L_tcm67-19904_tcm67-19903.pdf |archive-date=28 December 2016 |access-date=26 December 2016 |publisher=[[Pays de la Loire]] |language=fr |ref=CITEREFCarte du réseau2015 }}
+* {{Cite news |last1=Chantal Boutry |last2=Joël Bigorgne |date=27 September 2013 |title=Le périphérique, une ceinture de 43&nbsp;km autour de Nantes |language=fr |trans-title=The ring road, a belt of 43&nbsp;km around Nantes |work=[[Ouest-France]] |url=http://www.ouest-france.fr/le-peripherique-une-ceinture-de-43-km-autour-de-nantes-529686 }}
+* {{Cite book |last=Chauveau |first=Jacqueline |title=Charette et l'époṕee vendéenne |publisher=Nouvelles Editions Latines |year=1993 |isbn=9782723304672 |language=fr |trans-title=Charette and the Vendean saga }}
+* {{Cite web |title=ChubEndret – Dictionnaire de noms de lieux |trans-title=ChubEndret - Place names dictionary |url=http://www.chubri-galo.bzh/chubri-galo_dictionnaire-gallo-francais_ChubEndret-toponymie__fr.htm |access-date=9 December 2016 |publisher=Chubri |language=fr |ref=CITEREFChubendret – Dictionnaire }}
+* {{Cite web |last=Claire Iochum |title=Energy Cities – Nantes – European Green Capital in 2013 |url=http://www.energy-cities.eu/Nantes-European-Green-Capital-in |url-status=dead |archive-url=https://web.archive.org/web/20130526225444/http://www.energy-cities.eu/Nantes-European-Green-Capital-in |archive-date=26 May 2013 |access-date=12 March 2013 |publisher=Energy-cities.eu }}
+* {{Cite web |title=Collections et recherches |trans-title=Collections and research |url=http://www.chateaunantes.fr/fr/collections-recherches |access-date=10 December 2016 |publisher=Château des Ducs de Bretagne |language=fr |ref=CITEREFCollections et recherches }}
+* {{Cite web |date=14 July 2015 |title=Comment Nantes est devenue le nouvel éden des bobos |trans-title=How Nantes has become the new Eden for the bobos (hipsters) |url=http://www.challenges.fr/economie/comment-nantes-est-devenue-le-nouvel-eden-des-bobos_79011 |access-date=6 December 2016 |publisher=Challenges |language=fr |ref=CITEREFComment Nantes est2015 }}
+* {{Cite web |title=Compétences de la Ville de Nantes |trans-title=Competences of the City of Nantes |url=http://www.nantes.fr/home/ville-de-nantes/institution/competences-ville-et-metropole/competences-municipales.html |url-status=dead |archive-url=https://web.archive.org/web/20160828050201/http://www.nantes.fr/home/ville-de-nantes/institution/competences-ville-et-metropole/competences-municipales.html |archive-date=28 August 2016 |access-date=6 December 2016 |publisher=City of Nantes |language=fr |ref=CITEREFCompétences de la }}
+* {{Cite web |title=Condivincum / Portanamnetum=Portensis Vicus / Namnetes=Civ. Namnetum |url=http://www.sc.edu/ltantsoc/cond0162.htm |url-status=dead |archive-url=https://web.archive.org/web/20100613173530/http://www.sc.edu/ltantsoc/cond0162.htm |archive-date=13 June 2010 |access-date=6 December 2016 |publisher=University of South California |ref=CITEREFCondivincum }}
+* {{Cite news |last=Corbé |first=Isabelle |date=April 2003 |title=Île de Versailles - Un ancien quartier d'artisans transformé en jardin japonais |language=fr |trans-title=Island of Versailles - An ancient craftsman's area transforms into a Japanese garden |pages=26–28 |work=Nantes au quotidien |issue=134 |url=http://www.archives.nantes.fr/PAGES/HISTOIRE_QUARTIERS/fichiers_pdf/Nantes_au_quotidien/NQ134ebook.pdf |url-status=dead |archive-url=https://web.archive.org/web/20161227195512/http://www.archives.nantes.fr/PAGES/HISTOIRE_QUARTIERS/fichiers_pdf/Nantes_au_quotidien/NQ134ebook.pdf |archive-date=27 December 2016 }}
+* {{Cite book |last=Cornet |first=Chantal |title=Nantes, le comblement de la Venise de l'Ouest |publisher=Éditions CMD |year=1996 |series=Découverte d'un patrimoine disparu |location=Montreuil-Bellay |language=fr |trans-title=Nantes, the filling up of the Venice of the West <!--Refers to the canals being filled in--> }}
+* {{Cite web |title=Where to eat in Nantes ? |url=https://www.levoyageanantes.fr/en/to-plan/to-eat/ |access-date=1 January 2022 |publisher=Le Voyage à Nantes |language=en |ref=CITEREFCuisine et vin }}
+* {{Cite book |last1=D. Janjou |title=Carte géol. France (1/50 000), feuille Nantes (481) |last2=avec collaboration de M. Gruet et C. Penecki |publisher=BRGM |year=1998 |location=Orléans |language=fr |trans-title=Geological map of France (1/50 000 resolution), leaf on Nantes (481) }}
+* {{Cite book |last=Decours |first=Catherine |title=Le port de Nantes a 3000 ans |publisher=Giotto |year=2006 |isbn=2910561240 |location=Nantes |language=fr |trans-title=The port of Nantes at 3000 years old |orig-year=First published 1995}}
+* {{Cite book |last=Delamarre |first=X. |url=https://books.google.com/books?id=i0QcAQAAIAAJ |title=Dictionnaire de la langue gauloise: Une approche linguistique du vieux-celtique continental |publisher=Editions Errance |year=2003 |isbn=978-2-87772-237-7 |language=fr |trans-title=Dictionary of the Gaulish language: A linguistic approach to the continental ancient Celts }}
+* {{Cite book |last1=Deroy |first1=Louis |title=Dictionnaire de noms de lieux |last2=Mulon |first2=Marianne |publisher=Dictionnaires Le Robert |year=1992 |location=Paris }}
+* {{Cite web |title=Des formations d'excellence |trans-title=Training for Excellence |url=https://invest.nantes-saintnazaire.fr/pourquoi-nantes-saint-nazaire/des-formations-d-excellence |access-date=31 December 2016 |publisher=Nantes - Saint-Nazaire Développement |language=fr |ref=CITEREFDes formations d'excellence }}
+* {{Cite book |title=Dictionnaire de Nantes |publisher=Presses universitaires de Rennes |year=2013 |isbn=978-2-7535-2821-5 |location=Rennes |language=fr |trans-title=Dictionary of Nantes |ref=CITEREFDictionnaire de Nantes2013}}
+* {{Cite web |title=Drapeau de la ville de Nantes |trans-title=Flag of the town of Nantes |url=http://laventreche.free.fr/Drapeaux%20Naoned%20(FR%20&%20BZH).pdf |url-status=dead |archive-url=https://web.archive.org/web/20170104091759/http://laventreche.free.fr/Drapeaux%20Naoned%20%28FR%20%26%20BZH%29.pdf |archive-date=4 January 2017 |access-date=3 January 2017 |publisher=La Ventrèche |language=fr |ref=CITEREFDrapeau de la }}
+* {{Cite web |title=Estuaire |url=http://www.nantes.fr/home/ville-de-nantes/culture/les-evenements-culturels-de-la-v/estuaire.html |access-date=30 December 2016 |publisher=City of Nantes |ref=CITEREFEstuaire }}
+* {{Cite web |year=2011 |title=Euronantes, projet emblématique d'un développement économique maîtrisé et partagé |trans-title=Euronantes, an emblematic project of controlled and shared economic development |url=http://www.euronantes.com/fr/fichiers/dossier-de-presse-euronantes-mai-2011 |url-status=dead |archive-url=https://web.archive.org/web/20140529051521/http://www.euronantes.com/fr/fichiers/dossier-de-presse-euronantes-mai-2011 |archive-date=29 May 2014 |access-date=6 December 2016 |publisher=Nantes Métropole |language=fr |ref=CITEREFEuronantes, projet emblématique2011 }}
+* {{Cite book |last=Favereau |first=Frañses |title=Yezhadur ar brezhoneg a-vremañ |publisher=Skol Vreizh |year=1997 |isbn=9782911447129 |location=Morlaix }}
+* {{Cite web |title=The World According to GaWC 2020 |url=https://www.lboro.ac.uk/gawc/world2020t.html |access-date=31 August 2020 |website=GaWC - Research Network |publisher=Globalization and World Cities |ref={{harvid|Gawc_-_World}} }}
+* {{Cite book |last1=Gilles Bienvenu |title=Nantes Loire-Atlantique: L'île Feydeau, Nantes |last2=Françoise Lelièvre |publisher=Association pour le Développement de l'Inventaire Général des Pays de la Loire |year=1992 |isbn=2-906344-39-7 |series=L'inventaire Images du patrimoine |location=Nantes }}
+* {{Cite web |title=Géographie |trans-title=Geography |url=http://www.nantes.fr/home/a-nantes-et-pas-ailleurs/decouvrir-nantes/nantes-dhier-a-aujourdhui/geographie.html |access-date=26 December 2016 |publisher=City of Nantes |language=fr |ref=CITEREFGéographie }}
+* {{Cite book |last1=Guiffan |first1=Jean |title=Le Lycée Clemenceau. 200 ans d'histoire |last2=Barreau |first2=Joël |last3=Liters |first3=Jean-Louis |publisher=Éditions Coiffard |year=2008 |isbn=978-2-910366-85-8 |location=Nantes }}
+* {{Cite web |title=HAB Galerie |url=http://www.nantes.fr/home/ville-de-nantes/culture/les-galeries-dart/hab-galerie.html |access-date=21 January 2017 |publisher=City of Nantes |ref=CITEREFHAB Galerie }}
+* {{Cite book |last=Hervouët |first=Philippe |title=Nantes de mémoire de peintres |publisher=SNER |year=2014 |isbn=978-2-9509746-6-2 |location=Nantes }}
+* {{Cite web |title=Histoire du Port |url=http://www.nantes.port.fr/decouvrir-lactivite-portuaire/histoire-du-port/ |publisher=Port de Nantes-Saint-Nazaire |ref=CITEREFHistoire du Port }}
+* {{Cite web |title=Historique de la ville de Nantes |url=http://www.nantes.fr/home/a-nantes-et-pas-ailleurs/decouvrir-nantes/nantes-dhier-a-aujourdhui/histoire-de-nantes.html |access-date=30 December 2016 |publisher=City of Nantes |ref=CITEREFHistorique de la |archive-date=5 May 2017 |archive-url=https://web.archive.org/web/20170505012751/http://www.nantes.fr/home/a-nantes-et-pas-ailleurs/decouvrir-nantes/nantes-dhier-a-aujourdhui/histoire-de-nantes.html |url-status=dead }}
+* {{Cite web |title=Historique des armoiries de la ville de Nantes |url=http://www.archives.nantes.fr/PAGES/DOSSIERS_DOCS/hoteldeville/hotel1.htm |url-status=dead |archive-url=https://web.archive.org/web/20160325223021/http://www.archives.nantes.fr/pages/dossiers_docs/hoteldeville/hotel1.htm |archive-date=25 March 2016 |access-date=6 December 2016 |publisher=Archives municipales de Nantes |ref=CITEREFHistorique des armoiries }}
+* {{Cite web |title=Il y 70 ans Nantes libérée, le 12 août 1944 |trans-title=It has been 70 years since Nantes was freed, 12 August 1944 |url=http://www.archives.nantes.fr/PAGES/EXPO/EXPO/70e_anniv_liberation_nantes/Expo_70eme_anniversaire_liberation_nantes.pdf |url-status=dead |archive-url=https://web.archive.org/web/20170611050929/http://www.archives.nantes.fr/PAGES/EXPO/EXPO/70e_anniv_liberation_nantes/Expo_70eme_anniversaire_liberation_nantes.pdf |archive-date=11 June 2017 |access-date=14 March 2017 |publisher=City of Nantes |language=fr |ref=CITEREFIl y a 70 ans }}
+* {{Cite web |title=IMG1B – Population immigrée par sexe, âge et pays de naissance en 2013. Commune de Nantes (44109) |url=https://www.insee.fr/fr/statistiques/2020942?geo=COM-44109&sommaire=2106113 |access-date=6 December 2016 |publisher=Insee |ref=CITEREFImg1B }}
+* {{Cite web |title=Industries agroalimentaires |url=https://invest.nantes-saintnazaire.fr/les-secteurs-d-excellence/industries-agroalimentaires |access-date=26 December 2016 |publisher=Nantes - Saint-Nazaire Développement |ref=CITEREFIndustries agroalimentaires }}
+* {{Cite web |title=Industries créatives et culturelles |trans-title=Creative and cultural industries |url=https://invest.nantes-saintnazaire.fr/les-secteurs-d-excellence/industries-creatives-et-culturelles |access-date=26 December 2016 |publisher=Nantes - Saint-Nazaire Développement |language=fr |ref=CITEREFIndustries créatives et }}
+* {{Cite book |last=J. H. Matthews |title=André Breton: Sketch for an Early Portrait |publisher=John Benjamins Publishing |year=1986 }}
+* {{Cite web |title=Jardin des plantes |trans-title=Garden of the plants |url=http://www.nantes.fr/home/a-votre-service/equipements/parcs--jardins/jardin-des-plantes.html |access-date=28 December 2016 |publisher=City of Nantes |language=fr |ref=CITEREFJardin des plantes }}
+* {{Cite book |last=Jean-Marie Cassagne and Mariola Korsak |title=Origine des noms de villes et villages – Loire-Alantique |publisher=Éditions Boudessoules |year=2002 }}
+* {{Cite web |title=Journaux de quartier |url=http://www.nantes.fr/journaux-quartier |access-date=2 January 2017 |ref=CITEREFJournaux de quartier }}
+* {{Cite web |last=Julie Postolec |date=4 February 2016 |title=Nantes: la cité des ducs, meilleure destination d'Europe ? |trans-title=Nantes: the city of the dukes, best destination of Europe? |url=http://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/nantes/nantes-la-cite-des-ducs-meilleure-destination-d-europe-920529.html |access-date=26 December 2016 |publisher=France 3 Pays de la Loire |language=fr }}
+* {{Cite news |last=Julie Urbach |date=5 October 2016 |title=Nantes: Une nouvelle étape pour la transformation des Dervallières |work=20 Minutes |url=http://www.20minutes.fr/nantes/1936483-20161005-nantes-nouvelle-etape-transformation-dervallieres }}
+* {{Cite web |title=Jumelage entre les villes de Nantes (France) et Niigata (Japon) |trans-title=Twinning between the towns of Nantes (France) and Niigata (Japan) |url=http://www.nantes.fr/Sgid/DataSgid/themes/conmun/cm05122008/cm05122008-19-annexe.pdf |access-date=15 March 2017 |publisher=City of Nantes |language=fr |ref=CITEREFJumelage entre les villes }}
+* {{Cite web |title=KerOfis |url=http://www.fr.brezhoneg.bzh/40-kerofis.htm |access-date=5 January 2017 |publisher=Public Office for Breton Language |ref=CITEREFKerOfis }}
+* {{Cite news |last=L. Pirault |year=1999 |title=Condevicnum. Nantes à l'époque gallo-romaine |pages=10–19 |work=Ar Men |issue=109 |url=http://cat.inist.fr/?aModele=afficheN&cpsidt=10190629 }}
+* {{Cite web |title=La Bouche d'Air |url=http://www.nantes.fr/home/ville-de-nantes/culture/les-lieux-culturels/la-bouche-dair.html |access-date=30 December 2016 |publisher=City of Nantes |ref=CITEREFLa Bouche d'Air }}
+* {{Cite web |title=La Cité Nantes Events Center |url=http://www.nantes.fr/home/ville-de-nantes/culture/les-lieux-culturels/la-cite-nantes-events-center-1.html |access-date=30 December 2016 |publisher=City of Nantes |ref=CITEREFLa Cité Nantes }}
+* {{Cite web |title=La deuxième place financière en région |url=http://www.nantes-developpement.com/economie/filieres/articles/activites-financieres |url-status=dead |archive-url=https://web.archive.org/web/20111016211002/http://www.nantes-developpement.com/economie/filieres/articles/activites-financieres |archive-date=16 October 2011 |access-date=7 December 2016 |publisher=Agence de développement économique de Nantes métropole |ref=CITEREFLa deuxième place }}  <!--this page now redirects to a generic splash page, doesn't have the same info-->
+* {{Cite web |year=2013 |title=La gare de Nantes demain |url=http://www.pays-de-la-loire.developpement-durable.gouv.fr/IMG/pdf/130507_plaquette_Gare_NantesV2.pdf |access-date=26 December 2016 |publisher=Pays de la Loire |ref=CITEREFLa gare de2013 }}
+* {{Cite book |last1=Bairouch |first1=Paul |title=La population des villes européennes de 800 à 1850 |last2=Latou |first2=Jean |last3=Chèvre |first3=Pierre |publisher=Droz |year=1988 |location=Geneva |language=fr |trans-title=The population of European towns from 800 to 1850 }}
+* {{Cite web |date=27 November 2014 |title=La qualité de vie d'une Capitale verte |trans-title=Quality of life in a green capital |url=http://www.nantesmetropole.fr/institution-metropolitaine/capitale-verte-europe-2013/ |access-date=28 December 2016 |publisher=Nantes Métropole |language=fr |ref=CITEREFLa qualité de2014 }}
+* {{Cite news |date=27 November 2015 |title=La réunification de la Bretagne: une constante des sondages |work=Ouest-France |url=http://www.ouest-france.fr/elections/regionales/la-reunification-de-la-bretagne-une-constante-des-sondages-3869661 |access-date=6 December 2016 |ref=CITEREFLa réunification de2015 }}
+* {{Cite web |title=La télévision de Nantes Saint-Nazaire et de Loire-Atlantique |date=17 June 2014 |url=http://www.telenantes.com/la-chaine |access-date=2 January 2017 |publisher=Télénantes |ref=CITEREFLa télévision de }}
+* {{Cite web |title=La ville rivulaire - les composantes physiques identitaires |url=http://www.paysages.loire-atlantique.gouv.fr/index919e.html?_pg=paysage&_p=2&_up=16&_action=description&n=1 |access-date=22 January 2017 |publisher=Atlas des paysages de la Loire-Atlantique |ref=CITEREFLa ville rivulaire }}
+* {{Cite web |title=Laissez-vous conter Nantes - Architecture XXème siècle |url=http://www.nantes.fr/files/live/sites/nantesfr/files/PDF/Publications/02-VDN/Culture/Laissez-vous%20conter%20Nantes/conter-nantes-architecture-13.pdf |access-date=8 December 2016 |publisher=City of Nantes |ref=CITEREFLaissez-Vous conter Nantes }}
+* {{Cite web |title=Le Grand T |url=http://www.nantes.fr/home/ville-de-nantes/culture/les-lieux-culturels/le-grand-t.html |access-date=30 December 2016 |publisher=City of Nantes |ref=CITEREFLe Grand T }}
+* {{Cite web |title=Le Musée d'arts à Nantes |trans-title=The Nantes Museum of Arts |url=http://www.nantes.fr/musee-arts |access-date=10 December 2016 |publisher=City of Nantes |language=fr |ref=CITEREFLe Musée d'arts }}
+* {{Cite book |last=Le Page |first=Dominique |title=Nantes en Bretagne ? Nantes et la Bretagne du Moyen Âge à nos jours |publisher=Skol Vreizh |year=2014 |isbn=978-2-36758-034-0 |location=Morlaix |language=fr |trans-title=Nantes in Brittany? Nantes and Brittany in the Middle Ages and today }}
+* {{Cite web |title=Le Zénith Nantes Métropole: première salle de spectacles en province |url=http://www.nantes-amenagement.fr/le-zenith-nantes-metropole-premiere-salle-de-spectacles-en-province-28183.kjsp |url-status=dead |archive-url=https://web.archive.org/web/20140204022856/http://www.nantes-amenagement.fr/le-zenith-nantes-metropole-premiere-salle-de-spectacles-en-province-28183.kjsp |archive-date=4 February 2014 |publisher=Nantes Métropole |ref=CITEREFLe Zénith Nantes }}
+* {{Cite web |title=Le dialogue citoyen de quartier |url=https://www.nantes.fr/home/jouons-collectif/nantesco/les-trois-piliers-du-dialogue-ci/le-dialogue-citoyen-de-quartier.html |access-date=6 December 2016 |ref=CITEREFLe dialogue citoyen }}
+* {{Cite web |title=Le lieu unique |url=http://www.nantes.fr/home/ville-de-nantes/culture/les-lieux-culturels/le-lieu-unique.html |access-date=30 December 2016 |publisher=City of Nantes |ref=CITEREFLe lieu unique }}
+* {{Cite book |title=Le patrimoine des communes de la Loire-Atlantique |publisher=Flohic |year=1999 |isbn=978-2842340407 |series=Musées secrets |volume=2 |location=Grandvilliers |language=fr |trans-title=The heritage of the Loire-Atlantique communes |ref=CITEREFLe patrimoine des1999}}
+* {{Cite web |title=Le pouvoir municipal |url=http://www.archives.nantes.fr/PAGES/DOSSIERS_DOCS/pouvoir_municipal/page1.htm |url-status=dead |archive-url=https://web.archive.org/web/20160305031730/http://www.archives.nantes.fr/pages/dossiers_docs/pouvoir_municipal/page1.htm |archive-date=5 March 2016 |access-date=6 December 2016 |publisher=Archives municipales de Nantes |ref=CITEREFLe pouvoir municipal }}
+* {{Cite web |title=Le terroir nantais et sa gastronomie |trans-title=The Nantes terroir and its gastronomy |url=http://www.nantesmetropole.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?ID_FICHIER=1248261231338 |access-date=30 January 2017 |publisher=Nantes Métropole |language=fr |ref=CITEREFLe terroir nantais }}
+* {{Cite book |last=Lelièvre |first=Pierre |title=Nantes au XVIIIe siècle. Urbanisme, architecture |publisher=Picard |year=2000 |isbn=2708403516 |location=Paris |language=fr |trans-title=Nantes in the 18th century. Town planning, architecture. |orig-year=First published 1942}}
+* {{Cite web |date=May 2013 |title=Les amplitudes de l'onde de marée |trans-title=The amplitudes of the tidal waves |url=http://www.loire-estuaire.org/upload/espace/1/pj/44138_2822_l1a1_onde_maree_maj.pdf |url-status=dead |archive-url=https://web.archive.org/web/20161229112546/http://www.loire-estuaire.org/upload/espace/1/pj/44138_2822_l1a1_onde_maree_maj.pdf |archive-date=29 December 2016 |access-date=28 December 2016 |publisher=Groupement d'intérêt public Loire Estuaire |language=fr |ref=CITEREFLes amplitudes de2013 }}
+* {{Cite web |title=Les chiffres clés 2015 |trans-title=Key figures for 2015 |url=https://semitan.tan.fr/fr/menu/semitan/une-entreprise-locale/les-chiffres-cles/ |url-status=dead |archive-url=https://web.archive.org/web/20160924142201/https://semitan.tan.fr/fr/menu/semitan/une-entreprise-locale/les-chiffres-cles/ |archive-date=24 September 2016 |access-date=26 December 2016 |publisher=Semitan |language=fr |ref=CITEREFLes chiffres clés }}
+* {{Cite web |title=Les clubs d'élite |trans-title=The elite clubs |url=http://www.nantes.fr/home/ville-de-nantes/sport/sport-de-haut-niveau/les-clubs-delite.html |access-date=2 January 2017 |publisher=City of Nantes |language=fr |ref=CITEREFLes clubs d'élite }}
+* {{Cite web |title=Les collections |trans-title=Collections |url=https://grand-patrimoine.loire-atlantique.fr/jcms/les-collections-fr-eja_5260 |access-date=30 December 2016 |publisher=Grand Patrimoine de Loire-Atlantique |language=fr |ref=CITEREFLes collections }}
+* {{Cite web |title=Les compétences de Nantes Métropole |url=http://www.nantesmetropole.fr/institution-metropolitaine/competences/ |access-date=6 December 2016 |publisher=Nantes Métropole |ref=CITEREFLes compétences de }}
+* {{Cite web |title=Les filières économiques nantaises |url=http://www.nantes-developpement.com/economie/filieres/filieres-accueil |url-status=dead |archive-url=https://web.archive.org/web/20100729202956/http://www.nantes-developpement.com/economie/filieres/filieres-accueil |archive-date=29 July 2010 |access-date=7 December 2016 |publisher=Agence de développement économique de Nantes métropole |ref=CITEREFLes filières économiques }}  <!--this page now redirects to a generic splash page, doesn't have the same info-->
+* {{Cite web |title=Les multiples facettes des sites amont |url=http://www.nantes.port.fr/decouvrir-lactivite-portuaire/decouvrir-les-sites/sites-amont/?L=0 |publisher=Port Atlantique Nantes Saint-Nazaire |ref=CITEREFLes multiples facettes }}
+* {{Cite web |date=1 December 2010 |title=Les nouveaux quartiers durables |url=http://www.nantesmetropole.fr/la-metropole/competences/les-eco-quartiers-23310.kjsp |access-date=28 December 2016 |publisher=Nantes Métropole |ref=CITEREFLes nouveaux quartiers2010 }}
+* {{Cite web |title=Les parcs et jardins à Nantes |trans-title=Parks and gardens of Nantes |url=http://www.nantes.fr/jardins |access-date=28 December 2016 |publisher=City of Nantes |language=fr |ref=CITEREFLes parcs et }}
+* {{Cite web |title=Les partenariats thématiques |url=http://www.nantes.fr/home/ville-de-nantes/international-europe/jumelages-et-partenariats/partenariats-thematiques.html |access-date=11 December 2016 |publisher=City of Nantes |ref=CITEREFLes partenariats thématiques }}
+* {{Cite web |title=Les piscines à Nantes |trans-title=Swimming pools in Nantes |url=http://www.nantes.fr/piscines |access-date=2 January 2017 |publisher=City of Nantes |language=fr |ref=CITEREFLes piscines à }}
+* {{Cite web |title=Les stades et grands équipements |url=http://www.nantes.fr/home/ville-de-nantes/sport/equipements/stades-et-grands-equipements-a-n.html |access-date=2 January 2017 |publisher=City of Nantes |ref=CITEREFLes stades et }}
+* {{Cite web |last1=Lionel Kerdommarec |last2=Patrick Pailloux |date=17 November 2011 |title=L'aire urbaine de Nantes pourrait dépasser le million d'habitants d'ici 2030 |url=https://www.insee.fr/fr/statistiques/1290715 |access-date=29 December 2016 |publisher=Insee }}
+* {{Cite web |title=Liste des destinations |url=http://www.nantes.aeroport.fr/destinations/liste |access-date=26 December 2016 |publisher=Nantes Atlantique Airport |ref=CITEREFListe des destinations }}{{Dead link|date=March 2024 |bot=InternetArchiveBot |fix-attempted=yes }}
+* {{Cite web |title=Liste des jumelages et partenariats entre collectivités locales françaises et coréennes |trans-title=List of twinnings and partnerships between French and Korean local authorities |url=https://kr.ambafrance.org/Liste-des-jumelages-et-partenariats-entre-collectivites-locales-francaises-et |access-date=18 March 2017 |publisher=French Embassy in South Korea |language=fr |ref=CITEREFListe des jumelages }}
+* {{Cite web |title=L'emploi dans la Métropole |url=http://www.nantesmetropole.fr/medias/fichier/infographie-dossier60_1446475876335.pdf?INLINE=FALSE |access-date=26 December 2016 |publisher=Nantes Métropole |ref=CITEREFL’Emploi dans la }}
+* {{Cite book |last1=M. Ters |url=http://ficheinfoterre.brgm.fr/Notices/0481N.pdf |title=Notice explicative, Carte géol. France (1/50 000), feuille Nantes (481) |last2=J. Marchand |last3=G. Weecksteen |publisher=BRGM |year=1970 |location=Orléans |access-date=6 December 2016 }}
+* {{Cite web |title=Machines de l'île: une fréquentation en hausse cet été |url=http://www.nantes.fr/home/actualites/ville-de-nantes/culture/2016/frequentation-machines.html |access-date=30 December 2016 |publisher=City of Nantes |ref=CITEREFMachines de l'île }}
+* {{Cite news |last=Marie Conquy |date=23 November 2012 |title=Notre-Dame-des-Landes: pourquoi le futur aéroport fait polémique ? |work=Ca m'intéresse |url=http://www.caminteresse.fr/economie-societe/notre-dame-des-landes-aeroport-polemique-pourquoi-1155228/ |access-date=26 December 2016 }}
+* {{Cite web |last=Erwan Chartier |date=30 December 2008 |title=Mai 68. Le feu embrase aussi l'Ouest - Mai 68 en Bretagne |url=http://www.letelegramme.fr/ig/dossiers/mai68/mai-68-le-feu-embrase-aussi-l-ouest-30-12-2008-184902.php |access-date=15 March 2017 |publisher=Le Télégramme |ref=CITEREFMai 68 }}
+* {{Cite web |title=Monuments historiques à Nantes |trans-title=Historical monuments of Nantes |url=https://www.pop.culture.gouv.fr/advanced-search/list/merimee?qb=%5B%7B%22field%22%3A%5B%22INSEE.keyword%22%5D%2C%22operator%22%3A%22%3D%3D%22%2C%22value%22%3A%2244109%22%2C%22combinator%22%3A%22AND%22%2C%22index%22%3A0%7D%2C%7B%22field%22%3A%5B%22PROT.keyword%22%5D%2C%22operator%22%3A%22%2A%22%2C%22value%22%3A%22MH%22%2C%22combinator%22%3A%22AND%22%2C%22index%22%3A1%7D%5D |access-date=6 January 2021 |publisher=Base Mérimée |language=fr |ref=CITEREFMonuments historiques à }}
+* {{Cite web |title=Nantes - Tramways |url=http://www.amtuir.org/05_htu_tw_france_50/liste_alpha_tw_50/nantes/texte_nantes.htm |url-status=dead |archive-url=https://web.archive.org/web/20170422024006/http://www.amtuir.org/05_htu_tw_france_50/liste_alpha_tw_50/nantes/texte_nantes.htm |archive-date=22 April 2017 |access-date=26 December 2016 |publisher=AMTUIR - Musée de transports urbains |ref=CITEREFNantes - Tramways }}
+* {{Cite web |title=Nantes en 7ème position |trans-title=Nantes in seventh position |url=http://www.nantes.maville.com/actu/actudet_-Nantes-en-7e-position-_loc-932609_actu.Htm |publisher=Nantes.maville.com |language=fr |ref=CITEREFNantes en 7ème |access-date=7 December 2016 |archive-date=19 July 2017 |archive-url=https://web.archive.org/web/20170719152547/http://www.nantes.maville.com/actu/actudet_-Nantes-en-7e-position-_loc-932609_actu.Htm |url-status=dead }}
+* {{Cite web |date=8 April 2013 |title=Nantes signe la charte Ya d'ar brezhoneg |url=http://www.fr.brezhoneg.bzh/evenement/427/50-actualite.htm |access-date=29 December 2016 |publisher=Public Office for Breton Language |ref=CITEREFNantes signe la2013 }}
+* {{Cite web |title=Qui sommes-nous? |trans-title=Who are we? |url=http://www.nantes-usa.com/index.php/fr/actualites/36-qui-sommes-nous |access-date=15 March 2017 |publisher=Nantes-USA |language=fr |ref=CITEREFNantes-USA }}{{Dead link|date=March 2024 |bot=InternetArchiveBot |fix-attempted=yes }}
+* {{Cite web |title=Nantes, France |url=https://www.seattle.gov/oir/sister-cities/seattles-21-sister-cities/nantes |access-date=11 December 2016 |publisher=Seattle.gov |ref=CITEREFNantes, France }}
+* {{Cite news |date=10 November 2012 |title=Nantes. Le nouveau visage du centre Atlantis |work=Le Télégramme |url=http://www.letelegramme.fr/ig/generales/economie/nantes-le-nouveau-visage-du-centre-atlantis-10-11-2012-1901371.php#ukVdBUbiqxgBw8WI.99 |ref=CITEREFNantes. Le nouveau2012 }}
+* {{Cite news |date=23 September 2016 |title=Nantes: L'été radieux des vélos Bicloo |work=20 Minutes |url=http://www.20minutes.fr/nantes/1929163-20160923-nantes-radieux-velos-bicloo |access-date=26 December 2016 |ref=CITEREFNantes: L'été radieux2016 }}
+* {{Cite web |title=Nantes-Sarrebruck 50 ans |url=http://www.nantes.fr/nantes-sarrebruck |access-date=11 December 2016 |ref=CITEREFNantes-Sarrebruck }}
+* {{Cite web |title=Naoned |url=http://www.brezhonegbrovear.bzh/temou.php?tem=402 |access-date=28 January 2017 |publisher=Brezhoneg Bro-Vear |ref=CITEREFNaoned }}
+* {{Cite web |title=Pannonica |url=http://www.nantes.fr/home/ville-de-nantes/culture/les-lieux-culturels/pannonica.html |access-date=30 December 2016 |publisher=City of Nantes |ref=CITEREFPannonica }}
+* {{Cite web |last=Pascal Perry |date=29 June 2016 |title=Notre-Dame-des-Landes: une idéologie radicale derrière la ZAD |trans-title=Notre-Dame-des-Landes: a radical ideology behind the ZAD |url=http://www.lefigaro.fr/vox/societe/2016/06/29/31003-20160629ARTFIG00119-notre-dame-des-landes-une-ideologie-radicale-derriere-la-zad.php |access-date=26 December 2016 |language=fr |newspaper=[[Le Figaro]] }}
+* {{Cite web |last=Philippe Audureau |title=Le mot du président |trans-title=A word from the president |url=http://www.napf.fr/la-vie-de-napf/ |access-date=26 December 2016 |publisher=NAPF |language=fr |archive-date=18 December 2018 |archive-url=https://web.archive.org/web/20181218013046/http://www.napf.fr/la-vie-de-napf/ |url-status=dead }}
+* {{Cite news |last=Pierre Falga |date=5 July 2007 |title=Onze quartiers passés au crible |work=L'Express |url=http://www.lexpress.fr/region/onze-quartiers-pass-eacute-s-au-crible_476263.html }}
+* {{Cite web |date=9 March 2007 |title=Plan local d'urbanisme - 2. Rapport de présentation |url=http://plu.nantesmetropole.fr/Nantes/PDF/2_Rapport_de_presentation.pdf |access-date=8 December 2016 |publisher=Nantes Métropole |ref=CITEREFPlan local d'urbanisme2007 }}
+* {{Cite book |last=Polizzotti |first=Mark |title=André Breton |publisher=Gallimard |year=1999 |page=38 }}
+* {{Cite web |title=Presentation |url=http://www.bluecluster.fr/Atlanpole/Presentation |url-status=dead |archive-url=https://web.archive.org/web/20170319022348/http://www.bluecluster.fr/Atlanpole/Presentation |archive-date=19 March 2017 |access-date=18 March 2017 |publisher=Blue Cluster |ref=CITEREFPresentation }}
+* {{Cite web |title=Presse écrite |url=http://club-presse-nantes.com/presse-ecrite/ |access-date=2 January 2017 |publisher=Club Presse Nantes Atlantique |ref=CITEREFPresse écrite }}
+* {{Cite web |title=Programmation culturelle |url=http://www.lesmachines-nantes.fr/fr/programmation/noel-aux-nefs/ |access-date=14 January 2017 |publisher=Les Machines de l'Île |ref=CITEREFProgrammation culturelle }}
+* {{Cite web |ref={{harvid|Programme DANK}} |title=Programme DANK (Dschang, AMAGA, Nantes Métropole, Kindia) |url=https://pastel.diplomatie.gouv.fr/cncdext/dyn/public/atlas/detailProjet.html?criteres.prjId=6396 |access-date=11 December 2016 |publisher=Commission nationale de la coopération décentralisée }}
+* {{Cite book |last=Pétré-Grenouilleau |first=Olivier |title=Nantes |publisher=Éditions Palantines |year=2008 |isbn=978-2356780003 |series=Histoire et géographie contemporaine |location=Plomelin |orig-year=First published 2003}}
+* {{Cite web |title=Orase infratite |trans-title=Twin cities |url=http://www.primariaclujnapoca.ro/orase-infratite.html |access-date=15 March 2017 |publisher=City of Cluj-Napoca |language=ro |ref=CITEREFOrase infratite }}
+* {{Cite news |date=20 March 2008 |title=Qu'est-ce que la cuisine nantaise ? |language=fr |trans-title=What is the "cuisine of Nantes"? |work=Le Point |url=http://www.lepoint.fr/actualites-region/2008-03-20/qu-est-ce-que-la-cuisine-nantaise/1556/0/231119 |access-date=30 January 2017 |ref=CITEREFQu'Est-Ce que la2008 |archive-date=2 February 2017 |archive-url=https://web.archive.org/web/20170202073940/http://www.lepoint.fr/actualites-region/2008-03-20/qu-est-ce-que-la-cuisine-nantaise/1556/0/231119 |url-status=dead }}
+* {{Cite news |last=Quiriet |first=Matthieu |date=22 September 2016 |title=Le palmarès des territoires champions de l'économie locale |work=Les Echos |location=Paris |url=http://www.lesechos.fr/22/09/2016/lesechos.fr/0211314794490_le-palmares-des-territoires-champions-de-l-economie-locale.htm# |access-date=26 December 2016 }}
+* {{Cite web |title=Radios |url=http://club-presse-nantes.com/radios/ |access-date=2 January 2017 |publisher=Club Presse Nantes Atlantique |ref=CITEREFRadios }}
+* {{Cite news |date=1 February 2015 |title=Record de fréquentation pour la Folle Journée à Nantes |work=Le Parisien |url=http://www.leparisien.fr/nantes-44000/record-de-frequentation-pour-la-folle-journee-a-nantes-01-02-2015-4498933.php |access-date=14 January 2017 |ref=CITEREFRecord de fréquentation2015 |archive-date=16 January 2017 |archive-url=https://web.archive.org/web/20170116165006/http://www.leparisien.fr/nantes-44000/record-de-frequentation-pour-la-folle-journee-a-nantes-01-02-2015-4498933.php |url-status=dead }}
+* {{Cite web |title=Reviews of The Life and Science of Léon Foucault. The Man who Proved the Earth Rotates. |url=http://www2.phys.canterbury.ac.nz/~wjt23/Horn.html |access-date=8 July 2009 |publisher=.phys.canterbury.ac.nz |ref=CITEREFReviews of Life }}
+* {{Cite book |last=Rostaing |first=Charles |url=https://books.google.com/books?id=S3lFMQAACAAJ |title=Les noms de lieux |publisher=Presses universitaires de France |year=1980 }}
+* {{Cite web |title=Histoire de la compagnie |url=https://www.royal-de-luxe.com/fr/la-compagnie/ |access-date=18 March 2017 |publisher=Royal de Luxe |ref=CITEREFRoyal de Luxe |archive-date=12 May 2019 |archive-url=https://web.archive.org/web/20190512010203/http://www.royal-de-luxe.com/fr/la-compagnie/ |url-status=dead }}
+* {{Cite web |last=Rémi Barroux |date=10 December 2016 |title=Le gouvernement repousse l'évacuation de la ZAD de Notre-Dame-des-Landes |url=http://www.lemonde.fr/planete/article/2016/12/10/le-gouvernement-renonce-a-evacuer-la-zad-de-notre-dame-des-landes_5046691_3244.html |access-date=26 December 2016 |newspaper=[[Le Monde]] }}
+* {{Cite web |date=12 February 2015 |title=Résultats d'activité des aéroports français 2014 |url=http://www.villeaeroport.fr/pdf/rapport_activité_2014_uaf.pdf |access-date=24 July 2015 |publisher=Union des aéroports français |ref=CITEREFRésultats d’activité des2015 }}
+* {{Cite web |title=Rééquilibrage du lit de la Loire |trans-title=Rebalancing the bed of the Loire |url=http://www.loire-estuaire.org/accueil/des_missions/reequilibrage_du_lit_de_la_loire |access-date=28 December 2016 |publisher=Groupement d'intérêt public Loire Estuaire |language=fr |ref=CITEREFRééquilibrage du lit }}
+* {{Cite web |date=6 July 2012 |title=Schéma directeur de l'urbanisme commercial de Nantes Métropole |trans-title=Master plan of the commercial urban development of Nantes Metropolis |url=http://www.nantesmetropole.fr/deliberations/co_20120706/annexeco_06_07_2012_08.pdf |publisher=Nantes Métropole |page=12 |language=fr |ref=CITEREFSchéma directeur de2012 }}
+* {{Cite news |date=29 November 2014 |title=Sur les traces de Mr. Turner, amoureux de la Loire |language=fr |trans-title=In the footprints of Mr. Turner, in love with the Loire |work=Ouest-France |url=http://www.ouest-france.fr/pays-de-la-loire/sur-les-traces-de-mr-turner-amoureux-de-la-loire-3018349 |access-date=10 December 2016 |ref=CITEREFSur les traces2014 }}
+* {{Cite web |title=TV |url=http://club-presse-nantes.com/tv/ |access-date=2 January 2017 |publisher=Club Presse Nantes Atlantique |language=fr |ref=CITEREFTV }}
+* {{Cite web |title=Tbilisi Sister Cities |url=http://www.tbilisi.gov.ge/index.php?lang_id=ENG&sec_id=4571 |archive-url=https://web.archive.org/web/20130724120155/http://www.tbilisi.gov.ge/index.php?lang_id=ENG&sec_id=4571 |archive-date=24 July 2013 |access-date=5 August 2013 |publisher=Tbilisi City Hall |ref=CITEREFTbilisi Sister Cities }}
+* {{Cite web |date=28 December 2015 |title=Transport fluvial: le Navibus a 10 ans ! |trans-title=River transport: the Navibus is 10 years old! |url=http://www.nantes.fr/home/actualites/a-nantes-et-pas-ailleurs/2015/navibus-anniversaire.html |url-status=dead |archive-url=https://web.archive.org/web/20160504012933/http://www.nantes.fr/home/actualites/a-nantes-et-pas-ailleurs/2015/navibus-anniversaire.html |archive-date=4 May 2016 |access-date=26 December 2016 |publisher=City of Nantes |language=fr |ref=CITEREFTransport fluvial :2015 }}
+* {{Cite web |title=Travailler pour Airbus Group à Nantes |trans-title=Work for the Airbus Group in Nantes |url=http://www.airbusgroup.com/int/en/people-careers/Our-locations/Nantes/Nantes-FR.html |access-date=26 December 2016 |publisher=Airbus |language=fr |ref=CITEREFTravailler pour Airbus |archive-date=27 December 2016 |archive-url=https://web.archive.org/web/20161227130837/http://www.airbusgroup.com/int/en/people-careers/Our-locations/Nantes/Nantes-FR.html |url-status=dead }}
+* {{Cite book |last=Travers |first=Nicolas |title=Histoire civile, politique et religieuse de la ville et du comté de Nantes |date=1836 |publisher=Savagner |language=fr |trans-title=Civil, political and religious history of the city and county of Nantes }}
+* {{Cite web |date=30 November 2016 |title=Un centre-ville actif |trans-title=An active town centre |url=http://www.nantesmetropole.fr/decouverte/les-grands-projets/un-centre-actif-37939.kjsp?RH=WEB |access-date=18 March 2017 |publisher=Nantes Métropole |language=fr |ref=CITEREFUn centre ville }}
+* {{Cite web |title=Une organisation au service de l'intercommunalité |trans-title=An organisation at the service of intercommuniality |url=http://www.nantesmetropole.fr/la-metropole/l-organisation-22934.kjsp |access-date=6 December 2016 |publisher=Nantes Métropole |language=fr |ref=CITEREFUne organisation au }}
+* {{Cite book |last=Vial |first=Éric |title=Les noms de villes et de villages |publisher=Belin |year=1983 |volume=7 |location=Paris |language=fr |trans-title=Names of the towns and villages }}
+* {{Cite web |title=Vos 65 élu-e-s |trans-title=Your 65 elected officials |url=http://www.nantes.fr/elus |access-date=6 December 2016 |publisher=City of Nantes |language=fr |ref=CITEREFVos 65 élu-e-s }}
+* {{Cite web |title=Voyage à Nantes |trans-title=Travel to Nantes |url=http://www.nantes.fr/van |access-date=30 December 2016 |publisher=City of Nantes |language=fr |ref=CITEREFVoyage à Nantes }}
+* {{Cite web |title=Économie |trans-title=Economy |url=http://www.nantes.fr/home/a-nantes-et-pas-ailleurs/decouvrir-nantes/nantes-dhier-a-aujourdhui/economie.html |access-date=26 December 2016 |publisher=City of Nantes |language=fr |ref=CITEREFÉconomie }}
+{{refend}}
+
+==External links==
+{{wiktionary|Nantes#Translations}}
+{{Wikivoyage|Nantes}}
+{{Commons category}}
+* [https://metropole.nantes.fr Official website of the City and Métropole of Nantes] {{in lang|fr}}
+* [https://www.levoyageanantes.fr/en/ Nantes tourist office] {{in lang|fr|en|de|es|pt|it|nl}}
+* [https://web.archive.org/web/20161227131359/http://www.nantesmetropole.fr// Web archive of Nantes Métropole (the old website)] {{in lang|fr}}
+*[http://historic-cities.huji.ac.il/france/nantes/maps/van_der_aa_1725_nantes.html View of Nantes, ca. 1725], [http://historic-cities.huji.ac.il/historic_cities.html Historic Cities site], from the Eran Laor Collection, The [[National Library of Israel]]
+* An engraving by [[James Tibbitts Willmore]] of a painting of a view of Nantes from Feydeau Island by [[J. M. W. Turner]] published in The Keepsake annual for 1831, with a poetical illustration entitled {{ws|[[s:Poems of Letitia Elizabeth Landon (L. E. L.) in The Keepsake, 1831/The Return|The Return]]}} by [[Letitia Elizabeth Landon]].
+
+{{Préfectures of départements of France}}
+{{Prefectures of regions of France}}
+{{Cities in France}}
+{{Celts}}
+{{Loire-Atlantique communes}}
+{{Authority control}}
+
+[[Category:Nantes| ]]<!--please leave the empty space as standard-->
+[[Category:Populated places established in the 2nd century BC]]
+[[Category:Populated places established in the 1st century BC]]
+[[Category:Cities in France]]
+[[Category:Communes of Loire-Atlantique]]
+[[Category:Companions of the Liberation]]
+[[Category:Port cities and towns on the French Atlantic coast]]
+[[Category:Prefectures in France]]
+[[Category:Gallia Lugdunensis]]
