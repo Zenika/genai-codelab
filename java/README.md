@@ -16,13 +16,13 @@ Le suite du codelab aura lieu dans la classe `ChatBot`
 
 
 Assurez-vous également que `Ollama` est démarrer, accessible et que le modèle OpenHermes est bien disponible.
-Pour cela vous pouvez accéder à l'URL suivante: (http://localhost:11434/api/tags)[http://localhost:11434/api/tags] et valider que OpenHermes est bien présent.
+Pour cela vous pouvez accéder à l'URL suivante: [http://localhost:11434/api/tags](http://localhost:11434/api/tags) et valider que OpenHermes est bien présent.
 
 ## Premier pas
 
 Maintenant que tout est installé, nous allons pouvoir démarrer notre première application.
 
-Afin d'appeler notre modèle, nous allons utiliser (LangChain)[https://www.langchain.com/].
+Afin d'appeler notre modèle, nous allons utiliser [LangChain](https://www.langchain.com/).
 
 LangChain Community contient les intégrations pour les applications tierce comme Ollama.
 
