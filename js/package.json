@@ -1,15 +1,9 @@
 {
-  "name": "genai-codelab",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "name": "zenika-genai-codelab",
+  "private": true,
+  "type": "module",
   "dependencies": {
-    "@langchain/community": "^0.0.43",
-    "langchain": "^0.1.30"
+    "@langchain/community": "^0.0.50",
+    "langchain": "^0.1.34"
   }
 }
