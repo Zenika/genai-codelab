@@ -31,7 +31,7 @@ LangChain Community contient les intégrations pour les applications tierce comm
 Dans votre fichier `src/app.py`, vous pouvez ajouter l'import suivant :
 
 ```python
-from langchain_community.llms import ollama
+from langchain_ollama import ChatOllama
 ```
 
 Notre modèle est actuellement accessible via l'URL `http://localhost:11434`
@@ -39,7 +39,7 @@ Notre modèle est actuellement accessible via l'URL `http://localhost:11434`
 Nous allons créer l'objet permettant d'intéragir avec Ollama via le code suivant: 
 
 ```python
-llm = ollama.Ollama(
+llm = ChatOllama(
     base_url=OLLAMA_URL, 
     model='openhermes',
 )
@@ -56,7 +56,7 @@ Puis on invoque le modèle :
 
 ```python
 response = llm.invoke(prompt)
-print(response)
+print(response.content)
 ```
 
 Pour exécuter le fichier, exécuter la commande suivante: 
@@ -85,7 +85,7 @@ from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 Modifier la création de notre objet `llm` pour y ajouter un `callback_manager` permettant de streamer la réponse:
 
 ```python
-llm = ollama.Ollama(
+llm = ChatOllama(
     base_url=OLLAMA_URL, 
     model='openhermes',
     callback_manager= CallbackManager([StreamingStdOutCallbackHandler()])
@@ -116,7 +116,7 @@ Plus la valeur est proche de 0, plus le modèle va être déterministe, il chois
 Pour configurer la temperature, modifier la déclaration du modèle:
 
 ```python
-llm = ollama.Ollama(
+llm = ChatOllama(
     base_url=OLLAMA_URL, 
     model='openhermes',
     temperature=0.5,
@@ -156,7 +156,7 @@ Ce code est écrit avec LCEL (LangChain Expression Language).
 L'invocation de notre modèle se fait maintenant en appelant:
 
 ```python
-print(chain.invoke({'regexp': '^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$'}))
+print(chain.invoke({'regexp': '^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$'}).content)
 ```
 
 
@@ -214,7 +214,7 @@ Pour invoquer notre modèle:
 ```python
 chain = final_prompt | llm
 
-print(chain.invoke({'input': 'lion'}))
+print(chain.invoke({'input': 'lion'}).content)
 ```
 
 
@@ -256,7 +256,7 @@ Prenons par exemple le contenu d'une page wikipédia: https://fr.wikipedia.org/w
 ```python
 loader = WebBaseLoader('https://fr.wikipedia.org/wiki/Grand_mod%C3%A8le_de_langage')
 docs = loader.load()
-print(chain.invoke(docs))
+print(chain.invoke(docs).content)
 ```
 
 Cette technique fonctionne pour les documents ayant une taille suffisamment petite pour injecter dans le contexte du LLM. 
@@ -274,7 +274,7 @@ Pour ce faire, on peut utiliser un template de prompt qui va assembler un histor
 Langchain nous propose un objet permettant de gérer un historique de message:
 
 ```python
-from langchain.memory import ChatMessageHistory
+from langchain_community.chat_message_histories import ChatMessageHistory
 
 chat_messages = ChatMessageHistory()
 chat_messages.add_user_message('Can you translate I love programming in French')
