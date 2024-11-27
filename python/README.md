@@ -17,8 +17,8 @@ poetry install
 Le suite du codelab aura lieu dans `src/app.py`
 
 
-Assurez-vous également que `Ollama` est démarré, accessible et que le modèle Mistral7B est bien disponible.
-Pour cela vous pouvez accéder à l'URL suivante: [http://localhost:11434/api/tags](http://localhost:11434/api/tags) et valider que Mistral est bien présent.
+Assurez-vous également que `Ollama` est démarré, accessible et que le modèle phi3:3.8b est bien disponible.
+Pour cela vous pouvez accéder à l'URL suivante: [http://localhost:11434/api/tags](http://localhost:11434/api/tags) et valider que phi3:3.8b est bien présent.
 
 ## Premier pas
 
@@ -41,11 +41,11 @@ Nous allons créer l'objet permettant d'intéragir avec Ollama via le code suiva
 ```python
 llm = ChatOllama(
     base_url=OLLAMA_URL, 
-    model='openhermes',
+    model='phi3:3.8b',
 )
 ```
 
-Une fois cet objet créé nous allons pouvoir intéragir avec le modèle openhermes. 
+Une fois cet objet créé nous allons pouvoir intéragir avec le modèle phi3:3.8b. 
 Pour cela on déclare un prompt: 
 
 ```python
@@ -87,7 +87,7 @@ Modifier la création de notre objet `llm` pour y ajouter un `callback_manager` 
 ```python
 llm = ChatOllama(
     base_url=OLLAMA_URL, 
-    model='openhermes',
+    model='phi3:3.8b',
     callback_manager= CallbackManager([StreamingStdOutCallbackHandler()])
 )
 ```
@@ -118,7 +118,7 @@ Pour configurer la temperature, modifier la déclaration du modèle:
 ```python
 llm = ChatOllama(
     base_url=OLLAMA_URL, 
-    model='openhermes',
+    model='phi3:3.8b',
     temperature=0.5,
     callback_manager= CallbackManager([StreamingStdOutCallbackHandler()])
 )
@@ -322,7 +322,7 @@ from langchain.prompts import FewShotChatMessagePromptTemplate
 
 OLLAMA_URL = "http://localhost:11434"
 
-MODEL = "openhermes"
+MODEL = "phi3:3.8b"
 
 llm = ollama.Ollama(base_url=OLLAMA_URL, model=MODEL)
 
@@ -459,7 +459,7 @@ Dans notre cas, nous allons utiliser le code suivant:
 ```python
 from langchain_community.embeddings import OllamaEmbeddings
 
-embeddings_generator = OllamaEmbeddings(model = 'openhermes')
+embeddings_generator = OllamaEmbeddings(model = 'phi3:3.8b')
 ```
 
 Nous pouvons tester que le générateur fonctionne correctement avec le code suivant:
