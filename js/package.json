@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@langchain/community": "^0.0.50",
-    "langchain": "^0.1.34"
+    "@langchain/community": "^0.3.10",
+    "langchain": "^0.3.5"
   }
 }
