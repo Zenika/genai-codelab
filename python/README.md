@@ -8,17 +8,32 @@ Pour lancer ce projet vous avez besoin:
 - Python 3.9+
 - Poetry
 
-Une fois les outils installer, vous pouvez installer les dépendances via la commande: 
+Une fois les outils installer, aller dans le dossier `/home/ubuntu/public/genai-codelab`
+
+````bash
+cd /home/ubuntu/public/genai-codelab
+````
+
+Un fois dans le dossier, vous pouvez installer les dépendances via la commande: 
 
 ````bash
 poetry install
 ````
 
-Le suite du codelab aura lieu dans `src/app.py`
+Le suite du codelab aura lieu dans `src/app.py`. 
 
+Valider que le modèle `phi3:3.8b` est bien présent, via la commande: 
 
-Assurez-vous également que `Ollama` est démarré, accessible et que le modèle phi3:3.8b est bien disponible.
-Pour cela vous pouvez accéder à l'URL suivante: [http://localhost:11434/api/tags](http://localhost:11434/api/tags) et valider que phi3:3.8b est bien présent.
+```bash
+ollama list
+```
+
+Si il n'est pas présent, vous pouvez le télécharger grâce à la commande: 
+
+```bash
+ollama pull phi3:3.8b
+```
+
 
 ## Premier pas
 
@@ -40,12 +55,12 @@ Nous allons créer l'objet permettant d'intéragir avec Ollama via le code suiva
 
 ```python
 llm = ChatOllama(
-    base_url=OLLAMA_URL, 
+    base_url='http://localhost:11434', 
     model='phi3:3.8b',
 )
 ```
 
-Une fois cet objet créé nous allons pouvoir intéragir avec le modèle phi3:3.8b. 
+Une fois cet objet créé nous allons pouvoir intéragir avec le modèle `phi3:3.8b`. 
 Pour cela on déclare un prompt: 
 
 ```python
@@ -86,7 +101,7 @@ Modifier la création de notre objet `llm` pour y ajouter un `callback_manager` 
 
 ```python
 llm = ChatOllama(
-    base_url=OLLAMA_URL, 
+    base_url='http://localhost:11434', 
     model='phi3:3.8b',
     callback_manager= CallbackManager([StreamingStdOutCallbackHandler()])
 )
@@ -117,7 +132,7 @@ Pour configurer la temperature, modifier la déclaration du modèle:
 
 ```python
 llm = ChatOllama(
-    base_url=OLLAMA_URL, 
+    base_url='http://localhost:11434', 
     model='phi3:3.8b',
     temperature=0.5,
     callback_manager= CallbackManager([StreamingStdOutCallbackHandler()])
@@ -459,7 +474,7 @@ Dans notre cas, nous allons utiliser le code suivant:
 ```python
 from langchain_community.embeddings import OllamaEmbeddings
 
-embeddings_generator = OllamaEmbeddings(model = 'phi3:3.8b')
+embeddings_generator = OllamaEmbeddings(model = 'openhermes')
 ```
 
 Nous pouvons tester que le générateur fonctionne correctement avec le code suivant:
