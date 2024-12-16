@@ -12,8 +12,7 @@ langchain = "^0.3.1"
 langchain-ollama = "^0.2.0"
 langchain-community = "^0.3.1"
 bs4 = "^0.0.2"
-pypdf = "^4.1.0"
-unstructured = {version= "^0.15.3", extras = ["pdf"]}
+streamlit = "^1.38.0"
 
 
 
