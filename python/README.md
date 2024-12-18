@@ -1,6 +1,5 @@
 # CodeLab GenAI Zenika - Python
 
-
 ## Installation
 
 Pour lancer ce projet vous avez besoin:
@@ -8,40 +7,39 @@ Pour lancer ce projet vous avez besoin:
 - Python 3.9+
 - Poetry
 
-Une fois les outils installer, aller dans le dossier `/home/ubuntu/public/genai-codelab`
+Une fois les outils installés, allez dans le dossier `/home/ubuntu/public/genai-codelab`
 
-````bash
+```bash
 cd /home/ubuntu/public/genai-codelab
-````
+```
 
-Un fois dans le dossier, vous pouvez installer les dépendances via la commande: 
+Un fois dans le dossier, vous pouvez installer les dépendances via la commande:
 
-````bash
+```bash
 poetry install
-````
+```
 
-Le suite du codelab aura lieu dans `src/app.py`. 
+Le suite du codelab aura lieu dans `src/app.py`.
 
-Valider que le modèle `phi3:3.8b` est bien présent, via la commande: 
+Validez que le modèle `phi3:3.8b` est bien présent, via la commande:
 
 ```bash
 ollama list
 ```
 
-Si il n'est pas présent, vous pouvez le télécharger grâce à la commande: 
+Si il n'est pas présent, vous pouvez le télécharger grâce à la commande:
 
 ```bash
 ollama pull phi3:3.8b
 ```
 
-
 ## Premier pas
 
-Maintenant que tout est installé, nous allons pouvoir démarrer notre première application. 
+Maintenant que tout est installé, nous allons pouvoir démarrer notre première application.
 
-Afin d'appeler notre modèle, nous allons utiliser [LangChain](https://www.langchain.com/). 
+Afin d'appeler notre modèle, nous allons utiliser [LangChain](https://www.langchain.com/).
 
-LangChain Community contient les intégrations pour les applications tierce comme Ollama.
+LangChain Community contient les intégrations pour les applications tierces comme Ollama.
 
 Dans votre fichier `src/app.py`, vous pouvez ajouter l'import suivant :
 
@@ -51,17 +49,17 @@ from langchain_ollama import ChatOllama
 
 Notre modèle est actuellement accessible via l'URL `http://localhost:11434`
 
-Nous allons créer l'objet permettant d'intéragir avec Ollama via le code suivant: 
+Nous allons créer l'objet permettant d'intéragir avec Ollama via le code suivant:
 
 ```python
 llm = ChatOllama(
-    base_url='http://localhost:11434', 
+    base_url='http://localhost:11434',
     model='phi3:3.8b',
 )
 ```
 
-Une fois cet objet créé nous allons pouvoir intéragir avec le modèle `phi3:3.8b`. 
-Pour cela on déclare un prompt: 
+Une fois cet objet créé nous allons pouvoir intéragir avec le modèle `phi3:3.8b`.
+Pour cela on déclare un prompt:
 
 ```python
 prompt = 'Who are you ?'
@@ -74,23 +72,23 @@ response = llm.invoke(prompt)
 print(response.content)
 ```
 
-Pour exécuter le fichier, exécuter la commande suivante: 
+Pour exécuter le fichier, exécutez la commande suivante:
 
 ```python
 poetry run python src/app.py
 ```
 
-Et voila! Nous avons effectué notre premier appel. 
+Et voila! Nous avons effectué notre premier appel.
 
 ## Améliorons notre modèle
 
-LangChain fournit un ensemble de fonction et d'utilitaire permettant de configurer plus finenement notre application. 
+LangChain fournit un ensemble de fonctions et d'utilitaires permettant de configurer plus finement notre application.
 
-### Streaming 
+### Streaming
 
 Dans un premier temps, rendons notre application un peu plus vivante. Plutôt que de générer une réponse d'un coup, LangChain nous permet de streamer le flux de la réponse.
 
-Pour cela, ajouter les imports suivants:
+Pour cela, ajoutez les imports suivants:
 
 ```python
 from langchain.callbacks.manager import CallbackManager
@@ -101,43 +99,46 @@ Modifier la création de notre objet `llm` pour y ajouter un `callback_manager` 
 
 ```python
 llm = ChatOllama(
-    base_url='http://localhost:11434', 
+    base_url='http://localhost:11434',
     model='phi3:3.8b',
     callback_manager= CallbackManager([StreamingStdOutCallbackHandler()])
 )
 ```
 
-Réexecuter le fichier pour voir la différence:
+Réexecutez le fichier pour voir la différence:
 
 ```python
 poetry run python src/app.py
 ```
 
-### Temperature 
+### Temperature
 
-Afin de générer des variations dans les réponses apportées par les modèles, il est possible de faire varier le paramètre `temperature`. Il permet de définir le degré de "créativité" du modèle. En effet, la sortie d'un modèle de langage génératif basé sur les transformers est la suite de token (que par simplicité nous pouvons considérer comme des mots) qui complète la suite de token (ou mots) donnés en input. Grâce aux poids réglés lors du préentrainément, le modèle détermine les tokens qui ont la probabilité la plus grande de compléter une suite fournie en entrée. Par défaut, il choisit toujours ceux qui ont la probabilité la plus haute. Agir sur la température permet d'augmenter l'ensemble des tokens choisis, en allant chercher ceux qui ont des probabilités plus basse de survenir.
-Ce paramètre (compris entre 0 et 1).
-Plus la valeur est proche de 1, plus le modèle va être "créatif", c'est à dire qu'il choisira des mots moins probables de survenir d'après les dataset qui ont servi à l'entrainé.
-Plus la valeur est proche de 0, plus le modèle va être déterministe, il choisira toujours le mots avec la probabilité la plus élevée.
+Afin de générer des variations dans les réponses apportées par les modèles, il est possible de faire varier le paramètre `temperature`. Il permet de définir le degré de "créativité" du modèle. En effet, la sortie d'un modèle de langage génératif basé sur les transformers est la suite de tokens (que par simplicité nous pouvons considérer comme des mots) qui complète la suite de tokens (ou mots) donnée en input. Grâce aux poids réglés lors du pré-entrainément, le modèle détermine les tokens qui ont la probabilité la plus grande de compléter une suite fournie en entrée. Par défaut, il choisit toujours ceux qui ont la probabilité la plus haute. Agir sur la température permet d'augmenter l'ensemble des tokens choisis, en allant chercher ceux qui ont des probabilités plus basse de survenir.
+Ce paramètre est compris entre 0 et 1.
+Plus la valeur est proche de 1, plus le modèle va être "créatif", c'est à dire qu'il choisira des mots moins probables de survenir d'après les datasets qui ont servi à l'entrainer.
+Plus la valeur est proche de 0, plus le modèle va être déterministe, il choisira toujours le mot avec la probabilité la plus élevée.
 
---- 
-> Règles de bases
->
->* Pour des taches de transformation (correction de fautes, extraction de données, conversion de format) on vise une temperature entre 0 et 0.3
->* Pour des taches d'écriture simple, de résumé, on vise une température proche de 0.5
->* Pour des taches nécessitant de la créativité (marketing, pub), on vise une température entre 0.7 et 1
 ---
 
-Pour configurer la temperature, modifier la déclaration du modèle:
+> Règles de bases
+>
+> - Pour des tâches de transformation (correction de fautes, extraction de données, conversion de format) on vise une température entre 0 et 0.3
+> - Pour des tâches d'écriture simple, de résumé, on vise une température proche de 0.5
+> - Pour des tâches nécessitant de la créativité (marketing, pub), on vise une température entre 0.7 et 1
+
+---
+
+Pour configurer la température, modifiez la déclaration du modèle:
 
 ```python
 llm = ChatOllama(
-    base_url='http://localhost:11434', 
+    base_url='http://localhost:11434',
     model='phi3:3.8b',
     temperature=0.5,
     callback_manager= CallbackManager([StreamingStdOutCallbackHandler()])
 )
 ```
+
 ## Conversation
 
 ### Prompt template
@@ -150,7 +151,7 @@ Pour cela, ajoutez l'import suivant:
 from langchain_core.prompts import ChatPromptTemplate
 ```
 
-Déclarer votre template:
+Déclarez un template:
 
 ```python
 prompt = ChatPromptTemplate.from_messages([
@@ -159,14 +160,15 @@ prompt = ChatPromptTemplate.from_messages([
 ])
 ```
 
-Langchain permet de creér des `chain`, un enchainement de fonction. Les fonctions vont consommer les réponses des fonctions précédentes. 
+Langchain permet de creér des `chain`, un enchaînement de fonction. Les fonctions vont consommer les réponses des fonctions précédentes.
 
 Nous pouvons créer notre `chain` via le code suivant:
 
 ```python
 chain = prompt | llm
 ```
-Ce code est écrit avec LCEL (LangChain Expression Language). 
+
+Ce code est écrit avec LCEL (LangChain Expression Language).
 
 L'invocation de notre modèle se fait maintenant en appelant:
 
@@ -174,11 +176,10 @@ L'invocation de notre modèle se fait maintenant en appelant:
 print(chain.invoke({'regexp': '^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$'}).content)
 ```
 
-
 ## One Shot / Few Shot learning
 
-Il existe différente technique permettant de contextualiser les réponses. Une première technique consiste à passer des 
-exemples de questions / réponses dans le contexte. 
+Il existe différentes techniques permettant de contextualiser les réponses. Une première technique consiste à passer des
+exemples de question / réponse dans le contexte.
 On peut faire notre propre template de prompt ou utiliser directement un prompt pré-configuré par LangChain:
 
 ```python
@@ -195,7 +196,7 @@ examples = [
 ]
 ```
 
-On créé ensuite un template de prompt pour y injecter nos exemple:
+On crée ensuite un template de prompt pour y injecter nos exemples:
 
 ```python
 example_prompt = ChatPromptTemplate.from_messages([
@@ -204,7 +205,7 @@ example_prompt = ChatPromptTemplate.from_messages([
 ])
 ```
 
-Initialiser le template contenant tous les exemples ainsi que la question:
+Initialisez le template contenant tous les exemples ainsi que la question:
 
 ```python
 few_shot_prompt = FewShotChatMessagePromptTemplate(
@@ -213,7 +214,7 @@ few_shot_prompt = FewShotChatMessagePromptTemplate(
 )
 ```
 
-Une fois le prompt créé, on peut assembler nos exemples dans un prompt final: 
+Une fois le prompt créé, on peut assembler nos exemples dans un prompt final:
 
 ```python
 final_prompt = ChatPromptTemplate.from_messages([
@@ -232,11 +233,10 @@ chain = final_prompt | llm
 print(chain.invoke({'input': 'lion'}).content)
 ```
 
-
 ## Prompt pré-configuré
 
-Langchain nous propose un ensemble de pré-configuré. Dans cet exemple, nous allons utiliser la `chain`: `load_summarize_data`
-qui n'ait rien d'autre qu'un template de prompt:
+Langchain nous propose un ensemble de prompts pré-configurés. Dans cet exemple, nous allons utiliser la `chain`: `load_summarize_data`
+qui n'est rien d'autre qu'un template de prompt:
 
 ```
 prompt_template = """Write a concise summary of the following:
@@ -244,7 +244,7 @@ prompt_template = """Write a concise summary of the following:
 CONCISE SUMMARY:"""
 ```
 
-### Résumé d'un texte: 
+### Résumé d'un texte:
 
 Pour résumer un texte, on peut se baser sur la fonction `load_summarize_data`
 
@@ -252,15 +252,15 @@ Pour résumer un texte, on peut se baser sur la fonction `load_summarize_data`
 from langchain.chains.summarize import load_summarize_chain
 ```
 
-L'utilisation de cette `chain` ce fait de la façon suivante:
+L'utilisation de cette `chain` se fait de la façon suivante:
 
 ```python
 chain = load_summarize_chain(llm, chain_type="refine")
 ```
 
-En plus de fournir des prompt pré-enregistré, LangChain fournit également un ensemble de classe utilitaire permettant de charger différent type de données: JSON, CSV, lien web, ...
+En plus de fournir des prompts pré-enregistrés, LangChain fournit également un ensemble de classes utilitaires permettant de charger différents types de données: JSON, CSV, lien web, ...
 
-Pour notre example, nous allons utiliser le `WebBaseLoader`
+Pour notre exemple, nous allons utiliser le `WebBaseLoader`
 
 ```python
 from langchain_community.document_loaders import WebBaseLoader
@@ -274,19 +274,18 @@ docs = loader.load()
 print(chain.invoke(docs).content)
 ```
 
-Cette technique fonctionne pour les documents ayant une taille suffisamment petite pour injecter dans le contexte du LLM. 
+Cette technique fonctionne pour les documents dont le contenu a une taille suffisamment petite pour être injecté dans le contexte du LLM.
 
 Dans le cas d'un long document, il sera nécéssaire de découper notre document. On peut s'orienter vers des solutions de type RAG
 
-
-## Et si il avait un peu de mémoire ? 
+## Et si il avait un peu de mémoire ?
 
 Par défaut, chaque invocation au modèle se comportera comme si c'était la première.
-Afin de simuler une conversation, il est possible de configurer une mémoire à notre modèle. 
+Afin de simuler une conversation, il est possible de configurer une mémoire à notre modèle.
 
-Pour ce faire, on peut utiliser un template de prompt qui va assembler un historique de nos message à chaque nouvelle inférence. 
+Pour se faire, on peut utiliser un template de prompt qui va assembler un historique de nos message à chaque nouvelle inférence.
 
-Langchain nous propose un objet permettant de gérer un historique de message:
+Langchain nous propose un objet permettant de gérer un historique de messages :
 
 ```python
 from langchain_community.chat_message_histories import ChatMessageHistory
@@ -296,23 +295,23 @@ chat_messages.add_user_message('Can you translate I love programming in French')
 chat_messages.add_ai_message("J'adore la programmation")
 ```
 
-Comme pour résumé un document, langchain nous propose une `chain` pré-configuré permettant d'inclure une memoire. 
+Comme pour résumer un document, langchain nous propose une `chain` pré-configurée permettant d'inclure une memoire.
 
-Pour cela, nous allons nous basé sur la classe`ConversationChain`, et sur la classe `ConversationBufferMemory` pour la gestion de la mémoire
+Pour cela, nous allons nous baser sur la classe`ConversationChain`, et sur la classe `ConversationBufferMemory` pour la gestion de la mémoire
 
 ```python
 from langchain.chains import ConversationChain
 from langchain.memory import ConversationBufferMemory
 ```
 
-La conversation et la mémoire peuvent être instanciés de la façon suivante:
+La conversation et la mémoire peuvent être instanciées de la façon suivante:
 
 ```python
 memory = ConversationBufferMemory(chat_memory=chat_messages)
 conversation_chain = ConversationChain(llm=llm, memory=memory)
 ```
 
-Et inféré via l'appel à la méthode `predict`:
+Et l'inférence se fera via l'appel de la méthode `predict`:
 
 ```python
 conversation_chain.predict(input="what was my previous question ?")
@@ -322,7 +321,7 @@ conversation_chain.predict(input="what was my previous question ?")
 
 Pour pouvoir échanger avec votre assistant de manière graphique nous vous proposons de créer une interface avec [Streamlit](https://streamlit.io/).
 
-Créez un fichier dans `src/ui/py` avec ce contenu : 
+Créez un fichier dans `src/ui.py` avec ce contenu :
 
 ```python
 import streamlit as st
@@ -444,32 +443,33 @@ with tab_memory:
 ## Retrieval augmented generation
 
 Maintenant que l'on a quelque chose qui fonctionne, l'objectif va être de donner de plus en plus de contexte à notre modèle
-afin qu'il génère des réponses associées à notre besoins. 
+afin qu'il génère des réponses associées à notre besoin.
 
-Cette étape est aussi cruciale dès lors qu'un LLM est limité en terme de nombre de tokens fournis en entrée. Le RAG mais aussi le résumé de l'historique sont des méthodes pour contourner cette limitation.
+Cette étape est aussi cruciale dès lors qu'un LLM est limité en terme de nombre de tokens fournis en entrée. La RAG mais aussi le résumé de l'historique sont des méthodes pour contourner cette limitation.
 
-Pour mettre en place du RAG, deux grandes étapes sont nécessaires: 
-* Dans un premier temps, la **préparation** des données : indexer les données dans une base de données (avec un support vectoriel)
-    * Cela nécessite d'extraire les données des documents
-    * Découper ces données en `chunk` de taille suffisante pour contenir des parties de documents 
-    * Calculer les `embeddings` associés à chacun de ces chunks
+Pour mettre en place une RAG, deux grandes étapes sont nécessaires:
 
-* Au moment de la recherche:
-    * Calculer les embeddings liés à la recherche 
-    * Chercher les chunks associés à cette recherche
-    * Générer une réponse basée sur le contenu des documents 
+- Dans un premier temps, la **préparation** des données : indexer les données dans une base de données (avec un support vectoriel)
+
+  - Cela nécessite d'extraire les données des documents
+  - Découper ces données en `chunk` de taille suffisante pour contenir des parties de documents
+  - Calculer les `embeddings` associés à chacun de ces chunks
+
+- Au moment de la recherche:
+  - Calculer les embeddings liés à la recherche
+  - Chercher les chunks associés à cette recherche
+  - Générer une réponse basée sur le contenu des documents
 
 ![Architecture RAG](image/RAG_schema.png)
-
 
 ### Génération d'embedding
 
 Pour construire notre base de connaissance, nous allons devoir convertir nos documents / données en embeddings (représentation vectorielle d'un texte). Cette étape nous permettra ainsi de faire de la comparaison entre le vecteur représentant la requête utilisateur et les parties de documents pertinentes.
 
 Il y a différentes librairies permettant de générer des embeddings. Concrètement, on utilise un sous-ensemble de l'architecture d'un LLM.
-LangChain fournit différentes intégration pour générer les embeddings en fonction du model utilisé. 
+LangChain fournit différentes intégrations pour générer les embeddings en fonction du model utilisé.
 
-Dans notre cas, nous allons utiliser le code suivant: 
+Dans notre cas, nous allons utiliser le code suivant:
 
 ```python
 from langchain_community.embeddings import OllamaEmbeddings
@@ -485,24 +485,26 @@ text = 'this is a sentence'
 text_embedding = embeddings_generator.embed_query(text)
 
 # Affichage du début de l'embedding
-print(text_embedding[:5]) 
+print(text_embedding[:5])
 ```
-*Remarque : le premier run est assez lent, les suivants seront plus rapides*
 
-Les embeddings ayant un taille maximale (dépendant du model), l'indexation d'un document complet nécessite le découpage 
-du document en `chunk`. 
-Pour cela, LangChain met à disposition un ensemble de classe permettant de faire du découpage en fonction de critères (nombre de caractères, séparateurs HTML, séparateur Markdown). 
+_Remarque : le premier run est assez lent, les suivants seront plus rapides_
 
-Une fois les embeddings généré, on peut les insérer dans une base de données vectorielle, il en existe plusieurs:
+Les embeddings ayant une taille maximale (dépendant du modèle), l'indexation d'un document complet nécessite le découpage
+du document en `chunk`.
+Pour cela, LangChain met à disposition un ensemble de classes permettant de faire du découpage en fonction de critères (nombre de caractères, séparateurs HTML, séparateurs Markdown).
 
-* ChromaDB
-* FAISS
-* Lance
-* Qdrant
+Une fois les embeddings générés, on peut les insérer dans une base de données vectorielle, il en existe plusieurs:
 
-Pour ce codelab, nous allons utiliser **Qdrant**. 
+- ChromaDB
+- FAISS
+- Lance
+- Qdrant
+- Pinecone
 
-Première étape, installer la base Qdrant en local : 
+Pour ce codelab, nous allons utiliser **Qdrant**.
+
+Première étape, installer la base Qdrant en local :
 
 ```shell
 docker pull qdrant/qdrant
@@ -511,15 +513,16 @@ docker run -d -p 6333:6333 qdrant/qdrant
 
 Avant de pouvoir indexer un document, il faut le charger. Langchain fournit un ensemble de `Loader` permettant de charger tout type de documents (PDF, texte, site web, ...)
 
-Dans notre cas, nous allons nous baser sur des fichiers PDF. 
+Dans notre cas, nous allons nous baser sur des fichiers PDF.
 
-Nous allons d'abord écrire le chargement du document dans la base vectorielle. Créez pour cela un fichier `indexer.py`
-Pour charger un document, on peut utiliser le code suivant: 
+Nous allons d'abord écrire le code de chargement du document dans la base vectorielle.
+Créez pour cela un fichier `indexer.py`.
+Pour charger un document, on peut utiliser le code suivant:
 
 ```python
 from langchain_community.document_loaders.pdf import UnstructuredPDFLoader
 
-document = UnstructuredPDFLoader("data/Nantes.pdf", strategy="fast").load() 
+document = UnstructuredPDFLoader("data/Nantes.pdf", strategy="fast").load()
 ```
 
 Une fois le document chargé, on peut le découper grace à un `TextSplitter`:
@@ -538,7 +541,7 @@ text_splitter = CharacterTextSplitter(
 docs = text_splitter.split_documents(document)
 ```
 
-Puis les indexer via: 
+Puis les indexer via:
 
 ```python
 from langchain_community.vectorstores.qdrant import Qdrant
@@ -554,7 +557,8 @@ Qdrant.from_documents(
                 force_recreate=True
             )
 ```
-*Remplacez `<INDEX_NAME>` par le nom de votre choix pour votre collection d'indexation*
+
+_Remplacez `<INDEX_NAME>` par le nom de votre choix pour votre collection d'indexation_
 
 ### Utilisation du RAG
 
@@ -572,9 +576,9 @@ qdrant_client = QdrantClient(
     )
 ```
 
-Ce client peut ensuite être wrapper dans l'abstraction LangChain
+Ce client peut ensuite être wrappé dans l'abstraction LangChain
 
-Remplacez `<INDEX_NAME>` par le nom de la collection saisie précédemment
+Remplacez `<INDEX_NAME>` par le nom de la collection saisi précédemment
 
 ```python
 from langchain_community.vectorstores.qdrant import Qdrant
@@ -599,7 +603,7 @@ rag = RetrievalQAWithSourcesChain.from_chain_type(
 )
 ```
 
-Le RAG peut ensuite être appelé avec une question de votre choix, de la façon suivante:
+La RAG peut ensuite être appelée avec une question de votre choix, de la façon suivante:
 
 ```python
 response = rag.invoke({"question": "How many person live in Nantes ?"})
