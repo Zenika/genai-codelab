@@ -1,4 +1,4 @@
-# CodeLab GenAI Zenika 
+# CodeLab GenAI Zenika
 
 Bienvenue dans ce CodeLab autour de la GenAI.
 
@@ -15,7 +15,7 @@ Pour ce CodeLab, nous allons principalement utiliser deux librairies / programme
 
 Côté modèle, nous allons utiliser [Mistral 7B](https://mistral.ai/) un modèle générique de génération de texte.
 
-Le CodeLab peut être réalisé dans différents langages: 
+Le CodeLab peut être réalisé dans différents langages:
 
 - [Python](./python/README.md)
 - [Java](./java/README.md)
@@ -26,21 +26,21 @@ Tout est décrit [ici](./deployment/README.md)
 
 ## Pré-requis matériel
 
-En fonction de la taille du modèle choisit, une certaine configuration mémoire est requise:
-* Pour un modèlé à 7 milliards de paramètres (7B) : 8Go de RAM
-* Pour un modèlé à 13 milliards de paramètres (13B) : 16Go de RAM
-* Pour un modèlé à 70 milliards de paramètres (70B) : 64Go de RAM
+En fonction de la taille du modèle choisi, une certaine configuration mémoire est requise:
 
+- Pour un modèle à 7 milliards de paramètres (7B) : 8Go de RAM
+- Pour un modèle à 13 milliards de paramètres (13B) : 16Go de RAM
+- Pour un modèle à 70 milliards de paramètres (70B) : 64Go de RAM
 
-## Installation 
+## Installation
 
 Afin de pouvoir faire des inférences en local, il est nécéssaire :
 
-- Installer [Ollama](https://ollama.com/download)
+- D'installer [Ollama](https://ollama.com/download)
 - De récupérer un modèle depuis la librairie : https://ollama.com/library
-- Pour les Tps, nous allons nous baser sur le modèle `openhermes`
+- De se baser sur le modèle `openhermes`, pour les TPs
 
-Pour télécharger un modèle, cela peut être fait de deux façon: 
+Pour télécharger un modèle, cela peut être fait de deux façons:
 
 - En ligne de commande: `ollama pull openhermes`
 - Via l'API: `curl -XPOST http://localhost:11434/api/pull -d '{"name": "openhermes"}'`
